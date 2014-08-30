@@ -7,6 +7,78 @@
     "image": "ruby.jpg",
     "partners": [
       {
+        "site" : "GoRails",
+        "site_url": "https://gorails.com/",
+        "image": "gorails.jpg",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Rails 4.2 Introduction",
+            "description": "A quick look at the new features of Rails 4.2 in the first beta that was recently released.",
+            "duration": "6:04",
+            "level": "i",
+            "url": "https://gorails.com/episodes/rails-4-2-introduction"
+          },
+          {
+            "title": "Ruby Version Managers",
+            "description": "Techniques for installing Ruby and managing different versions between applications.",
+            "duration": "4:15",
+            "level": "b",
+            "url": "https://gorails.com/episodes/ruby-version-managers"
+          },
+          {
+            "title": "A look into Routing",
+            "description": "Dive into routing more deeply than just basic resources and writing routes from scratch.",
+            "duration": "9:57",
+            "level": "i",
+            "url": "https://gorails.com/episodes/a-look-into-routing"
+          },
+          {
+            "title": "Rails Application Structure",
+            "description": "A look into the files and folders inside every Rails application and how they fit together.",
+            "duration": "14:03",
+            "level": "i",
+            "url": "https://gorails.com/episodes/rails-application-structure"
+          },
+          {
+            "title": "User Authentication with Devise",
+            "description": "A look into user accounts, registration, login, forgot your password, and more.",
+            "duration": "19:05",
+            "level": "a",
+            "url": "https://gorails.com/episodes/user-authentication-with-devise"
+          },
+          {
+            "title": "File Uploading with Carrierwave",
+            "description": "Using Rails to upload files manually and how you can do it even cleaner using Carrierwave.",
+            "duration": "23:22",
+            "level": "a",
+            "url": "https://gorails.com/episodes/file-uploading-with-carrierwave"
+          },
+          {
+            "title": "Pagination with will_paginate",
+            "description": "A look into how pagination works from scratch and how to use will_paginate.",
+            "duration": "9:40",
+            "level": "i",
+            "url": "https://gorails.com/episodes/pagination-with-will-paginate"
+          },
+          {
+            "title": "Pretty urls with FriendlyID",
+            "description": "Techniques for taking your database models and using attributes to generate pretty urls.",
+            "duration": "9:40",
+            "level": "i",
+            "url": "https://gorails.com/episodes/pretty-urls-with-friendly-id"
+          },
+          {
+            "title": "The Params Hash",
+            "description": "A glimpse into the 'magic' behind the params hash and the various ways it gets populated.",
+            "duration": "15:51",
+            "level": "i",
+            "url": "https://gorails.com/episodes/the-params-hash"
+          }
+        ]
+      },
+      {
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
@@ -89,64 +161,6 @@
             "duration": "3:17",
             "level": "a",
             "url": "http://www.rubytapas.com/episodes/135-Rake-MultiTask"
-          }
-        ]
-      },
-      {
-        "site" : "GoRails",
-        "site_url": "https://gorails.com/",
-        "image": "gorails.jpg",
-        "lang": "en",
-        "publish": false,
-        "videos": [
-          {
-            "title": "Ruby Version Managers",
-            "description": "Techniques for installing Ruby and managing different versions between applications.",
-            "duration": "4:15",
-            "level": "b",
-            "url": "https://gorails.com/episodes/ruby-version-managers"
-          },
-          {
-            "title": "Rails Application Structure",
-            "description": "A look into the files and folders inside every Rails application and how they fit together.",
-            "duration": "14:03",
-            "level": "i",
-            "url": "https://gorails.com/episodes/rails-application-structure"
-          },
-          {
-            "title": "User Authentication with Devise",
-            "description": "A look into user accounts, registration, login, forgot your password, and more.",
-            "duration": "19:05",
-            "level": "i",
-            "url": "https://gorails.com/episodes/user-authentication-with-devise"
-          },
-          {
-            "title": "File Uploading with Carrierwave",
-            "description": "Using Rails to upload files manually and how you can do it even cleaner using Carrierwave.",
-            "duration": "23:22",
-            "level": "i",
-            "url": "https://gorails.com/episodes/file-uploading-with-carrierwave"
-          },
-          {
-            "title": "Pagination with will_paginate",
-            "description": "A look into how pagination works from scratch and how to use will_paginate.",
-            "duration": "9:40",
-            "level": "i",
-            "url": "https://gorails.com/episodes/pagination-with-will-paginate"
-          },
-          {
-            "title": "Pretty urls with FriendlyID",
-            "description": "Techniques for taking your database models and using attributes to generate pretty urls.",
-            "duration": "9:40",
-            "level": "i",
-            "url": "https://gorails.com/episodes/pretty-urls-with-friendly-id"
-          },
-          {
-            "title": "The Params Hash",
-            "description": "A glimpse into the 'magic' behind the params hash and the various ways it gets populated.",
-            "duration": "15:51",
-            "level": "i",
-            "url": "https://gorails.com/episodes/the-params-hash"
           }
         ]
       },
