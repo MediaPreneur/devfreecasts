@@ -1,0 +1,179 @@
+{
+  "index": {
+    "name": "rails",
+    "subtitle": "Ruby On Rails",
+    "about": "Ruby On Rails is an open-source web framework that's optimized for programmers happiness and sustainable productivity. It lets you write beautiful code by favoring convention over configuration.",
+    "site": "http://rubyonrails.org/",
+    "image": "rails.jpg",
+    "category": "frameworks",
+    "partners": [
+      {
+        "site" : "Code School",
+        "site_url": "https://www.codeschool.com",
+        "lang": "en",
+        "image": "codeschool.jpg",
+        "publish": true,
+        "videos": [
+          {
+            "title": "ActiveRecord Finders",
+            "description": "Let's learn some new tips about ActiveRecord Finders for Rails 4.",
+            "duration": "5:44",
+            "level": "i",
+            "url": "http://rails4.codeschool.com/videos#rails4-9"
+          },
+          {
+            "title": "ActiveModel",
+            "description": "In this episode we will look into ActiveModel class and when to use it.",
+            "duration": "6:31",
+            "level": "i",
+            "url": "http://rails4.codeschool.com/videos#rails4-16"
+          },
+          {
+            "title": "Routes, Ruby 1.9.3 and ThreadSafety",
+            "description": "What's new into Routes, Ruby 1.9.3 and ThreadSafety in Rails 4.",
+            "duration": "7:11",
+            "level": "a",
+            "url": "http://rails4.codeschool.com/videos#rails4-1"
+          },
+          {
+            "title": "Strong Parameters, Filters and Remote forms",
+            "description": "Let's take a look inside these news Rails features: Strong Parameters, Filters and Remote forms.",
+            "duration": "6:01",
+            "level": "a",
+            "url": "http://rails4.codeschool.com/videos#rails4-23"
+          },
+          {
+            "title": "Filters, Session, Custom Flash types",
+            "description": "Let's learn what changes into Filters, Session, Custom Flash types in Rails 4.",
+            "duration": "4:03",
+            "level": "i",
+            "url": "http://rails4.codeschool.com/videos#rails4-27"
+          },
+          {
+            "title": "Views",
+            "description": "In this video let's see some news changes into Rails Views.",
+            "duration": "3:09",
+            "level": "i",
+            "url": "http://rails4.codeschool.com/videos#rails4-29"
+          },
+          {
+            "title": "Testing",
+            "description": "In this video let's see the news features into native Rails test framework.",
+            "duration": "3:39",
+            "level": "i",
+            "url": "http://rails4.codeschool.com/videos#rails4-34"
+          },
+          {
+            "title": "ETags",
+            "description": "In this episode you will learn how to handle with ETags.",
+            "duration": "5:18",
+            "level": "a",
+            "url": "http://rails4.codeschool.com/videos#rails4-38"
+          },
+          {
+            "title": "Dalli and Cache Digests",
+            "description": "Let's learn about caching using Dalli and Cache Digests into Rails 4.",
+            "duration": "9:25",
+            "level": "a",
+            "url": "http://rails4.codeschool.com/videos#rails4-42"
+          },
+          {
+            "title": "Streaming and Turbolinks",
+            "description": "Let's learn how to use Streaming and Turbolinks to boost your Rails app.",
+            "duration": "9:37",
+            "level": "i",
+            "url": "http://rails4.codeschool.com/videos#rails4-47"
+          }
+        ]
+      },
+      {
+        "site" : "GoRails",
+        "site_url": "https://gorails.com/",
+        "image": "gorails.jpg",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Rails 4.2 Introduction",
+            "description": "A quick look at the new features of Rails 4.2 in the first beta that was recently released.",
+            "duration": "6:04",
+            "level": "i",
+            "url": "https://gorails.com/episodes/rails-4-2-introduction"
+          },
+          {
+            "title": "A look into Routing",
+            "description": "Dive into routing more deeply than just basic resources and writing routes from scratch.",
+            "duration": "9:57",
+            "level": "i",
+            "url": "https://gorails.com/episodes/a-look-into-routing"
+          },
+          {
+            "title": "Rails Application Structure",
+            "description": "A look into the files and folders inside every Rails application and how they fit together.",
+            "duration": "14:03",
+            "level": "i",
+            "url": "https://gorails.com/episodes/rails-application-structure"
+          },
+          {
+            "title": "User Authentication with Devise",
+            "description": "A look into user accounts, registration, login, forgot your password, and more.",
+            "duration": "19:05",
+            "level": "a",
+            "url": "https://gorails.com/episodes/user-authentication-with-devise"
+          },
+          {
+            "title": "File Uploading with Carrierwave",
+            "description": "Using Rails to upload files manually and how you can do it even cleaner using Carrierwave.",
+            "duration": "23:22",
+            "level": "a",
+            "url": "https://gorails.com/episodes/file-uploading-with-carrierwave"
+          },
+          {
+            "title": "Pagination with will_paginate",
+            "description": "A look into how pagination works from scratch and how to use will_paginate.",
+            "duration": "9:40",
+            "level": "i",
+            "url": "https://gorails.com/episodes/pagination-with-will-paginate"
+          },
+          {
+            "title": "Pretty urls with FriendlyID",
+            "description": "Techniques for taking your database models and using attributes to generate pretty urls.",
+            "duration": "9:40",
+            "level": "i",
+            "url": "https://gorails.com/episodes/pretty-urls-with-friendly-id"
+          }
+        ]
+      },
+      {
+        "site" : "RubyTapas",
+        "site_url": "http://www.rubytapas.com",
+        "lang": "en",
+        "image": "rubytapas.jpg",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Rake",
+            "description": "Today we begin a series on the Rake build tool. We'll be getting into some powerful, lesser-known features as we continue on; but we'll start out with a quick review of Rake basics.",
+            "duration": "5:13",
+            "level": "b",
+            "url": "http://www.rubytapas.com/episodes/129-Rake"
+          },
+          {
+            "title": "Rake Rules",
+            "description": "In this episode we learn how to write advanced Rake rules which programatically determine the appropriate prerequisites for a given target file.",
+            "duration": "5:24",
+            "level": "i",
+            "url": "http://www.rubytapas.com/episodes/131-Rake-Rules"
+          },
+          {
+            "title": "Rake MultiTask",
+            "description": "In this, the final (for now) episode of the Rake miniseries, we take a look at how to speed up Rake runs by taking advantage of multiple cores.",
+            "duration": "3:17",
+            "level": "a",
+            "url": "http://www.rubytapas.com/episodes/135-Rake-MultiTask"
+          }
+        ]
+      }
+    ]
+  }
+}

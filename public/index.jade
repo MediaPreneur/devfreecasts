@@ -1,30 +1,22 @@
 section.row
-  h3.center #{description}
+  h4.center #{description}
+div.row
+  div.col-sm-3
+    button(class="btn btn-block btn-primary", data-dfc-category="", data-dfc="platform") <i class="icon-video"></i>&nbsp;All categories
+    br
+  div.col-sm-3
+    button(class="btn btn-block btn-primary", data-dfc-category="languages", data-dfc="platform") <i class="icon-video"></i>&nbsp;Dev languages
+    br
+  div.col-sm-3
+    button(class="btn btn-block btn-primary", data-dfc-category="frameworks", data-dfc="platform") <i class="icon-video"></i>&nbsp;Dev frameworks
+    br
+  div.col-sm-3
+    button(class="btn btn-block btn-primary", data-dfc-category="devtools", data-dfc="platform") <i class="icon-video"></i>&nbsp;Dev tools
+    br
+section.row(data-dfc-url="#{root_url[environment]}api/menu.json", data-dfc-template="menu")
+  div.result-status
+    h3 Loading...
 section.row
-  - total_free_casts = 0
-  - total_published_platforms = 0
-  for platform in platforms
-    - total_videos = 0
-    - category = public[platform]._data.index
-    - platform_is_published = false
-    for partner in category.partners
-      if partner.publish
-        - total_videos = total_videos + partner.videos.length
-        - platform_is_published = true
-    if total_videos
-      div.col-sm-6.col-md-4
-        div.jumbotron
-          figure.jumbotron-photo
-            a(href="#{root_url[environment]}#{platform}")
-              img(src="#{root_url[environment]}assets/images/#{category.image}" width="350" height="195")
-          article.jumbotron-contents
-            p.center
-              a(href="#{root_url[environment]}#{platform}" class="btn btn-block btn-primary") <i class="icon-video"></i>&nbsp;#{category.subtitle} (#{total_videos} videos)
-    - total_free_casts = total_videos + total_free_casts
-    if platform_is_published
-      - total_published_platforms = total_published_platforms + 1
-section.row
-  p.center <strong>#{total_published_platforms}</strong> platforms and <strong>#{total_free_casts}</strong> freecasts
   != partial("_shared/social_buttons")
 if environment == "production"
   section.row

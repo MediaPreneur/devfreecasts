@@ -5,6 +5,7 @@
     "about": "Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.",
     "site": "https://www.ruby-lang.org",
     "image": "ruby.jpg",
+    "category": "languages",
     "partners": [
       {
         "site" : "GoRails",
@@ -14,60 +15,11 @@
         "publish": true,
         "videos": [
           {
-            "title": "Rails 4.2 Introduction",
-            "description": "A quick look at the new features of Rails 4.2 in the first beta that was recently released.",
-            "duration": "6:04",
-            "level": "i",
-            "url": "https://gorails.com/episodes/rails-4-2-introduction"
-          },
-          {
             "title": "Ruby Version Managers",
             "description": "Techniques for installing Ruby and managing different versions between applications.",
             "duration": "4:15",
             "level": "b",
             "url": "https://gorails.com/episodes/ruby-version-managers"
-          },
-          {
-            "title": "A look into Routing",
-            "description": "Dive into routing more deeply than just basic resources and writing routes from scratch.",
-            "duration": "9:57",
-            "level": "i",
-            "url": "https://gorails.com/episodes/a-look-into-routing"
-          },
-          {
-            "title": "Rails Application Structure",
-            "description": "A look into the files and folders inside every Rails application and how they fit together.",
-            "duration": "14:03",
-            "level": "i",
-            "url": "https://gorails.com/episodes/rails-application-structure"
-          },
-          {
-            "title": "User Authentication with Devise",
-            "description": "A look into user accounts, registration, login, forgot your password, and more.",
-            "duration": "19:05",
-            "level": "a",
-            "url": "https://gorails.com/episodes/user-authentication-with-devise"
-          },
-          {
-            "title": "File Uploading with Carrierwave",
-            "description": "Using Rails to upload files manually and how you can do it even cleaner using Carrierwave.",
-            "duration": "23:22",
-            "level": "a",
-            "url": "https://gorails.com/episodes/file-uploading-with-carrierwave"
-          },
-          {
-            "title": "Pagination with will_paginate",
-            "description": "A look into how pagination works from scratch and how to use will_paginate.",
-            "duration": "9:40",
-            "level": "i",
-            "url": "https://gorails.com/episodes/pagination-with-will-paginate"
-          },
-          {
-            "title": "Pretty urls with FriendlyID",
-            "description": "Techniques for taking your database models and using attributes to generate pretty urls.",
-            "duration": "9:40",
-            "level": "i",
-            "url": "https://gorails.com/episodes/pretty-urls-with-friendly-id"
           },
           {
             "title": "The Params Hash",
@@ -140,27 +92,6 @@
             "duration": "5:05",
             "level": "a",
             "url": "http://www.rubytapas.com/episodes/66-Caching-an-API"
-          },
-          {
-            "title": "Rake",
-            "description": "Today we begin a series on the Rake build tool. We'll be getting into some powerful, lesser-known features as we continue on; but we'll start out with a quick review of Rake basics.",
-            "duration": "5:13",
-            "level": "b",
-            "url": "http://www.rubytapas.com/episodes/129-Rake"
-          },
-          {
-            "title": "Rake Rules",
-            "description": "In this episode we learn how to write advanced Rake rules which programatically determine the appropriate prerequisites for a given target file.",
-            "duration": "5:24",
-            "level": "i",
-            "url": "http://www.rubytapas.com/episodes/131-Rake-Rules"
-          },
-          {
-            "title": "Rake MultiTask",
-            "description": "In this, the final (for now) episode of the Rake miniseries, we take a look at how to speed up Rake runs by taking advantage of multiple cores.",
-            "duration": "3:17",
-            "level": "a",
-            "url": "http://www.rubytapas.com/episodes/135-Rake-MultiTask"
           }
         ]
       },

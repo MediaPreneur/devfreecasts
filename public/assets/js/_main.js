@@ -1,8 +1,10 @@
 (function() {
   var toggle = document.querySelector(".navbar-toggle")
     , collapse = document.querySelector(".navbar-collapse")
-    , platform = document.querySelector("[data-platform-url]")
-    , filterVideos = document.querySelectorAll("[data-dfc-videos]")
+    , dfcURL = document.querySelector("[data-dfc-url]")
+    , dfcTemplate = document.querySelector("[data-dfc-template]")
+    , filterCategory = document.querySelectorAll("[data-dfc-category]")
+    , menu = document.querySelectorAll("[data-dfc-menu]")
   ;
 
   toggle.addEventListener("click", function() {
@@ -13,48 +15,59 @@
     }
   });
   
-  for (var i = 0, len = filterVideos.length || 0; i < len; i++) {
-    filterVideos[i].addEventListener("click", function(e) {
+  for (var i = 0, len = filterCategory.length || 0; i < len; i++) {
+    filterCategory[i].addEventListener("click", function(e) {
       var data = JSON.parse(localStorage.getItem('devfreecasts'))
-        , level = e.target.getAttribute("data-dfc-videos")
-        , hasVideos = true
+        , category = e.target.getAttribute("data-dfc-category")
+        , template = dfcTemplate.getAttribute("data-dfc-template")
+        , dfcType = e.target.getAttribute("data-dfc")
+        , hasItems = true
       ;
-      if (level) {
-        var videos = 0;
-        data.partners.forEach(function(partner) {
-          partner.videos = partner.videos.filter(function(video) {
-            return video.level == level;
+      if (dfcType === "video") {
+        if (category) {
+          var items = 0;
+          data.partners.forEach(function(partner) {
+            partner.videos = partner.videos.filter(function(video) {
+              return video.level == category;
+            });
+            items += partner.videos.length;
           });
-          videos += partner.videos.length;
-        });
-        hasVideos = videos > 0;
+          hasItems = items > 0;
+        }
+      } else if (dfcType === "platform") {
+        if (category) {
+          data.platforms = data.platforms.filter(function(platform) {
+            return platform.category == category;
+          });
+          hasItems = data.platforms.length > 0;
+        }
       }
-      if (hasVideos) {
-        platform.innerHTML = DFC.thumb_videos(data);
+      console.log(data);
+      if (hasItems) {
+        dfcTemplate.innerHTML = DFC[template](data);
       } else {
-        platform.innerHTML = "<div class='result-status'><h3>No videos was found here.</h3></div>";
+        dfcTemplate.innerHTML = "<div class='result-status'><h3>Nothing was found here :(</h3></div>";
       }
     });
   }
 
-  var renderPlatform = function() {
-    if (platform) {
-      var url = platform.getAttribute("data-platform-url");
+  var renderTemplate = function() {
+    if (dfcURL && dfcTemplate) {
+      var url = dfcURL.getAttribute("data-dfc-url")
+        , template = dfcTemplate.getAttribute("data-dfc-template")
+      ;
       request = new XMLHttpRequest();
       request.open('GET', url, true);
 
       request.onload = function() {
-        var data = JSON.parse(request.responseText)
-          , template = DFC.thumb_videos(data)
-        ;
-        platform.innerHTML = template;
+        var data = JSON.parse(request.responseText);
+        dfcTemplate.innerHTML = DFC[template](data);
         localStorage.setItem('devfreecasts', request.responseText);
       };
-
       request.send();
     }
   };
 
-  renderPlatform();
+  renderTemplate();
 
 })();

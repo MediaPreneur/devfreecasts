@@ -2,20 +2,20 @@ h2 #{subtitle}
 section
   p #{about}<br>Site: <a href="#{site}" target="_blank">#{site}</a>
 h3 Videos
-div.row
+section.row
   div.col-sm-3
-    button(class="btn btn-block btn-primary", data-dfc-videos="") <i class="icon-video"></i>&nbsp;All videos
+    button(class="btn btn-block btn-primary", data-dfc-category="", data-dfc="video") <i class="icon-video"></i>&nbsp;All videos
     br
   div.col-sm-3
-    button(class="btn btn-block btn-primary", data-dfc-videos="B") <i class="icon-video"></i>&nbsp;Basic videos
+    button(class="btn btn-block btn-primary", data-dfc-category="B", data-dfc="video") <i class="icon-video"></i>&nbsp;Basic videos
     br
   div.col-sm-3
-    button(class="btn btn-block btn-primary", data-dfc-videos="I") <i class="icon-video"></i>&nbsp;Intermediate videos
+    button(class="btn btn-block btn-primary", data-dfc-category="I", data-dfc="video") <i class="icon-video"></i>&nbsp;Intermediate videos
     br
   div.col-sm-3
-    button(class="btn btn-block btn-primary", data-dfc-videos="A") <i class="icon-video"></i>&nbsp;Advanced videos
+    button(class="btn btn-block btn-primary", data-dfc-category="A", data-dfc="video") <i class="icon-video"></i>&nbsp;Advanced videos
     br
 hr
-div.row(data-platform-url="#{root_url[environment]}api/#{name}.json")
+section.row(data-dfc-url="#{root_url[environment]}api/#{name}.json", data-dfc-template="thumb_videos")
   div.result-status
     h3 Loading...

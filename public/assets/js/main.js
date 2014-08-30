@@ -530,6 +530,61 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 })();
 ;this["DFC"] = this["DFC"] || {};
 
+this["DFC"]["menu"] = Handlebars.template(function (Handlebars,depth0,helpers,partials,data) {
+  this.compilerInfo = [4,'>= 1.0.0'];
+helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
+  var buffer = "", stack1, helper, functionType="function", escapeExpression=this.escapeExpression, self=this;
+
+function program1(depth0,data) {
+  
+  var buffer = "", stack1, helper;
+  buffer += "\n    <div class=\"col-sm-6 col-md-4\">\n      <div class=\"jumbotron\">\n        <figure class=\"jumbotron-photo\">\n          <a href=\"";
+  if (helper = helpers.url) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.url); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + "\" title=\"";
+  if (helper = helpers.about) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.about); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + "\" rel=\"me\">\n            <img src=\"";
+  if (helper = helpers.image) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.image); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + "\" width=\"350\" height=\"195\">\n          </a>\n        </figure>\n        <article class=\"jumbotron-contents\">\n          <p class=\"center\">\n            <a href=\"";
+  if (helper = helpers.url) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.url); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + "\" title=\"";
+  if (helper = helpers.about) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.about); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + "\" class=\"btn btn-block btn-primary\">\n              <i class=\"icon-video\"></i>&nbsp;";
+  if (helper = helpers.title) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.title); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + " (";
+  if (helper = helpers.total_videos) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.total_videos); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + " videos)\n            </a>\n          </p>\n        </article>\n      </div>\n    </div>\n  ";
+  return buffer;
+  }
+
+  buffer += "<section class=\"row\">\n  ";
+  stack1 = helpers.each.call(depth0, (depth0 && depth0.platforms), {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data});
+  if(stack1 || stack1 === 0) { buffer += stack1; }
+  buffer += "\n</section>\n<section class=\"row\">\n  <p class=\"center\">\n    <strong>";
+  if (helper = helpers.total_platforms) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.total_platforms); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + "</strong> platforms and <strong>";
+  if (helper = helpers.total_free_casts) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.total_free_casts); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + "</strong> freecasts.\n  </p>\n</section>";
+  return buffer;
+  });
+
 this["DFC"]["thumb_videos"] = Handlebars.template(function (Handlebars,depth0,helpers,partials,data) {
   this.compilerInfo = [4,'>= 1.0.0'];
 helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
@@ -617,8 +672,10 @@ function program2(depth0,data,depth1,depth2) {
   });;(function() {
   var toggle = document.querySelector(".navbar-toggle")
     , collapse = document.querySelector(".navbar-collapse")
-    , platform = document.querySelector("[data-platform-url]")
-    , filterVideos = document.querySelectorAll("[data-dfc-videos]")
+    , dfcURL = document.querySelector("[data-dfc-url]")
+    , dfcTemplate = document.querySelector("[data-dfc-template]")
+    , filterCategory = document.querySelectorAll("[data-dfc-category]")
+    , menu = document.querySelectorAll("[data-dfc-menu]")
   ;
 
   toggle.addEventListener("click", function() {
@@ -629,48 +686,59 @@ function program2(depth0,data,depth1,depth2) {
     }
   });
   
-  for (var i = 0, len = filterVideos.length || 0; i < len; i++) {
-    filterVideos[i].addEventListener("click", function(e) {
+  for (var i = 0, len = filterCategory.length || 0; i < len; i++) {
+    filterCategory[i].addEventListener("click", function(e) {
       var data = JSON.parse(localStorage.getItem('devfreecasts'))
-        , level = e.target.getAttribute("data-dfc-videos")
-        , hasVideos = true
+        , category = e.target.getAttribute("data-dfc-category")
+        , template = dfcTemplate.getAttribute("data-dfc-template")
+        , dfcType = e.target.getAttribute("data-dfc")
+        , hasItems = true
       ;
-      if (level) {
-        var videos = 0;
-        data.partners.forEach(function(partner) {
-          partner.videos = partner.videos.filter(function(video) {
-            return video.level == level;
+      if (dfcType === "video") {
+        if (category) {
+          var items = 0;
+          data.partners.forEach(function(partner) {
+            partner.videos = partner.videos.filter(function(video) {
+              return video.level == category;
+            });
+            items += partner.videos.length;
           });
-          videos += partner.videos.length;
-        });
-        hasVideos = videos > 0;
+          hasItems = items > 0;
+        }
+      } else if (dfcType === "platform") {
+        if (category) {
+          data.platforms = data.platforms.filter(function(platform) {
+            return platform.category == category;
+          });
+          hasItems = data.platforms.length > 0;
+        }
       }
-      if (hasVideos) {
-        platform.innerHTML = DFC.thumb_videos(data);
+      console.log(data);
+      if (hasItems) {
+        dfcTemplate.innerHTML = DFC[template](data);
       } else {
-        platform.innerHTML = "<div class='result-status'><h3>No videos was found here.</h3></div>";
+        dfcTemplate.innerHTML = "<div class='result-status'><h3>Nothing was found here :(</h3></div>";
       }
     });
   }
 
-  var renderPlatform = function() {
-    if (platform) {
-      var url = platform.getAttribute("data-platform-url");
+  var renderTemplate = function() {
+    if (dfcURL && dfcTemplate) {
+      var url = dfcURL.getAttribute("data-dfc-url")
+        , template = dfcTemplate.getAttribute("data-dfc-template")
+      ;
       request = new XMLHttpRequest();
       request.open('GET', url, true);
 
       request.onload = function() {
-        var data = JSON.parse(request.responseText)
-          , template = DFC.thumb_videos(data)
-        ;
-        platform.innerHTML = template;
+        var data = JSON.parse(request.responseText);
+        dfcTemplate.innerHTML = DFC[template](data);
         localStorage.setItem('devfreecasts', request.responseText);
       };
-
       request.send();
     }
   };
 
-  renderPlatform();
+  renderTemplate();
 
 })();

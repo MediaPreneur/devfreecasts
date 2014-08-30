@@ -16,9 +16,10 @@
     "utm": "utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts",
     "platforms": ["nodejs", "meteor", "angularjs", 
                   "react", "backbone", "javascript",
-                  "grunt","go", "ruby", 
-                  "elixir", "scala", "grails", 
-                  "vim", "ios","android", 
-                  "chrome-devtools", "php", "java"]
+                  "rails","ruby", "go", 
+                  "grunt", "elixir", "scala", 
+                  "grails", "ios","android", 
+                  "vim", "chrome-devtools", "php", 
+                  "java"]
   }
 }
