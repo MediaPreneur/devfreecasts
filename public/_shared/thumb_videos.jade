@@ -4,16 +4,16 @@ section
 h3 Videos
 section.row
   div.col-sm-3
-    button(class="btn btn-block btn-primary", data-dfc-category="", data-dfc="video") <i class="icon-video"></i>&nbsp;All videos
+    button(class="btn btn-block btn-primary", data-dfc-category="", data-dfc="video", onclick="ga('send', 'event', 'Categories', 'Videos', 'All videos');") <i class="icon-video"></i>&nbsp;All videos
     br
   div.col-sm-3
-    button(class="btn btn-block btn-primary", data-dfc-category="B", data-dfc="video") <i class="icon-video"></i>&nbsp;Basic videos
+    button(class="btn btn-block btn-primary", data-dfc-category="B", data-dfc="video", onclick="ga('send', 'event', 'Categories', 'Videos', 'Basic videos');") <i class="icon-video"></i>&nbsp;Basic videos
     br
   div.col-sm-3
-    button(class="btn btn-block btn-primary", data-dfc-category="I", data-dfc="video") <i class="icon-video"></i>&nbsp;Intermediate videos
+    button(class="btn btn-block btn-primary", data-dfc-category="I", data-dfc="video", onclick="ga('send', 'event', 'Categories', 'Videos', 'Intermediate videos');") <i class="icon-video"></i>&nbsp;Intermediate videos
     br
   div.col-sm-3
-    button(class="btn btn-block btn-primary", data-dfc-category="A", data-dfc="video") <i class="icon-video"></i>&nbsp;Advanced videos
+    button(class="btn btn-block btn-primary", data-dfc-category="A", data-dfc="video", onclick="ga('send', 'event', 'Categories', 'Videos', 'Advanced videos');") <i class="icon-video"></i>&nbsp;Advanced videos
     br
 hr
 section.row(data-dfc-url="#{root_url[environment]}api/#{name}.json", data-dfc-template="thumb_videos")
