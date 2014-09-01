@@ -1,7 +1,7 @@
 {
   "name": "DevFreeCasts",
   "description": "A huge collection of free screencasts for devs",
-  "launch_path": "/devfreecasts/",
+  "launch_path": "/devfreecasts",
   "icons": {
     "128": "/devfreecasts/assets/images/devfreecasts-128.png"
   },
@@ -10,7 +10,6 @@
     "url": "http://udgwebdev.com"
   },
   "default_locale": "en",
-  "appcache_path": "/devfreecasts/cache.manifest",
   "fullscreen": "true",
   "chrome": { "navigation": true }
 }
