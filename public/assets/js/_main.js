@@ -72,7 +72,7 @@
 
   // For Firefox OS Hosted app
   if (!!(navigator.mozApps && navigator.mozApps.installPackage)) {
-    navigator.mozApps.installPackage(window.location.href + "/manifest.webapp");
+    navigator.mozApps.installPackage(window.location.origin + "/devfreecasts/manifest.webapp");
   }
 
 })();
