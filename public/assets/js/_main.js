@@ -70,4 +70,9 @@
 
   renderTemplate();
 
+  // For Firefox OS Hosted app
+  if (!!(navigator.mozApps && navigator.mozApps.installPackage)) {
+    navigator.mozApps.installPackage(window.location.href + "/manifest.webapp");
+  }
+
 })();
