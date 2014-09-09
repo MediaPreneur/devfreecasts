@@ -1,13 +1,11 @@
-<section class="row">
+<div class="row">
   {{#each platforms}}
-    <div class="col-sm-6 col-md-4">
-      <div class="jumbotron">
-        <figure class="jumbotron-photo">
-          <a href="{{url}}" title="{{about}}" rel="me">
-            <img src="{{image}}" width="350" height="195">
-          </a>
-        </figure>
-        <article class="jumbotron-contents">
+    <div class="col-xs-12 col-sm-4 col-md-3">
+      <div class="thumbnail">
+        <a href="{{url}}" title="{{about}}" rel="me">
+          <img src="{{image}}" width="350" height="195">
+        </a>
+        <article class="caption">
           <p class="center">
             <a href="{{url}}" title="{{about}}" class="btn btn-block btn-primary">
               <i class="icon-video"></i>&nbsp;{{title}} ({{total_videos}} videos)
@@ -17,9 +15,9 @@
       </div>
     </div>
   {{/each}}
-</section>
-<section class="row">
+</div>
+<div class="row">
   <p class="center">
     <strong>{{total_platforms}}</strong> platforms and <strong>{{total_free_casts}}</strong> freecasts.
   </p>
-</section>
+</div>
