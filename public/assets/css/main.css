@@ -65,7 +65,7 @@ body{background:#FEFEFE;}.footer-about{text-align:center;color:#FFF;}.header{mar
  *
  *
  */
- @font-face {
+@font-face {
   font-family: 'icons';
   src: url('../font/icons.eot?64868390');
   src: url('../font/icons.eot?64868390#iefix') format('embedded-opentype'),
@@ -86,7 +86,7 @@ body{background:#FEFEFE;}.footer-about{text-align:center;color:#FFF;}.header{mar
 }
 */
  
- [class^="icon-"]:before, [class*=" icon-"]:before {
+[class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "icons";
   font-style: normal;
   font-weight: normal;

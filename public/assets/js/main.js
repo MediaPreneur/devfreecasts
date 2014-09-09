@@ -602,11 +602,11 @@ function program1(depth0,data,depth1) {
 function program2(depth0,data,depth1,depth2) {
   
   var buffer = "", stack1, helper;
-  buffer += "\n    <div class=\"col-xs-12 col-sm-4 col-md-3\">\n      <div class=\"thumbnail\">\n        <a href=\"";
+  buffer += "\n    <div class=\"col-xs-12 col-sm-4 col-md-4\">\n      <div class=\"thumbnail\">\n        <a href=\"";
   if (helper = helpers.url) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.url); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
-    + "\" title=\"";
+    + "\" target=\"_blank\" title=\"";
   if (helper = helpers.title) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.title); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
@@ -652,7 +652,7 @@ function program2(depth0,data,depth1,depth2) {
   if (helper = helpers.url) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.url); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
-    + "\" class=\"btn btn-primary btn-block\" role=\"button\" onclick=\"ga('send', 'event', '"
+    + "\" target=\"_blank\" class=\"btn btn-primary btn-block\" role=\"button\" onclick=\"ga('send', 'event', '"
     + escapeExpression(((stack1 = (depth2 && depth2.subtitle)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + "', '";
   if (helper = helpers.level_title) { stack1 = helper.call(depth0, {hash:{},data:data}); }
@@ -679,10 +679,10 @@ function program2(depth0,data,depth1,depth2) {
   ;
 
   toggle.addEventListener("click", function() {
-    if (collapse.classList.contains("hide")) {
-      collapse.classList.remove("hide");
+    if (collapse.classList.contains("hidden-xs")) {
+      collapse.classList.remove("hidden-xs");
     } else {
-      collapse.classList.add("hide");
+      collapse.classList.add("hidden-xs");
     }
   });
   
@@ -713,7 +713,6 @@ function program2(depth0,data,depth1,depth2) {
           hasItems = data.platforms.length > 0;
         }
       }
-      console.log(data);
       if (hasItems) {
         dfcTemplate.innerHTML = DFC[template](data);
       } else {

@@ -8,10 +8,10 @@
   ;
 
   toggle.addEventListener("click", function() {
-    if (collapse.classList.contains("hide")) {
-      collapse.classList.remove("hide");
+    if (collapse.classList.contains("hidden-xs")) {
+      collapse.classList.remove("hidden-xs");
     } else {
-      collapse.classList.add("hide");
+      collapse.classList.add("hidden-xs");
     }
   });
   
@@ -42,7 +42,6 @@
           hasItems = data.platforms.length > 0;
         }
       }
-      console.log(data);
       if (hasItems) {
         dfcTemplate.innerHTML = DFC[template](data);
       } else {
