@@ -1,5 +1,7 @@
 module.exports = function(grunt) {
 
+  var harp = require("./harp.json");
+
   var config = {
 
     // Clean folders =================================
@@ -107,6 +109,19 @@ module.exports = function(grunt) {
       }
     },
 
+    // Cache Manifest ================================
+    appcache: {
+      options: {
+        basePath: 'www',
+        baseUrl: harp.globals.root_url.production
+      },
+      all: {
+        dest: 'www/manifest.appcache',
+        cache: 'www/**/*',
+        network: '*'
+      }
+    },
+
     // Github Pages ==================================
     "gh-pages": {
       options: {
@@ -124,6 +139,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks("grunt-harp");
   grunt.loadNpmTasks("grunt-env");
   grunt.loadNpmTasks("grunt-execute");
+  grunt.loadNpmTasks("grunt-appcache");
   grunt.loadNpmTasks('grunt-contrib-compress');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-uglify');
@@ -133,5 +149,5 @@ module.exports = function(grunt) {
   
   grunt.registerTask("default",["clean", "env:dev", "handlebars", "execute", "concat", "harp:dev"]);
   grunt.registerTask("serve", ["default"]);
-  grunt.registerTask("deploy", ["clean", "env:prod", "handlebars", "concat", "harp:prod", "execute", "cssmin", "uglify", "compress", "gh-pages"]);
+  grunt.registerTask("deploy", ["clean", "env:prod", "handlebars", "concat", "harp:prod", "execute", "cssmin", "uglify", "compress", "appcache", "gh-pages"]);
 };
