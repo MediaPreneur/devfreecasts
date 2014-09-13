@@ -4,6 +4,9 @@
   "description": "A huge collection of free screencasts for devs",
   "author": "Caio Ribeiro Pereira",
   "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/grunt serve"
+  },
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-appcache": "^0.1.8",

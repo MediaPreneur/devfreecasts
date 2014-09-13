@@ -18,8 +18,8 @@
                   "react", "backbone", "javascript",
                   "rails","ruby", "go", 
                   "grunt", "elixir", "scala", 
-                  "grails", "ios","android", 
-                  "vim", "chrome-devtools", "php", 
-                  "java"]
+                  "python","grails", "php", 
+                  "ios","android", "java",
+                  "vim", "chrome-devtools"]
   }
 }

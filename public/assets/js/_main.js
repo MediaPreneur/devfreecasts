@@ -50,6 +50,10 @@
     });
   }
 
+  var shuffle = function(collection) {
+    collection && collection.sort(function() { return Math.random() - 0.5; });
+  };
+
   var renderTemplate = function() {
     if (dfcURL && dfcTemplate) {
       var url = dfcURL.getAttribute("data-dfc-url")
@@ -60,6 +64,7 @@
 
       request.onload = function() {
         var data = JSON.parse(request.responseText);
+        // shuffle(data.platforms || data.partners);
         dfcTemplate.innerHTML = DFC[template](data);
         localStorage.setItem('devfreecasts', request.responseText);
       };

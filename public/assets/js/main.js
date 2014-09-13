@@ -721,6 +721,10 @@ function program2(depth0,data,depth1,depth2) {
     });
   }
 
+  var shuffle = function(collection) {
+    collection && collection.sort(function() { return Math.random() - 0.5; });
+  };
+
   var renderTemplate = function() {
     if (dfcURL && dfcTemplate) {
       var url = dfcURL.getAttribute("data-dfc-url")
@@ -731,6 +735,7 @@ function program2(depth0,data,depth1,depth2) {
 
       request.onload = function() {
         var data = JSON.parse(request.responseText);
+        // shuffle(data.platforms || data.partners);
         dfcTemplate.innerHTML = DFC[template](data);
         localStorage.setItem('devfreecasts', request.responseText);
       };
