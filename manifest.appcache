@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2014-09-10T12:03:08.155Z
+# rev 1 - 2014-09-13T18:24:10.562Z
 
 CACHE:
 http://caio-ribeiro-pereira.github.io/devfreecasts/404.html
@@ -21,6 +21,7 @@ http://caio-ribeiro-pereira.github.io/devfreecasts/api/menu.json
 http://caio-ribeiro-pereira.github.io/devfreecasts/api/meteor.json
 http://caio-ribeiro-pereira.github.io/devfreecasts/api/nodejs.json
 http://caio-ribeiro-pereira.github.io/devfreecasts/api/php.json
+http://caio-ribeiro-pereira.github.io/devfreecasts/api/python.json
 http://caio-ribeiro-pereira.github.io/devfreecasts/api/rails.json
 http://caio-ribeiro-pereira.github.io/devfreecasts/api/react.json
 http://caio-ribeiro-pereira.github.io/devfreecasts/api/ruby.json
@@ -60,6 +61,7 @@ http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/javascript.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/knpuniversity.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/learnallthenodes.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/meteor.jpg
+http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/neckbeardrepublic.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/newcircle.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/nodecasts.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/nodejs.jpg
@@ -67,6 +69,7 @@ http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/nsscreencast.jp
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/odetocode.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/php.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/pragprogs.jpg
+http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/python.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/rails.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/react.jpg
 http://caio-ribeiro-pereira.github.io/devfreecasts/assets/images/ruby.jpg
@@ -102,6 +105,7 @@ http://caio-ribeiro-pereira.github.io/devfreecasts/manifest.webapp
 http://caio-ribeiro-pereira.github.io/devfreecasts/meteor/index.html
 http://caio-ribeiro-pereira.github.io/devfreecasts/nodejs/index.html
 http://caio-ribeiro-pereira.github.io/devfreecasts/php/index.html
+http://caio-ribeiro-pereira.github.io/devfreecasts/python/index.html
 http://caio-ribeiro-pereira.github.io/devfreecasts/rails/index.html
 http://caio-ribeiro-pereira.github.io/devfreecasts/react/index.html
 http://caio-ribeiro-pereira.github.io/devfreecasts/robots.txt
