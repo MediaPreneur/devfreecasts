@@ -10,8 +10,8 @@
       "a": "Advanced video"
     },
     "root_url": {
-      "development": "http://devfreecasts.org/",
-      "production": "http://caio-ribeiro-pereira.github.io/devfreecasts/"
+      "development": "http://localhost:3000/",
+      "production": "http://devfreecasts.org/"
     },
     "utm": "utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts",
     "platforms": ["nodejs", "meteor", "angularjs", 
