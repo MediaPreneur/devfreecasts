@@ -10,7 +10,7 @@
       "a": "Advanced video"
     },
     "root_url": {
-      "development": "http://localhost:3000/",
+      "development": "http://devfreecasts.org/",
       "production": "http://caio-ribeiro-pereira.github.io/devfreecasts/"
     },
     "utm": "utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts",
