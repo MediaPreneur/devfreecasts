@@ -18,8 +18,3 @@ section.row(data-dfc-url="#{root_url[environment]}api/menu.json", data-dfc-templ
     h3 Loading...
 section.row
   != partial("_shared/social_buttons")
-if environment == "production"
-  section.row
-    div.col-sm-8.col-sm-offset-2
-      div#disqus_thread
-      != partial("_shared/disqus")
