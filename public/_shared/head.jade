@@ -3,6 +3,10 @@ if subtitle
   title #{subtitle} | #{title}
 else
   title #{title}
+script.
+  if (window.location.href.indexOf("http://caio-ribeiro-pereira.github.io") === 0) {
+    window.location.href = "#{root_url[environment]}";
+  }
 meta(name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no")
 meta(http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1")
 meta(name="apple-mobile-web-app-capable" content="yes")
