@@ -6,7 +6,7 @@ module.exports = function(grunt) {
 
     // Clean folders =================================
     clean: {
-      www: ['www']
+      www: ["www"]
     },
 
     // Execute  ======================================
@@ -15,7 +15,7 @@ module.exports = function(grunt) {
         options: {
           module: true
         },
-        src: ['api.js']
+        src: ["api.js"]
       }
     },
 
@@ -26,9 +26,9 @@ module.exports = function(grunt) {
       },
       main: {
         src: [
-          'public/assets/js/_handlebars.runtime.js',
-          'public/assets/js/_templates.js',
-          'public/assets/js/_main.js'
+          "public/assets/js/_handlebars.runtime.js",
+          "public/assets/js/_templates.js",
+          "public/assets/js/_main.js"
         ],
         dest: "public/assets/js/main.js"
       }
@@ -54,10 +54,10 @@ module.exports = function(grunt) {
     // ENV vars ======================================
     env: {
       dev : {
-        NODE_ENV : 'development'
+        NODE_ENV : "development"
       },
       prod: {
-        NODE_ENV : 'production'
+        NODE_ENV : "production"
       }
     },
 
@@ -80,7 +80,7 @@ module.exports = function(grunt) {
           keepSpecialComments: 0
         },
         files: {
-          'www/assets/css/main.css': ['www/assets/css/main.css']
+          "www/assets/css/main.css": ["www/assets/css/main.css"]
         }
       }
     },
@@ -89,7 +89,7 @@ module.exports = function(grunt) {
     uglify: {
       main: {
         files: {
-          'www/assets/js/main.js': ['public/assets/js/main.js']
+          "www/assets/js/main.js": ["public/assets/js/main.js"]
         }
       }
     },
@@ -98,13 +98,13 @@ module.exports = function(grunt) {
     compress: {
       main: {
         options: {
-          mode: 'gzip',
+          mode: "gzip",
           level: 9,
           pretty: true
         },
         files: [
-            {expand: true, flatten: true, src: ['www/assets/js/*.js'], dest: 'www/assets/js', ext: '.gz.js'}
-          , {expand: true, flatten: true, src: ['www/assets/css/*.css'], dest: 'www/assets/css', ext: '.gz.css'}
+            {expand: true, flatten: true, src: ["www/assets/js/*.js"], dest: "www/assets/js", ext: ".gz.js"}
+          , {expand: true, flatten: true, src: ["www/assets/css/*.css"], dest: "www/assets/css", ext: ".gz.css"}
         ]
       }
     },
@@ -112,13 +112,13 @@ module.exports = function(grunt) {
     // Cache Manifest ================================
     appcache: {
       options: {
-        basePath: 'www',
+        basePath: "www",
         baseUrl: harp.globals.root_url.production
       },
       all: {
-        dest: 'www/manifest.appcache',
-        cache: 'www/**/*',
-        network: '*'
+        dest: "www/manifest.appcache",
+        cache: "www/**/*",
+        network: "*"
       }
     },
 
@@ -140,12 +140,12 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks("grunt-env");
   grunt.loadNpmTasks("grunt-execute");
   grunt.loadNpmTasks("grunt-appcache");
-  grunt.loadNpmTasks('grunt-contrib-compress');
-  grunt.loadNpmTasks('grunt-contrib-cssmin');
-  grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.loadNpmTasks('grunt-contrib-concat');
-  grunt.loadNpmTasks('grunt-contrib-clean');
-  grunt.loadNpmTasks('grunt-contrib-handlebars');
+  grunt.loadNpmTasks("grunt-contrib-compress");
+  grunt.loadNpmTasks("grunt-contrib-cssmin");
+  grunt.loadNpmTasks("grunt-contrib-uglify");
+  grunt.loadNpmTasks("grunt-contrib-concat");
+  grunt.loadNpmTasks("grunt-contrib-clean");
+  grunt.loadNpmTasks("grunt-contrib-handlebars");
   
   grunt.registerTask("default",["clean", "env:dev", "handlebars", "execute", "concat", "harp:dev"]);
   grunt.registerTask("serve", ["default"]);
