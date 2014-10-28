@@ -8,6 +8,50 @@
     "category": "frameworks",
     "partners": [
       {
+        "site" : "NG-Conf",
+        "site_url": "http://ng-conf.org/",
+        "lang": "en",
+        "image": "ng-conf.jpg",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Building Realtime Apps With Firebase and Angular",
+            "description": "In this talk you'll learn about how to use Firebase and Angular together and learn why building a modern realtime app will never be the same again.",
+            "duration": "21:08",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=e4yUTkva_FM"
+          },
+          {
+            "title": "Using AngularJS to create iPhone & Android applications with PhoneGap",
+            "description": "This talk will we cover Setup of a PhoneGap (Apache Cordova) project using the AngularJS framework using npm, bower, grunt & cordova. Directory structure for a sample AngularJS application Compilation to iOS with Xcode & Android with Eclipse ADT.",
+            "duration": "21:34",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=wVntVkRLR3M"
+          },
+          {
+            "title": "Angular with Browserify",
+            "description": "This session will introduce Browserify and the CommonJS module format, discuss the benefits they provide, and demonstrate how to utilize those benefits in the context of an Angular app.",
+            "duration": "15:18",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=NTPutZ99XWY"
+          },
+          {
+            "title": "Robotics powering interfaces with AngularJS to the Arduino",
+            "description": "In this talk, we'll discuss the power of the arduino to interface software with the rest of our human experience. We'll discuss the real-time nature of the arduino and how we can surface the sensor data through a real-time interface.",
+            "duration": "20:51",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=MhVgGE-pgEY"
+          },
+          {
+            "title": "Angular Performance",
+            "description": "In this talk, you'll learn some tips to build an optimized angular app, exploring best practices and diagnosing performance problems.",
+            "duration": "24:16",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=zyYpHIOrk_Y"
+          }
+        ]
+      },
+      {
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
