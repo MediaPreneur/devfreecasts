@@ -15,6 +15,20 @@
         "publish": true,
         "videos": [
           {
+            "title": "Protecting against csrf attacks in node",
+            "description": "Last time we saw the anatomy of a Cross-site Request Forgery attack, or CSRF for short. In this episode we'll see how to protect against this attack vector.",
+            "duration": "8:14",
+            "level": "i",
+            "url": "http://www.learnallthenodes.com/episodes/35-protecting-against-csrf-attacks-in-node" 
+          },
+          {
+            "title": "Anatomy of a cross-site request forgery attack",
+            "description": "In today's episode we're going to learn about an attack vector called cross-site request forgery and a means to deal with it.",
+            "duration": "6:04",
+            "level": "i",
+            "url": "http://www.learnallthenodes.com/episodes/34-anatomy-of-a-cross-site-request-forgery-attack" 
+          },
+          {
             "title": "How to structure a Node app",
             "description": "This episode presents a solution, proposing an app structure that has successfully taken some apps from inception to production. We don't build a framework, per se; we just show a way of organizing our app so that everything has a place, and we know where to find what we're looking for.",
             "duration": "17:03",

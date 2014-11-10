@@ -20,6 +20,13 @@
             "duration": "2:19:45",
             "level": "b",
             "url": "http://coderstv.com/video/gabrielhpugliese/LQGRvwAp9tKYTqzZC"
+          },
+          {
+            "title": "Fast coding a website with Meteor",
+            "description": "This screencasts will show some advanced techniques to increase your Meteor app.",
+            "duration": "2:24:06",
+            "level": "a",
+            "url": "http://coderstv.com/video/gabrielhpugliese/JZJwBKCBQBEzocPav"
           }
         ]
       },
@@ -30,6 +37,27 @@
         "lang": "en",
         "publish": true,
         "videos": [
+          {
+            "title": "Using a start script",
+            "description": "Starting Meteor apps with different configurations in development, test and production can be a bit cumbersome. In this video I'll show you a start script that makes starting a Meteor application across different environments easier.",
+            "duration": "6:17",
+            "level": "i",
+            "url": "https://www.eventedmind.com/feed/using-a-start-script"
+          },
+          {
+            "title": "Preview - The New Iron Router Controllers",
+            "description": "Use reactive state and event handlers with the next major version of Iron Router Controllers.",
+            "duration": "8:04",
+            "level": "i",
+            "url": "https://www.eventedmind.com/feed/preview-the-new-iron-router-controllers"
+          },
+          {
+            "title": "Preview - Layouts and Regions in Iron Router",
+            "description": "The new iron:router coming in a few weeks has better support for layouts and dynamic regions. In this video, from the Using Iron Router Class coming soon, shows you around some of these features.",
+            "duration": "7:06",
+            "level": "i",
+            "url": "https://www.eventedmind.com/feed/preview-layouts-and-regions-in-iron-router"
+          },
           {
             "title": "What is Meteor?",
             "description": "I'll illustrate the key components on the client (browser) and the server that make Meteor a full-stack framework. This video will provide you a mental map for learning Meteor in depth.",

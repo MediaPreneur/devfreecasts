@@ -105,6 +105,13 @@
         "publish": true,
         "videos": [
           {
+            "title": "Deploying Web Apps to Heroku",
+            "description": "Nate covers deploying web apps to Heroku using the heroku CLI and git.",
+            "duration": "6:00",
+            "level": "i",
+            "url": "https://gophercasts.io/lessons/10-deploying-web-apps-to-heroku"
+          },
+          {
             "title": "Getting Started with Go",
             "description": "How to setup your environment and write a Hello World application using the Go programming language.",
             "duration": "3:14",

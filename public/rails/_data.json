@@ -94,6 +94,41 @@
         "publish": true,
         "videos": [
           {
+            "title": "Consuming an API Using HTTParty and Creating a Gem",
+            "description": "Learn how to use HTTParty to consume an API and package your library into a gem.",
+            "duration": "24:16",
+            "level": "i",
+            "url": "https://gorails.com/episodes/consuming-an-api-using-httparty-and-creating-a-gem"
+          },
+          {
+            "title": "Forum Series: Architecture",
+            "description": "The first part of the Forum series, we talk about how the database and structure of the forum is designed.",
+            "duration": "16:34",
+            "level": "i",
+            "url": "https://gorails.com/episodes/forum-architecture"
+          },
+          {
+            "title": "Forum Series: Nested Attributes and fields_for",
+            "description": "Learn how to use accepts_nested_attributes_for and fields_for to create forms that include associated models in them.",
+            "duration": "9:18",
+            "level": "i",
+            "url": "https://gorails.com/episodes/forum-nested-attributes-and-fields-for"
+          },
+          {
+            "title": "Forum Series: Email Notifications, deliver_later, and Previews",
+            "description": "Learn how to send email notifications to users with Rails 4.2 ActionMailer, deliver_later, and email previews.",
+            "duration": "20:33",
+            "level": "a",
+            "url": "https://gorails.com/episodes/forum-notification-emails-and-previews"
+          },
+          {
+            "title": "Forum Series: Time Zones using the local_time Gem",
+            "description": "A look into times, timezones, and how to handle it better with javascript.",
+            "duration": "12:42",
+            "level": "i",
+            "url": "https://gorails.com/episodes/forum-time-zones-with-local_time"
+          },
+          {
             "title": "Rails 4.2 Introduction",
             "description": "A quick look at the new features of Rails 4.2 in the first beta that was recently released.",
             "duration": "6:04",
