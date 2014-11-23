@@ -54,7 +54,7 @@
       {
         "site" : "egghead",
         "site_url": "https://egghead.io",
-        "image": "egghead.jpg",
+        "image": "egghead-angular.png",
         "lang": "en",
         "publish": true,
         "videos": [
