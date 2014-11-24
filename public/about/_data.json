@@ -33,6 +33,8 @@
       ,{"name": "Go Rails", "url": "https://gorails.com"}
       ,{"name": "Code School", "url": "https://www.codeschool.com/"}
       ,{"name": "Mahdi Yusuf", "url": "http://neckbeardrepublic.com/"}
+      ,{"name": "Nodevember", "url": "http://nodevember.org"}
+      ,{"name": "NG-Conf", "url": "http://ng-conf.org"}
     ] 
   }
 }

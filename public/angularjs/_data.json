@@ -9,7 +9,7 @@
     "partners": [
       {
         "site" : "NG-Conf",
-        "site_url": "http://ng-conf.org/",
+        "site_url": "http://ng-conf.org",
         "lang": "en",
         "image": "ng-conf.jpg",
         "publish": true,
@@ -54,7 +54,7 @@
       {
         "site" : "egghead",
         "site_url": "https://egghead.io",
-        "image": "egghead-angular.png",
+        "image": "egghead.jpg",
         "lang": "en",
         "publish": true,
         "videos": [

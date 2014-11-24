@@ -8,6 +8,29 @@
     "category": "languages",
     "partners": [
       {
+        "site" : "Nodevember",
+        "site_url": "http://nodevember.org/",
+        "image": "nodevember.jpg",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Meteor and Reactive Programming",
+            "description": "This is speaker shares some concepts about what is and how works reactive programming in Meteor framework.",
+            "duration": "41:41",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=RUz8rr6jewU"
+          },
+          {
+            "title": "Building Large Scalable Realtime Applications with Meteor",
+            "description": "In this talk Tyson Cadenhead will explaing some tips and tricks to create and maintain a large scalable meteor app.",
+            "duration": "2:19:45",
+            "level": "b",
+            "url": "http://coderstv.com/video/gabrielhpugliese/LQGRvwAp9tKYTqzZC"
+          }
+        ]
+      },
+      {
         "site" : "TagTree",
         "site_url": "http://tagtree.tv",
         "image": "tagtree.jpg",

@@ -8,6 +8,36 @@
     "category": "languages",
     "partners": [
       {
+        "site" : "Nodevember",
+        "site_url": "http://nodevember.org/",
+        "image": "nodevember.jpg",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "0 to Nodebots in 45 minutes",
+            "description": "This talk will share some concepts about how create nodebots.",
+            "duration": "46:31",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=lKogyZZJt_0" 
+          },
+          {
+            "title": "Production-ready Node Architecture",
+            "description": "This is a speaker from Hunter Loftis which introduces a node architecture applications case for production environment.",
+            "duration": "1:24:42",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=9Qg9q5ABsvE" 
+          },
+          {
+            "title": "Develop, Deploy, Monitor and Scale REST APIs Built in Node.js",
+            "description": "This talk is from Shubhra Kar and will share some tips and tools about how built REST APIs with Node.js",
+            "duration": "1:45:47",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=2WI1nVrdxjY" 
+          }
+        ]
+      },
+      {
         "site" : "Learn All The Nodes",
         "site_url": "http://www.learnallthenodes.com",
         "image": "learnallthenodes.jpg",

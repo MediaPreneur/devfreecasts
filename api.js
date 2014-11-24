@@ -17,6 +17,7 @@ module.exports = function() {
     platform.partners.forEach(function(partner, index) {
       if (partner.publish) {
         partner.lang = partner.lang.toUpperCase();
+        partner.name = partner.site.toLowerCase().replace(/[\s]+/g, "_");
         if (partner.image) {
           partner.image = image_root_url + partner.image;
         } else {

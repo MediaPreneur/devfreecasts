@@ -62,17 +62,21 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
 
 function program1(depth0,data,depth1) {
   
-  var buffer = "", stack1;
-  buffer += "\n  ";
+  var buffer = "", stack1, helper;
+  buffer += "\n  <section id=\"";
+  if (helper = helpers.name) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.name); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + "\">\n    ";
   stack1 = helpers.each.call(depth0, (depth0 && depth0.videos), {hash:{},inverse:self.noop,fn:self.programWithDepth(2, program2, data, depth0, depth1),data:data});
   if(stack1 || stack1 === 0) { buffer += stack1; }
-  buffer += "\n";
+  buffer += "\n  </section>\n";
   return buffer;
   }
 function program2(depth0,data,depth1,depth2) {
   
   var buffer = "", stack1, helper;
-  buffer += "\n    <div class=\"col-xs-12 col-sm-4 col-md-4\">\n      <div class=\"thumbnail\">\n        <a href=\"";
+  buffer += "\n      <div class=\"col-xs-12 col-sm-4 col-md-4\">\n        <div class=\"thumbnail\">\n          <a href=\"";
   if (helper = helpers.url) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.url); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
@@ -90,17 +94,17 @@ function program2(depth0,data,depth1,depth2) {
   if (helper = helpers.title) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.title); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
-    + "');\">\n          <img src=\""
+    + "');\">\n            <img src=\""
     + escapeExpression(((stack1 = (depth1 && depth1.image)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
-    + "\" class=\"img-rounded\" width=\"250\" height=\"120\">\n        </a>\n        <div class=\"caption\">\n          <h3 class=\"video-title\">";
+    + "\" class=\"img-rounded\" width=\"250\" height=\"120\">\n          </a>\n          <div class=\"caption\">\n            <h3 class=\"video-title\">";
   if (helper = helpers.title) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.title); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
-    + "</h3>\n          <p class=\"video-description\">";
+    + "</h3>\n            <p class=\"video-description\">";
   if (helper = helpers.description) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.description); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
-    + "</p>\n          <p class=\"video-metadata\">Author: <a href=\""
+    + "</p>\n            <p class=\"video-metadata\">Author: <a href=\""
     + escapeExpression(((stack1 = (depth1 && depth1.site_url)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
     + "\" target=\"_blank\">"
     + escapeExpression(((stack1 = (depth1 && depth1.site)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
@@ -118,7 +122,7 @@ function program2(depth0,data,depth1,depth2) {
   if (helper = helpers.duration) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.duration); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
-    + "</span>\n          <p><a href=\"";
+    + "</span>\n            <p><a href=\"";
   if (helper = helpers.url) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.url); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
@@ -132,7 +136,7 @@ function program2(depth0,data,depth1,depth2) {
   if (helper = helpers.title) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.title); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
-    + "');\"><i class=\"icon-play\"></i>&nbsp;Watch</a>\n        </div>\n      </div>\n    </div>\n  ";
+    + "');\"><i class=\"icon-play\"></i>&nbsp;Watch</a>\n          </div>\n        </div>\n      </div>\n    ";
   return buffer;
   }
 
