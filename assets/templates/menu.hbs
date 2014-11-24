@@ -1,23 +1,23 @@
-<div class="row">
+<div class="row-fluid">
+  <p class="center">
+    <strong>{{total_platforms}}</strong> platforms and <strong>{{total_free_casts}}</strong> freecasts.
+  </p>
+</div>
+<div class="row-fluid">
   {{#each platforms}}
     <div class="col-xs-12 col-sm-4 col-md-3">
       <div class="thumbnail">
-        <a href="{{url}}" title="{{about}}" rel="me">
-          <img src="{{image}}" width="350" height="195">
+        <a href="{{url}}" title="{{about}}">
+          <img src="{{image}}" class="img-responsive img-rounded">
         </a>
-        <article class="caption">
+        <div class="caption">
           <p class="center">
             <a href="{{url}}" title="{{about}}" class="btn btn-block btn-primary">
               <i class="icon-video"></i>&nbsp;{{title}} ({{total_videos}} videos)
             </a>
           </p>
-        </article>
+        </div>
       </div>
     </div>
   {{/each}}
-</div>
-<div class="row">
-  <p class="center">
-    <strong>{{total_platforms}}</strong> platforms and <strong>{{total_free_casts}}</strong> freecasts.
-  </p>
 </div>
