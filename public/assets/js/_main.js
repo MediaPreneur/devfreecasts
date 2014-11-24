@@ -64,7 +64,7 @@
 
       request.onload = function() {
         var data = JSON.parse(request.responseText);
-        // shuffle(data.platforms || data.partners);
+        data.platforms && shuffle(data.platforms);
         dfcTemplate.innerHTML = DFC[template](data);
         localStorage.setItem('devfreecasts', request.responseText);
       };
