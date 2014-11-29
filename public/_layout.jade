@@ -4,7 +4,7 @@ html(lang="en", manifest="#{root_url[environment]}manifest.appcache", xmlns="htt
     != partial("_shared/head")
   body
     != partial("_shared/header")
-    main.container(role="main")
+    main.container(role="main", style="margin-top:75px;")
       != yield
     != partial("_shared/footer")
     script(src="#{root_url[environment]}assets/js/main.js")
