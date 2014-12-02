@@ -1,0 +1,28 @@
+{
+  "index": {
+    "name": "famous",
+    "subtitle": "Famo.us",
+    "about": "Famo.us is the only JavaScript framework that includes an open source 3D layout engine fully integrated with a 3D physics animation engine that can render to DOM, Canvas, or WebGL.",
+    "site": "https://famo.us/",
+    "image": "famous.jpg",
+    "category": "frameworks",
+    "partners": [
+      {
+        "site": "Code School",
+        "site_url": "https://www.youtube.com/user/pierreericmarchandet",
+        "image": "codeschool.jpg",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Famo.us",
+            "description": "In this episode, Dave Fetterman explains what Famo.us is and how it can be used to build beautiful and performant applications with their framework.",
+            "duration": "17:58",
+            "level": "b",
+            "url": "https://www.codeschool.com/screencasts/famo-us"
+          }
+        ]
+      }
+    ]
+  }
+}
