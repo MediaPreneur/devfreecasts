@@ -3,7 +3,7 @@
     "name": "famous",
     "subtitle": "Famo.us",
     "about": "Famo.us is the only JavaScript framework that includes an open source 3D layout engine fully integrated with a 3D physics animation engine that can render to DOM, Canvas, or WebGL.",
-    "site": "https://famo.us/",
+    "site": "https://famo.us",
     "image": "famous.jpg",
     "category": "frameworks",
     "partners": [
@@ -20,6 +20,22 @@
             "duration": "17:58",
             "level": "b",
             "url": "https://www.codeschool.com/screencasts/famo-us"
+          }
+        ]
+      },
+      {
+        "site": "Meteor Devshop",
+        "site_url": "https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw",
+        "image": "meteor.jpg",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Meteor + Famo.us: Made for each other",
+            "description": "An introduction video which explores how to integrate Famo.us with Meteor frameworks",
+            "duration": "26:06",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=bmd-cXSGQAA"
           }
         ]
       }
