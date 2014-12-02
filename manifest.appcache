@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2014-12-01T11:46:38.754Z
+# rev 1 - 2014-12-02T10:35:12.125Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -12,6 +12,7 @@ http://devfreecasts.org/api/angularjs.json
 http://devfreecasts.org/api/backbone.json
 http://devfreecasts.org/api/chrome-devtools.json
 http://devfreecasts.org/api/elixir.json
+http://devfreecasts.org/api/famous.json
 http://devfreecasts.org/api/go.json
 http://devfreecasts.org/api/grails.json
 http://devfreecasts.org/api/grunt.json
@@ -50,6 +51,7 @@ http://devfreecasts.org/assets/images/elixir.jpg
 http://devfreecasts.org/assets/images/elixirsips.jpg
 http://devfreecasts.org/assets/images/eventedmind.jpg
 http://devfreecasts.org/assets/images/excript.jpg
+http://devfreecasts.org/assets/images/famous.jpg
 http://devfreecasts.org/assets/images/go.jpg
 http://devfreecasts.org/assets/images/golang.jpg
 http://devfreecasts.org/assets/images/gophercasts.jpg
@@ -96,6 +98,7 @@ http://devfreecasts.org/assets/templates/thumb_videos.hbs
 http://devfreecasts.org/backbone/index.html
 http://devfreecasts.org/chrome-devtools/index.html
 http://devfreecasts.org/elixir/index.html
+http://devfreecasts.org/famous/index.html
 http://devfreecasts.org/favicon.ico
 http://devfreecasts.org/go/index.html
 http://devfreecasts.org/grails/index.html
