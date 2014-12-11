@@ -8,6 +8,56 @@
     "category": "languages",
     "partners": [
       {
+        "site" : "Elixir Tutorials",
+        "site_url": "http://vimeo.com/channels/elixir",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "How to install Elixir and Erlang",
+            "description": "How to install and manage Elixir and Erlang with kerl and exenv.",
+            "duration": "6:04",
+            "level": "b",
+            "url": "http://vimeo.com/104804142"
+          },
+          {
+            "title": "IEx Run-Time System Flags",
+            "description": "In this episode you will learn about Elixir run-time system flags.",
+            "duration": "3:07",
+            "level": "i",
+            "url": "http://vimeo.com/105525932"
+          },
+          {
+            "title": "Creating Local and Remote Shells",
+            "description": "In this episode you will learn how to create local and remote shells.",
+            "duration": "4:15",
+            "level": "i",
+            "url": "http://vimeo.com/105526425"
+          },
+          {
+            "title": "IEx Helpers and Common Commands",
+            "description": "In this episode you will learn about IEx helpers and common commands.",
+            "duration": "3:23",
+            "level": "i",
+            "url": "http://vimeo.com/105526157"
+          },
+          {
+            "title": "IEx Working with Files and Scripts",
+            "description": "In this episode you will learn how to work and manipulate files and scripts.",
+            "duration": "3:40",
+            "level": "i",
+            "url": "http://vimeo.com/105526567"
+          },
+          {
+            "title": "Customizing IEx",
+            "description": "In this episode you will learn some tips about how to customize the IEx.",
+            "duration": "2:28",
+            "level": "i",
+            "url": "http://vimeo.com/105526623"
+          }
+        ]
+      },
+      {
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
