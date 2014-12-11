@@ -8,6 +8,63 @@
     "category": "languages",
     "partners": [
       {
+        "site" : "Michael Kennedy",
+        "site_url": "http://blog.michaelckennedy.net/",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Welcome and lightning-fast Python introduction",
+            "description": "This post is part 1 of my many-part series entitled Python for .NET Developers. This first video and blog post simply introduce the series and provide a very brief Python language introduction. Without further adieu, here’s the video.",
+            "duration": "9:47",
+            "level": "b",
+            "url": "http://blog.michaelckennedy.net/2014/01/03/part-1-welcome-and-lightning-fast-python-introduction-in-python-for-net-developers-series/"
+          },
+          {
+            "title": "Visual Studio and IDEs",
+            "description": "This post is part 2 of my many-part series entitled Python for .NET Developers. This video explores choosing an IDE for Python development, especially one that will make .NET developers comfortable. What the video and visit the links below to get started.",
+            "duration": "8:52",
+            "level": "b",
+            "url": "http://blog.michaelckennedy.net/2014/01/03/part-2-visual-studio-and-ides-in-python-for-net-developers-series/"
+          },
+          {
+            "title": "A single, common base-type",
+            "description": "This post is part 3 of my many-part series entitled Python for .NET Developers. This video explores Python’s equivalent of C#’s ‘everything derives from System.Object’ common type system.",
+            "duration": "3:28",
+            "level": "b",
+            "url": "http://blog.michaelckennedy.net/2014/01/06/part-3-a-single-common-base-type-in-python-for-net-developers-series/"
+          },
+          {
+            "title": "Foreach and IEnumerable",
+            "description": "This post is part 4 of my many-part series entitled Python for .NET Developers. This video explores Python’s equivalent of C#’s foreach loops and IEnumerable interface.",
+            "duration": "6:26",
+            "level": "b",
+            "url": "http://blog.michaelckennedy.net/2014/01/07/part-4-foreach-and-ienumerable-in-python-for-net-developers-series/"
+          },
+          {
+            "title": "Properties",
+            "description": "This post is part 5 of my many-part series entitled Python for .NET Developers. This video explores Python’s equivalent of C#’s properties including read-only and computed properties.",
+            "duration": "6:20",
+            "level": "b",
+            "url": "http://blog.michaelckennedy.net/2014/01/08/part-5-properties-in-python-for-net-developers-series/"
+          },
+          {
+            "title": "Anonymous Types",
+            "description": "This post is part 6 of my many-part series entitled Python for .NET Developers. This video explores Python’s equivalent of C#’s anonymous types including a custom class to make things smoother on the Python side.",
+            "duration": "7:35",
+            "level": "b",
+            "url": "http://blog.michaelckennedy.net/2014/01/09/part-6-anonymous-types-in-python-for-net-developers-series/"
+          },
+          {
+            "title": "Lambda Expressions",
+            "description": "This post is part 7 of my many-part series entitled Python for .NET Developers. This video explores Python’s equivalent of C#’s lambda expressions.",
+            "duration": "5:34",
+            "level": "b",
+            "url": "http://blog.michaelckennedy.net/2014/01/10/part-7-lambda-expressions-in-python-for-net-developers-series/"
+          }
+        ]
+      },
+      {
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
