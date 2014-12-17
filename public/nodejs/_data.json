@@ -22,6 +22,20 @@
             "url": "http://knowthen.com/episode-3-koajs-quickstart-guide" 
           },
           {
+            "title": "Writing Middleware in Koajs",
+            "description": "In this episode we’ll learn to write middleware, the foundational building block for Koajs and Expressjs.",
+            "duration": "17:59",
+            "level": "a",
+            "url": "http://knowthen.com/episode-4-writing-middleware-in-koajs/" 
+          },
+          {
+            "title": "Creating Models in Koajs",
+            "description": "In this episode we will learn to create models in koajs, more specifically we’ll create a user model.",
+            "duration": "15:27",
+            "level": "i",
+            "url": "http://knowthen.com/episode-5-creating-models-in-koajs/" 
+          },
+          {
             "title": "Understanding JavaScript Generators",
             "description": "I will show you how to create and interact with Generators, and your life will be better! (I might be overselling it)",
             "duration": "8:39",
