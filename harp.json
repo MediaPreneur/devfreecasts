@@ -20,6 +20,7 @@
                   "grunt", "elixir", "scala", 
                   "python","grails", "php", 
                   "ios","android", "java",
-                  "vim", "chrome-devtools", "famous"]
+                  "vim", "chrome-devtools", "famous",
+                  "playframework"]
   }
 }
