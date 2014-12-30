@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2014-12-30T10:42:27.161Z
+# rev 1 - 2014-12-30T11:27:53.190Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -23,6 +23,7 @@ http://devfreecasts.org/api/menu.json
 http://devfreecasts.org/api/meteor.json
 http://devfreecasts.org/api/nodejs.json
 http://devfreecasts.org/api/php.json
+http://devfreecasts.org/api/playframework.json
 http://devfreecasts.org/api/python.json
 http://devfreecasts.org/api/rails.json
 http://devfreecasts.org/api/react.json
@@ -74,6 +75,7 @@ http://devfreecasts.org/assets/images/nodevember.jpg
 http://devfreecasts.org/assets/images/nsscreencast.jpg
 http://devfreecasts.org/assets/images/odetocode.jpg
 http://devfreecasts.org/assets/images/php.jpg
+http://devfreecasts.org/assets/images/playframework.jpg
 http://devfreecasts.org/assets/images/pragprogs.jpg
 http://devfreecasts.org/assets/images/python.jpg
 http://devfreecasts.org/assets/images/rails.jpg
@@ -85,6 +87,7 @@ http://devfreecasts.org/assets/images/scala.jpg
 http://devfreecasts.org/assets/images/swift.jpg
 http://devfreecasts.org/assets/images/tagtree.jpg
 http://devfreecasts.org/assets/images/tutsplus.jpg
+http://devfreecasts.org/assets/images/typesafe.jpg
 http://devfreecasts.org/assets/images/vim.jpg
 http://devfreecasts.org/assets/images/vimcasts.jpg
 http://devfreecasts.org/assets/images/watchmecode.jpg
@@ -112,6 +115,7 @@ http://devfreecasts.org/manifest.webapp
 http://devfreecasts.org/meteor/index.html
 http://devfreecasts.org/nodejs/index.html
 http://devfreecasts.org/php/index.html
+http://devfreecasts.org/playframework/index.html
 http://devfreecasts.org/python/index.html
 http://devfreecasts.org/rails/index.html
 http://devfreecasts.org/react/index.html
