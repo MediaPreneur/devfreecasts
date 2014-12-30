@@ -1,4 +1,6 @@
 section.row
+  != partial("_shared/adsense_header")
+section.row
   h1.h5.center #{description}
 div.row.hidden-xs.hidden-sm
   div.col-sm-3
@@ -19,4 +21,4 @@ section.row-fluid.clearfix(data-dfc-url="#{root_url[environment]}api/menu.json",
 section.row.hidden-xs.hidden-sm
   != partial("_shared/social_buttons")
 section.row
-  != partial("_shared/adsense")
+  != partial("_shared/adsense_footer")
