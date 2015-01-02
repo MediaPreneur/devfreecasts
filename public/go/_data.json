@@ -15,6 +15,13 @@
         "publish": true,
         "videos": [
           {
+            "title": "Implementing a bignum calculator",
+            "description": "Rob Pike describes his interpreter for an APL-like calculator language.",
+            "duration": "30:47",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=PXoG0WX0r_E"
+          },
+          {
             "title": "Underscore library for Go",
             "description": "Toby presents his controversial Underscore library at golang-syd in July 2014.",
             "duration": "10:42",

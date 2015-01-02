@@ -8,6 +8,28 @@
     "category": "languages",
     "partners": [
       {
+        "site" : "TutsOwl",
+        "site_url": "http://www.tutsowl.com",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "NPM and Node.js packages",
+            "description": "In this screencast you will learn what are Node.js packages, how to install and use them. You will also create own package and publish it to the npm repository as well as learn how to find quality third party packages and how to use npm tool to manage your dependencies.",
+            "duration": "20:30",
+            "level": "b",
+            "url": "http://www.tutsowl.com/learn/4-npm-and-nodejs-packages/" 
+          },
+          {
+            "title": "How to create and use Node.js",
+            "description": "In this episode you will learn what Node.js modules are, how to load and use them. You will also create your own module and learn different ways of exporting functions and variables. ",
+            "duration": "17:15",
+            "level": "b",
+            "url": "http://www.tutsowl.com/learn/3-creating-and-using-nodejs-modules/" 
+          }
+        ]
+      },
+      {
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
