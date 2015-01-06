@@ -2,7 +2,12 @@
   <section id="{{name}}">
     {{#each videos}}
       <div class="col-xs-12 col-sm-4 col-md-4">
+      {{#if exclusive}}
+        <div class="thumbnail thumbnail-exclusive">
+          <span class="label label-primary label-top">FEATURED VIDEO</span>
+      {{else}}
         <div class="thumbnail">
+      {{/if}}
           <a href="{{url}}" target="_blank" title="{{title}}" onclick="ga('send', 'event', '{{../../subtitle}}', '{{level_title}}', '{{title}}');">
             <img src="{{../image}}" class="img-responsive img-rounded" width="250" height="120">
           </a>
