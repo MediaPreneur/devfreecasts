@@ -8,6 +8,21 @@
     "category": "devtools",
     "partners": [
       {
+        "site": "Akita On Rails",
+        "site_url": "http://www.akitaonrails.com/2012/04/09/screencasts-liberados-gratuitamente",
+        "lang": "pt-br",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Beginning with Vim",
+            "description": "This is a long screencast for beginners and intermediates learn about Vim.",
+            "duration": "2:03:00",
+            "level": "i",
+            "url": "http://akitaonrails.com/2010/07/19/screencast-comecando-com-vim"
+          }
+        ]
+      },
+      {
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
