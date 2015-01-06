@@ -588,7 +588,7 @@ function program1(depth0,data) {
 this["DFC"]["thumb_videos"] = Handlebars.template(function (Handlebars,depth0,helpers,partials,data) {
   this.compilerInfo = [4,'>= 1.0.0'];
 helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
-  var stack1, functionType="function", escapeExpression=this.escapeExpression, self=this;
+  var stack1, self=this, functionType="function", escapeExpression=this.escapeExpression;
 
 function program1(depth0,data,depth1) {
   
@@ -606,7 +606,10 @@ function program1(depth0,data,depth1) {
 function program2(depth0,data,depth1,depth2) {
   
   var buffer = "", stack1, helper;
-  buffer += "\n      <div class=\"col-xs-12 col-sm-4 col-md-4\">\n        <div class=\"thumbnail\">\n          <a href=\"";
+  buffer += "\n      <div class=\"col-xs-12 col-sm-4 col-md-4\">\n      ";
+  stack1 = helpers['if'].call(depth0, (depth0 && depth0.exclusive), {hash:{},inverse:self.program(5, program5, data),fn:self.program(3, program3, data),data:data});
+  if(stack1 || stack1 === 0) { buffer += stack1; }
+  buffer += "\n          <a href=\"";
   if (helper = helpers.url) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.url); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
@@ -668,6 +671,17 @@ function program2(depth0,data,depth1,depth2) {
   buffer += escapeExpression(stack1)
     + "');\"><i class=\"icon-play\"></i>&nbsp;Watch</a>\n          </div>\n        </div>\n      </div>\n    ";
   return buffer;
+  }
+function program3(depth0,data) {
+  
+  
+  return "\n        <div class=\"thumbnail thumbnail-exclusive\">\n          <span class=\"label label-primary label-top\">FEATURED VIDEO</span>\n      ";
+  }
+
+function program5(depth0,data) {
+  
+  
+  return "\n        <div class=\"thumbnail\">\n      ";
   }
 
   stack1 = helpers.each.call(depth0, (depth0 && depth0.partners), {hash:{},inverse:self.noop,fn:self.programWithDepth(1, program1, data, depth0),data:data});

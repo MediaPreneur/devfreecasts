@@ -26,6 +26,7 @@ module.exports = function() {
         partner.videos.forEach(function(video, index) {
           video.level_title = harp.globals.level[video.level.toLowerCase()];
           video.level = video.level.toUpperCase();
+          video.exclusive = !!video.exclusive;
           video.url = video.url + (video.url.indexOf("?") >= 0 ? "&" : "?") + harp.globals.utm;  
         });
       } else {
