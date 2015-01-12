@@ -607,7 +607,7 @@ function program2(depth0,data,depth1,depth2) {
   
   var buffer = "", stack1, helper;
   buffer += "\n      <div class=\"col-xs-12 col-sm-4 col-md-4\">\n      ";
-  stack1 = helpers['if'].call(depth0, (depth0 && depth0.exclusive), {hash:{},inverse:self.program(5, program5, data),fn:self.program(3, program3, data),data:data});
+  stack1 = helpers['if'].call(depth0, (depth0 && depth0.featured), {hash:{},inverse:self.program(5, program5, data),fn:self.program(3, program3, data),data:data});
   if(stack1 || stack1 === 0) { buffer += stack1; }
   buffer += "\n          <a href=\"";
   if (helper = helpers.url) { stack1 = helper.call(depth0, {hash:{},data:data}); }
@@ -675,7 +675,7 @@ function program2(depth0,data,depth1,depth2) {
 function program3(depth0,data) {
   
   
-  return "\n        <div class=\"thumbnail thumbnail-exclusive\">\n          <span class=\"label label-primary label-top\">FEATURED VIDEO</span>\n      ";
+  return "\n        <div class=\"thumbnail thumbnail-featured\">\n          <span class=\"label label-primary label-top\">FEATURED VIDEO</span>\n      ";
   }
 
 function program5(depth0,data) {
