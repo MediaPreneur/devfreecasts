@@ -28,7 +28,8 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
           "title": "Screencast title",
           "description": "Screencast description",
           "duration": "3:14", // Screencast Duration
-          "url": "screencast's url" 
+          "url": "screencast's url",
+          "featured": true // Is a featured video? 
         }
       ]
     }
@@ -59,7 +60,8 @@ Look this example (`public/nodejs/_data.json`):
             "title": "Node Streams",
             "description": "You've heard a lot about node streams, in this episode you get introduced to streams and see how to code up your own read, write, and transform stream.",
             "duration": "8:28",
-            "url": "http://tagtree.tv/intro-to-node-streams"
+            "url": "http://tagtree.tv/intro-to-node-streams",
+            "featured": false
           }
         ]
       }
@@ -84,14 +86,14 @@ If you wanna add a new platform (programming language or framework), first you n
 
 ## Development mode
 
-To run this project in **development mode**, you need have [Node.js](http://nodejs.org) and [HarpJS](http://harpjs.com) installed. 
+To run this project in **development mode**, you need have [Node.js](http://nodejs.org) and [Grunt](http://gruntjs.com) installed. 
 
 To install Node.js, just [follow this wiki rules](http://nodejs.org/download) 
 
-To install HarpJS, just run the command below: 
+To install Grunt, just run the command below: 
 
 ``` bash
-npm install harp -g
+npm install grunt-cli -g
 ```
 
 To get and run this project: 
@@ -99,10 +101,10 @@ To get and run this project:
 ``` bash
 git clone git@github.com:caio-ribeiro-pereira/devscreencasts.git
 cd devscreencasts
-harp server
+grunt serve
 ```
 
-And access in your browser the url: [http://localhost:9000](http://localhost:9000).
+And access in your browser the url: [http://localhost:3000](http://localhost:3000).
 
 ## Author
 
