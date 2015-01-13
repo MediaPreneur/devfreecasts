@@ -8,6 +8,92 @@
     "category": "devtools",
     "partners": [
       {
+        "site": "Git Tower",
+        "site_url": "http://www.git-tower.com/learn/videos",
+        "lang": "en",
+        "image": "git-tower.jpg",
+        "publish": true,
+        "videos": [
+          {
+            "title": "What is Version Control?",
+            "description": "How does version control work in general? What benefits can I expect?",
+            "duration": "3:09",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/what-is-version-control?channel=cli"
+          },
+          {
+            "title": "Installing & Configuring Git",
+            "description": "How do I install and configure Git on my machine?",
+            "duration": "2:04",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/installing-configuring-git?channel=cli"
+          },
+          {
+            "title": "The Basic Workflow of Version Control",
+            "description": "Which steps are typically involved when using version control?",
+            "duration": "3:05",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/basic-workflow?channel=cli"
+          },
+          {
+            "title": "Creating a New Local Repository",
+            "description": "How do I create a new repository on my machine?",
+            "duration": "1:29",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/create-new-local-repository?channel=cli"
+          },
+          {
+            "title": "Cloning an Existing Repository",
+            "description": "How can I work with an existing repository from a remote server?",
+            "duration": "1:59",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/clone-existing-repository?channel=cli"
+          },
+          {
+            "title": "Inspecting Local Changes",
+            "description": "Which files are currently modified - and how?",
+            "duration": "4:35",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/inspect-local-changes?channel=cli"
+          },
+          {
+            "title": "Staging & Committing Changes",
+            "description": "How can I add changes to the next commit? How can I save changes as a new revision in the repository?",
+            "duration": "4:38",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/stage-and-commit-changes?channel=cli"
+          },
+          {
+            "title": "Commit History",
+            "description": "How can I see what has happened in my repository? How can I review my repository's history?",
+            "duration": "2:40",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/commit-history?channel=cli"
+          },
+          {
+            "title": "Ignoring Files",
+            "description": "How can I prevent certain files from being versioned / tracked by Git?",
+            "duration": "3:42",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/ignore-files?channel=cli"
+          },
+          {
+            "title": "Introduction to Branches",
+            "description": "What are branches? What is so special about the branching model (compared to SVN)? Why should you use them?",
+            "duration": "5:43",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/introduction-to-branches?channel=cli"
+          },
+          {
+            "title": "Creating & Checking Out Branches",
+            "description": "How can I create a branch? How can I make a branch active?",
+            "duration": "3:32",
+            "level": "b",
+            "url": "http://www.git-tower.com/learn/videos/create-checkout-branches?channel=cli"
+          }
+        ]
+      },
+      {
         "site": "Git",
         "site_url": "http://git-scm.com/videos",
         "lang": "en",
