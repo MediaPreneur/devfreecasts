@@ -126,3 +126,26 @@ body{background:#FEFEFE;}.footer-about{text-align:center;color:#FFF;}.header{mar
 .icon-git:before { content: '\e806'; } /* '' */
 .icon-play:before { content: '\e807'; } /* '' */
 .icon-video:before { content: '\e808'; } /* '' */
+
+/*
+ * Carbon Ads CSS
+ */
+.carbonads {
+  background: #FEFEFE;
+  margin-bottom: -10px;
+}
+.carbonads .carbon-wrap {
+  padding: 10px 0;
+  display: block;
+  line-height: 15px;
+}
+.carbonads .carbon-text {
+  display: block;
+  margin-top: 5px;
+  text-align: center;
+}
+.carbonads .carbon-poweredby {
+  display: block;
+  color: #999;
+  text-align: right;
+}
