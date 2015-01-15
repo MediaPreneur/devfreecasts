@@ -1,3 +1,4 @@
+!= partial("ads_header")
 h3 #{subtitle}
 section
   p #{about}<br>Site: <a href="#{site}" target="_blank">#{site}</a>
@@ -14,7 +15,6 @@ section.row.hidden-xs
   div.col-sm-3
     button(class="btn btn-block btn-primary", data-dfc-category="A", data-dfc="video", onclick="ga('send', 'event', 'Categories', 'Videos', 'Advanced videos');") <i class="icon-video"></i>&nbsp;Advanced videos
     br
-!= partial("ads_header")
 hr
 h4 Videos
 section.row(data-dfc-url="#{root_url[environment]}api/#{name}.json", data-dfc-template="thumb_videos")

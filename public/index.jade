@@ -1,3 +1,4 @@
+!= partial("_shared/ads_header")
 section.row.hidden-xs.hidden-sm
   h1.h5.center #{description}
   div.col-sm-3
@@ -12,9 +13,6 @@ section.row.hidden-xs.hidden-sm
   div.col-sm-3
     button(class="btn btn-block btn-primary", data-dfc-category="devtools", data-dfc="platform", onclick="ga('send', 'event', 'Categories', 'Platforms', 'Dev tools');") <i class="icon-video"></i>&nbsp;Dev tools
     br
-hr
-!= partial("_shared/ads_header")
-hr
 section.row-fluid.clearfix(data-dfc-url="#{root_url[environment]}api/menu.json", data-dfc-template="menu")
   div.result-status
     h3 Loading...
