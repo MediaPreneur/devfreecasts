@@ -1,0 +1,118 @@
+{
+  "index": {
+    "name": "haskell",
+    "subtitle": "Haskell",
+    "about": "Haskell is an advanced purely-functional programming language. An open-source product of more than twenty years of cutting-edge research, it allows rapid development of robust, concise, correct software. With strong support for integration with other languages, built-in concurrency and parallelism, debuggers, profilers, rich libraries and an active community, Haskell makes it easier to produce flexible, maintainable, high-quality software.",
+    "site": "https://www.haskell.org",
+    "image": "haskell.jpg",
+    "category": "languages",
+    "partners": [
+      {
+        "site" : "Minimalist Programming",
+        "site_url": "https://www.youtube.com/user/jekor/videos",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Redoing Make",
+            "description": "Let's build an implementation of djb's redo from scratch in Haskell. In this, the first episode, I'll explain what the purpose of the program is, write some initial code, and create a GitHub repository for you to follow along with if you want.",
+            "duration": "16:03",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=zZ_nI9E9g0I"
+          },
+          {
+            "title": "GHCi's Debugger",
+            "description": "Interactive debugging is possible in Haskell with GHCi. We'll look at how, and use it to fix what broke last episode. Then, we'll extend the implementation to support target selection on the commandline.",
+            "duration": "14:16",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=1OYljb_3Cdg"
+          },
+          {
+            "title": "Hoogle in GHCi",
+            "description": "Run Hoogle from GHCi and save yourself some time switching over to a browser. Or just take a look at how to customize your GHCi with me.",
+            "duration": "16:42",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=QpDQhGYPqkU"
+          },
+          {
+            "title": "Unsafe Functions",
+            "description": "The Prelude contains an innocent-looking but unsafe function. We'll encounter it as we add support for default .do files. The implementation of defaults will be guided by a paper from Alan Grosskurth who himself created a redo implementation (in shell script).",
+            "duration": "20:10",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=XU8kWMMXrQ8"
+          },
+          {
+            "title": "Refactoring Monads",
+            "description": "Monad do notation is convenient but can also get in the way of writing concise code. We'll refactor the code until it's shorter, (arguably) more readable, and less error-prone to make changes to. In the process we'll also add the feature we were missing to get default .do files working.",
+            "duration": "23:36",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=xUfLvh0jE64"
+          },
+          {
+            "title": "Tracing and Showing",
+            "description": "'Printf-style debugging' is possible with Haskell thanks to Debug.Trace, as long as the value you're interested in has a Show instance. Using tracing, we'll start to explore a method of collecting dependency/prerequisite information from .do scripts through the use of a redo-ifchange program.",
+            "duration": "26:37",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=8tpCcSIVLf4"
+          },
+          {
+            "title": "Exception Handling",
+            "description": "Exceptions are a pain in any language, but they have some unique quirks in Haskell. We'll look at how to catch certain types of exceptions, figure out the type of exception you've ended up with, and how to handle it.",
+            "duration": "25:17",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=V9PRiOtT7VM"
+          },
+          {
+            "title": "Laziness and ...",
+            "description": "Laziness (non-strictness) can have confusing effects, especially with a fake pure function like trace. And on the topic of laziness, we'll encounter lazy ByteStrings for the first time.",
+            "duration": "28:08",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=RbcA_G6eZcQ"
+          },
+          {
+            "title": "HLint and Flymake",
+            "description": "HLint helps keep your code clean. With Flymake and GHC you can keep it clean in realtime. Join me as I finally modernize my development environment so that I can see errors and warnings as I type.",
+            "duration": "20:41",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=aj7WF_Zm9zY"
+          },
+          {
+            "title": "Recursion and Redis",
+            "description": "It's time to test our implementation or redo by converting an existing make-based build system over to it. I've picked redis as our target due to its relatively simple Makefile and its avoidance of automake.",
+            "duration": "21:25",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=nHZ7CtFnI48"
+          },
+          {
+            "title": "Replacing Make",
+            "description": "Goodbye, Make! It's time to see where the design of redo really shines by replacing the Makefiles in redis with .do scripts. We'll adapt a style that djb adopts for his own projects when writing build scripts.",
+            "duration": "28:51",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=yH3xQt7XUrc"
+          },
+          {
+            "title": "Cabal and Hackage",
+            "description": "It's time to release our code to (upon?) the world. The Haskell community is still small and trusting, and getting your code on Hackage (hence making it cabal installable) is pretty simple. We'll generate a .cabal file for redo and then use that to package our code for Hackage.",
+            "duration": "23:06",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=cchVNzvJu2g"
+          },
+          {
+            "title": "Documentation and Haddock",
+            "description": "I'm embarrassed by how long I've let this program go without a single comment, let alone some proper documentation. We'll add documentation in 3 layers: external (README.markdown), top-level (Haddock), and narrative (comments).",
+            "duration": "17:15",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=VOt9DBv0ZH0"
+          },
+          {
+            "title": "Porting to Windows",
+            "description": "Running redo on Windows seems counterintuitive first considering that redo is built around many Unix philosophies. But as it turns out, it's possible. We'll make some changes to the Cabal install process and then add some conditional installation instructions for Windows.",
+            "duration": "15:02",
+            "level": "a",
+            "url": "https://www.youtube.com/watch?v=vUnF37Q8mbY"
+          }
+        ]
+      }
+    ]
+  }
+}

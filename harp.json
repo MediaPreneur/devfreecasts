@@ -21,6 +21,6 @@
                   "python","grails", "php", 
                   "ios","android", "java",
                   "vim", "chrome-devtools", "git",
-                  "famous", "playframework"]
+                  "famous", "playframework", "haskell"]
   }
 }
