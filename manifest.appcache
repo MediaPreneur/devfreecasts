@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-01-21T12:24:01.479Z
+# rev 1 - 2015-01-27T11:31:26.511Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -11,6 +11,7 @@ http://devfreecasts.org/api/android.json
 http://devfreecasts.org/api/angularjs.json
 http://devfreecasts.org/api/backbone.json
 http://devfreecasts.org/api/chrome-devtools.json
+http://devfreecasts.org/api/django.json
 http://devfreecasts.org/api/elixir.json
 http://devfreecasts.org/api/famous.json
 http://devfreecasts.org/api/git.json
@@ -50,6 +51,7 @@ http://devfreecasts.org/assets/images/devcast.jpg
 http://devfreecasts.org/assets/images/devfreecasts-128.png
 http://devfreecasts.org/assets/images/devfreecasts-thumb.png
 http://devfreecasts.org/assets/images/devfreecasts.png
+http://devfreecasts.org/assets/images/django.jpg
 http://devfreecasts.org/assets/images/egghead.jpg
 http://devfreecasts.org/assets/images/elixir.jpg
 http://devfreecasts.org/assets/images/elixirsips.jpg
@@ -59,6 +61,7 @@ http://devfreecasts.org/assets/images/famous.jpg
 http://devfreecasts.org/assets/images/git-tower.jpg
 http://devfreecasts.org/assets/images/git.jpg
 http://devfreecasts.org/assets/images/go.jpg
+http://devfreecasts.org/assets/images/godjango.jpg
 http://devfreecasts.org/assets/images/golang.jpg
 http://devfreecasts.org/assets/images/gophercasts.jpg
 http://devfreecasts.org/assets/images/gorails.jpg
@@ -107,6 +110,7 @@ http://devfreecasts.org/assets/templates/menu.hbs
 http://devfreecasts.org/assets/templates/thumb_videos.hbs
 http://devfreecasts.org/backbone/index.html
 http://devfreecasts.org/chrome-devtools/index.html
+http://devfreecasts.org/django/index.html
 http://devfreecasts.org/elixir/index.html
 http://devfreecasts.org/famous/index.html
 http://devfreecasts.org/favicon.ico
