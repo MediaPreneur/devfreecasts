@@ -1,0 +1,133 @@
+{
+  "index": {
+    "name": "polymer",
+    "subtitle": "Polymer",
+    "about": "Polymer Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself",
+    "site": "https://www.polymer-project.org/",
+    "image": "polymer.jpg",
+    "category": "frameworks",
+    "partners": [
+      {
+        "site" : "Rob  Dodson",
+        "site_url": "https://developers.google.com/",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Core Icons -- Polycasts #01",
+            "description": "This post is part 1 of my many-part series entitled Python for .NET Developers. This first video and blog post simply introduce the series and provide a very brief Python language introduction. Without further adieu, here’s the video.",
+            "duration": "6:39",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=jrt7sMq9lO0&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN&index=1"
+          },
+          {
+            "title": "Core Iconset -- Polycasts #02",
+            "description": "Creating your own icon set in Polymer is a breeze! In this video we'll look at how to combine different iconsets with the core-icon elements, and I'll show you how to create your own custom iconsets using SVG images.",
+            "duration": "10:01",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?x-yt-cl=85027636&v=xfiOJP8vuX4&feature=player_detailpage&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN&x-yt-ts=1422503916"
+          },
+          {
+            "title": "Core Toolbar -- Polycasts #03",
+            "description": "The core-toolbar element is a great place to start with Web Components because it's very easy to get up and running. With the core-toolbar you can layout titles, buttons, and various other controls for your application. In this video we'll cover getting your first core-toolbar up on screen, and configuring it with a handful of useful options.",
+            "duration": "9:14",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=qDhHdi8RtwI&index=3&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN"
+          },
+          {
+            "title": "Core Header Panel -- Polycasts #04",
+            "description": "The core-header-panel is a great next step after you've mastered some of the other elements like core-icon and core-toolbar. With core-header-panel we can control the scroll behavior of our page and combine it with other elements, like core-toolbar, to compose app-like UIs. In this video we'll not only get a core-header-panel to show up, but we'll also discuss the power of composition and how Web Components",
+            "duration": "12:18",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=ZAc51_0Xa_M&index=4&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN"
+          },
+          {
+            "title": "Core Drawer Panel -- Polycasts #05",
+            "description": "A big part of building for the multi-device web is responsive design. To make this easy on us, the Polymer team created the core-drawer-panel element, an application scaffold that's responsive by default! In this video I'll show you how to setup a page layout that leverages the core-drawer-panel, and we'll also look at drawer panel's fancier older brother, the core-scaffold.",
+            "duration": "6:25",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=GAjpaM4HcCQ&index=5&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN"
+          },
+          {
+            "title": "What's new in Polymer 0.5.1 -- Polycasts #06",
+            "description": "In today's video we take a look at the current stable release of Polymer, v0.5.1, and cover some of the changes that this update brings with it.",
+            "duration": "3:38",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=jrt7sMq9lO0"
+          },
+          {
+            "title":"Season's greetings! -- Polycasts #07",
+            "description": "Hey there Polycasters! We wanted to take a moment to wish you all very happy holidays and thank you so much for checking out the first season. In today's episode we have highlights from the Chrome Dev Summit and a survey so *you* can let us know what content you'd like to see in the second season.",
+            "duration": "1:13",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=aDQUYs-0hxQ&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN&index=7"
+          },
+          {
+            "title": "The Awesome Power of Auto-Binding Templates -- Polycasts #08",
+            "description": "Super charge your app with Polymer data bindings.",
+            "duration": "6:39",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=82LfXCeuaOo&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN&index=8"
+          }
+          ]
+      },
+      {
+        "site" : "Joe Maddalone",
+        "site_url": "https://www.youtube.com/user/joemaddalone/playlists",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Polymer 101 Part 1: Hello World",
+            "description": "Utilizing the polymer-element component to create new components",
+            "duration": "4:29",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=om8lqpNE4o4"
+          },
+          {
+            "title": "Polymer: Extend HTML Elements",
+            "description": "using the 'is' attribute on the element and the 'extends' attribute on the polymer-element we can extend the functionality of any native HTML element.",
+            "duration": "2:37",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=wFvKgAeMg_Y"
+          },
+          {
+            "title": "Polymer: Styling custom elements",
+            "description": "Styles within a component are isolated from the rest of the document thanks to Shadow Dom.",
+            "duration": "4:44",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=x05-j1CmkJs"
+          },
+          {
+            "title": "Polymer: Filters",
+            "description": "Creating filters is incredibly easy and useful in Polymer",
+            "duration": "3:09",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=r4zDDH4nwvI"
+          },
+          {
+            "title": "https://www.youtube.com/watch?v=-xX5t17e3EA",
+            "description": "ng- er... template repeat is another powerful feature of polymer-element",
+            "duration": "2:57",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=-xX5t17e3EA"
+          },
+          {
+            "title": "Polymer: core-ajax",
+            "description": "Utilizing the polymer-element component to create new components",
+            "duration": "5:50",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=a4SgOL9FrxU"
+          },
+           {
+            "title": "Polymer: Changed Watchers and Observe Blocks ",
+            "description": "Observe property changes using changed watchers or an observe block",
+            "duration": "6:45",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=vbpNIdhpz4Q"
+          }
+        ]
+      }
+    ]
+  }
+}

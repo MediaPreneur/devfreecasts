@@ -22,6 +22,6 @@
                   "ios","android", "java",
                   "vim", "chrome-devtools", "git",
                   "famous", "playframework", "haskell",
-                  "django"]
+                  "django" , "Polymer"]
   }
 }
