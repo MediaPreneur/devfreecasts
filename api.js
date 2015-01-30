@@ -53,7 +53,7 @@ module.exports = function() {
     });
     menu["total_free_casts"] = menu.total_free_casts + platform_videos;
 
-    var output = "./"+ output_path +"/api/"+ platform_name +".json";
+    var output = "./"+ output_path +"/api/"+ platform_name.toUpperCase() +".json";
     console.log(output);
     fs.writeFileSync(output, JSON.stringify(platform));
   });
