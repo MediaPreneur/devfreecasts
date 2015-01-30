@@ -2,14 +2,14 @@
   "index": {
     "name": "polymer",
     "subtitle": "Polymer",
-    "about": "Polymer Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself",
-    "site": "https://www.polymer-project.org/",
+    "about": "Polymer Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself.",
+    "site": "https://www.polymer-project.org",
     "image": "polymer.jpg",
     "category": "frameworks",
     "partners": [
       {
-        "site" : "Rob  Dodson",
-        "site_url": "https://developers.google.com/",
+        "site" : "Rob Dodson",
+        "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN",
         "lang": "en",
         "publish": true,
         "videos": [
@@ -31,49 +31,49 @@
             "title": "Core Toolbar -- Polycasts #03",
             "description": "The core-toolbar element is a great place to start with Web Components because it's very easy to get up and running. With the core-toolbar you can layout titles, buttons, and various other controls for your application. In this video we'll cover getting your first core-toolbar up on screen, and configuring it with a handful of useful options.",
             "duration": "9:14",
-            "level": "b",
+            "level": "i",
             "url": "https://www.youtube.com/watch?v=qDhHdi8RtwI"
           },
           {
             "title": "Core Header Panel -- Polycasts #04",
-            "description": "The core-header-panel is a great next step after you've mastered some of the other elements like core-icon and core-toolbar. With core-header-panel we can control the scroll behavior of our page and combine it with other elements, like core-toolbar, to compose app-like UIs. In this video we'll not only get a core-header-panel to show up, but we'll also discuss the power of composition and how Web Components",
+            "description": "The core-header-panel is a great next step after you've mastered some of the other elements like core-icon and core-toolbar. With core-header-panel we can control the scroll behavior of our page and combine it with other elements, like core-toolbar, to compose app-like UIs. In this video we'll not only get a core-header-panel to show up.",
             "duration": "12:18",
-            "level": "b",
+            "level": "i",
             "url": "https://www.youtube.com/watch?v=ZAc51_0Xa_M"
           },
           {
             "title": "Core Drawer Panel -- Polycasts #05",
             "description": "A big part of building for the multi-device web is responsive design. To make this easy on us, the Polymer team created the core-drawer-panel element, an application scaffold that's responsive by default! In this video I'll show you how to setup a page layout that leverages the core-drawer-panel, and we'll also look at drawer panel's fancier older brother, the core-scaffold.",
             "duration": "6:25",
-            "level": "b",
+            "level": "i",
             "url": "https://www.youtube.com/watch?v=GAjpaM4HcCQ"
           },
           {
             "title": "What's new in Polymer 0.5.1 -- Polycasts #06",
             "description": "In today's video we take a look at the current stable release of Polymer, v0.5.1, and cover some of the changes that this update brings with it.",
             "duration": "3:38",
-            "level": "b",
+            "level": "i",
             "url": "https://www.youtube.com/watch?v=jrt7sMq9lO0"
           },
           {
             "title":"Season's greetings! -- Polycasts #07",
             "description": "Hey there Polycasters! We wanted to take a moment to wish you all very happy holidays and thank you so much for checking out the first season. In today's episode we have highlights from the Chrome Dev Summit and a survey so *you* can let us know what content you'd like to see in the second season.",
             "duration": "1:13",
-            "level": "b",
+            "level": "a",
             "url": "https://www.youtube.com/watch?v=aDQUYs-0hxQ"
           },
           {
             "title": "The Awesome Power of Auto-Binding Templates -- Polycasts #08",
             "description": "Super charge your app with Polymer data bindings.",
             "duration": "6:39",
-            "level": "b",
+            "level": "a",
             "url": "https://www.youtube.com/watch?v=82LfXCeuaOo"
           }
           ]
       },
       {
         "site" : "Joe Maddalone",
-        "site_url": "https://www.youtube.com/user/joemaddalone/playlists",
+        "site_url": "https://www.youtube.com/playlist?list=PLKiuVKZics1fJqQnKGyTjdulTKkzYHn9u",
         "lang": "en",
         "publish": true,
         "videos": [
@@ -102,28 +102,28 @@
             "title": "Polymer: Filters",
             "description": "Creating filters is incredibly easy and useful in Polymer",
             "duration": "3:09",
-            "level": "b",
+            "level": "i",
             "url": "https://www.youtube.com/watch?v=r4zDDH4nwvI"
           },
           {
-            "title": "https://www.youtube.com/watch?v=-xX5t17e3EA",
+            "title": "Polymer: template repeat",
             "description": "ng- er... template repeat is another powerful feature of polymer-element",
             "duration": "2:57",
-            "level": "b",
+            "level": "i",
             "url": "https://www.youtube.com/watch?v=-xX5t17e3EA"
           },
           {
             "title": "Polymer: core-ajax",
             "description": "Utilizing the polymer-element component to create new components",
             "duration": "5:50",
-            "level": "b",
+            "level": "a",
             "url": "https://www.youtube.com/watch?v=a4SgOL9FrxU"
           },
            {
             "title": "Polymer: Changed Watchers and Observe Blocks ",
             "description": "Observe property changes using changed watchers or an observe block",
             "duration": "6:45",
-            "level": "b",
+            "level": "a",
             "url": "https://www.youtube.com/watch?v=vbpNIdhpz4Q"
           }
         ]
