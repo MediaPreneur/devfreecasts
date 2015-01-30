@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-01-30T12:39:10.769Z
+# rev 1 - 2015-01-30T12:46:39.136Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -7,7 +7,6 @@ http://devfreecasts.org/CNAME
 http://devfreecasts.org/about/index.html
 http://devfreecasts.org/android/index.html
 http://devfreecasts.org/angularjs/index.html
-http://devfreecasts.org/api/Polymer.json
 http://devfreecasts.org/api/android.json
 http://devfreecasts.org/api/angularjs.json
 http://devfreecasts.org/api/backbone.json
@@ -28,6 +27,7 @@ http://devfreecasts.org/api/meteor.json
 http://devfreecasts.org/api/nodejs.json
 http://devfreecasts.org/api/php.json
 http://devfreecasts.org/api/playframework.json
+http://devfreecasts.org/api/polymer.json
 http://devfreecasts.org/api/python.json
 http://devfreecasts.org/api/rails.json
 http://devfreecasts.org/api/react.json
