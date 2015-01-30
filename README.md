@@ -28,6 +28,7 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
           "title": "Screencast title",
           "description": "Screencast description",
           "duration": "3:14", // Screencast Duration
+          "level": "B", // B - Basic video, I - Intermediate video, A - Advanced video, 
           "url": "screencast's url",
           "featured": true // Is a featured video? 
         }
@@ -75,7 +76,7 @@ If you wanna add a new platform (programming language or framework), first you n
 ``` javascript
 {
   "globals": {
-    "title": "{DevFreeCasts}",
+    "title": "DevFreeCasts",
     "description": "A huge collection of free screencasts for devs",
     "name": "Caio Ribeiro Pereira",
     "email": "caio.ribeiro.pereira@gmail.com",
@@ -99,8 +100,8 @@ npm install grunt-cli -g
 To get and run this project: 
 
 ``` bash
-git clone git@github.com:caio-ribeiro-pereira/devscreencasts.git
-cd devscreencasts
+git clone git@github.com:caio-ribeiro-pereira/devfreecasts.git
+cd devfreecasts
 grunt serve
 ```
 
