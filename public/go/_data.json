@@ -8,6 +8,119 @@
     "category": "languages",
     "partners": [
       {
+        "site": "Byte-size",
+        "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
+        "lang": "en",
+        "publish": true,
+        "videos": [
+          {
+            "title": "Golang - Instalation",
+            "description": "This video demonstrates how to install the Go Programming Language (golang) onto a mac using homebrew in the terminal.",
+            "duration": "2:21",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=8BTvpeplQPU"
+          },
+          {
+            "title": "Golang - Packages",
+            "description": "A simple rundown of packages in golang",
+            "duration": "2:21",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=6DDV71WIjB8"
+          },
+          {
+            "title": "Golang - Remote Packages",
+            "description": "Describes using how to download a go repo hosted on github using the 'go get' command line tool and how to use it in a go application.",
+            "duration": "1:49",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=iSi6gvwa-mE"
+          },
+          {
+            "title": "Golang - Variables",
+            "description": "A brief rundown of go variable syntax",
+            "duration": "3:00",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=AljRP9w-N0Q"
+          },
+          {
+            "title": "Golang - Functions",
+            "description": "Basics of golang function syntax.",
+            "duration": "3:53",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=T0p70RCvnDA"
+          },
+          {
+            "title": "Golang - Loops",
+            "description": "A byte-sized run down of loops in golang",
+            "duration": "2:10",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=Job94lYlU_c"
+          },
+          {
+            "title": "Golang - If statements",
+            "description": "A byte-sized rundown of if statements in golang.",
+            "duration": "2:14",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=33_Xm5Bnjms"
+          },
+          {
+            "title": "Golang - Switch statements",
+            "description": "A byte-sized rundown of switch statements in golang.",
+            "duration": "1:27",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=SwLoO7RhVuA"
+          },
+          {
+            "title": "Golang - Structs",
+            "description": "A byte-sized rundown of structs in golang.",
+            "duration": "2:32",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=83J256zByHA"
+          },
+          {
+            "title": "Golang - More Structs",
+            "description": "A byte-sized rundown of more struct syntax in golang.",
+            "duration": "2:49",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=wAfWKlc3iro"
+          },
+          {
+            "title": "Golang - Methods",
+            "description": "A byte-sized rundown of methods in golang.",
+            "duration": "3:23",
+            "level": "b",
+            "url": "https://www.youtube.com/watch?v=z3Uo8XiTjkU"
+          },
+          {
+            "title": "Golang - Interfaces",
+            "description": "An oh so brief byte-sized rundown of interfaces in golang.",
+            "duration": "2:58",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=Ijp8vd85sYI"
+          },
+          {
+            "title": "Golang - Closure",
+            "description": "A (slightly bigger than) byte-sized rundown of closure in golang.",
+            "duration": "6:35",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=QE5QjR0CZVM"
+          },
+          {
+            "title": "Golang - Arrays",
+            "description": "A byte-sized rundown of arrays in golang.",
+            "duration": "3:23",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=WUdMrIIzdAE"
+          },
+          {
+            "title": "Golang - Slices",
+            "description": "A byte-sized rundown of slices in golang.",
+            "duration": "4:48",
+            "level": "i",
+            "url": "https://www.youtube.com/watch?v=CESkOA5kR3M"
+          }
+        ]
+      },
+      {
         "site": "The Go Programming Language",
         "site_url": "https://www.youtube.com/user/gocoding",
         "image": "golang.jpg",
