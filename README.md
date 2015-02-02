@@ -11,11 +11,13 @@ First of all you need to [fork this repository](https://github.com/caio-ribeiro-
 With this project in your hands, edit the `/public/[platform-folder]/_data.json` and add your videos respecting these parameters: 
 
 ``` javascript
-"platform-name": {
+"index": {
+  "name": "platform_name", // lowercase and underscore
   "subtitle": "Platform name",
   "about": "Platform description",
   "site": "url of the official platform site", 
   "image": "platform-logo.jpg",
+  "category": "frameworks", // frameworks, languages or devtools
   "partners": [
     {
       "site" : "Screencast site name", // Youtube, Vimeo channels are welcome too
@@ -45,10 +47,12 @@ Look this example (`public/nodejs/_data.json`):
 ``` javascript
 {
   "index": {
+    "name": "nodejs",
     "subtitle": "Node.js",
     "about": "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
     "site": "http://nodejs.org",
     "image": "nodejs.png",
+    "category": "languages",
     "partners": [
       {
         "site" : "TagTree",
