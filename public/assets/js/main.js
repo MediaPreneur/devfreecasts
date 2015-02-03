@@ -581,7 +581,7 @@ function program1(depth0,data) {
     + "</strong> freecasts.\n    </p>\n  </div>\n</div>\n<div class=\"row-fluid\">\n  ";
   stack1 = helpers.each.call(depth0, (depth0 && depth0.platforms), {hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data});
   if(stack1 || stack1 === 0) { buffer += stack1; }
-  buffer += "\n</div>\n<div class=\"row-fluid\">\n  <div class=\"col-xs-12\">\n    <p class=\"center\">\n      <strong>See also <a href=\"http://devfreebooks.org?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts\" target=\"_blank\" rel=\"me\" title=\"a huge collection of free books for devs.\">DevFreeBooks</a>.</strong>\n    </p>\n  </div>\n</div>";
+  buffer += "\n</div>";
   return buffer;
   });
 
@@ -693,15 +693,10 @@ function program5(depth0,data) {
     , dfcURL = document.querySelector("[data-dfc-url]")
     , dfcTemplate = document.querySelector("[data-dfc-template]")
     , filterCategory = document.querySelectorAll("[data-dfc-category]")
-    , menu = document.querySelectorAll("[data-dfc-menu]")
   ;
 
   toggle.addEventListener("click", function() {
-    if (collapse.classList.contains("hidden-xs")) {
-      collapse.classList.remove("hidden-xs");
-    } else {
-      collapse.classList.add("hidden-xs");
-    }
+    collapse.classList.toggle("hidden-xs");
   });
   
   for (var i = 0, len = filterCategory.length || 0; i < len; i++) {
