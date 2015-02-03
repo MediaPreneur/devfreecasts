@@ -4,15 +4,10 @@
     , dfcURL = document.querySelector("[data-dfc-url]")
     , dfcTemplate = document.querySelector("[data-dfc-template]")
     , filterCategory = document.querySelectorAll("[data-dfc-category]")
-    , menu = document.querySelectorAll("[data-dfc-menu]")
   ;
 
   toggle.addEventListener("click", function() {
-    if (collapse.classList.contains("hidden-xs")) {
-      collapse.classList.remove("hidden-xs");
-    } else {
-      collapse.classList.add("hidden-xs");
-    }
+    collapse.classList.toggle("hidden-xs");
   });
   
   for (var i = 0, len = filterCategory.length || 0; i < len; i++) {
