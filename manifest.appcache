@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-08T13:02:12.810Z
+# rev 1 - 2015-02-13T14:09:27.655Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -36,10 +36,14 @@ http://devfreecasts.org/api/scala.json
 http://devfreecasts.org/api/vim.json
 http://devfreecasts.org/assets/css/main.css
 http://devfreecasts.org/assets/css/main.gz.css
-http://devfreecasts.org/assets/font/icons.eot
-http://devfreecasts.org/assets/font/icons.svg
-http://devfreecasts.org/assets/font/icons.ttf
-http://devfreecasts.org/assets/font/icons.woff
+http://devfreecasts.org/assets/font/icon.eot
+http://devfreecasts.org/assets/font/icon.svg
+http://devfreecasts.org/assets/font/icon.ttf
+http://devfreecasts.org/assets/font/icon.woff
+http://devfreecasts.org/assets/font/opensans.eot
+http://devfreecasts.org/assets/font/opensans.svg
+http://devfreecasts.org/assets/font/opensans.ttf
+http://devfreecasts.org/assets/font/opensans.woff
 http://devfreecasts.org/assets/images/android.jpg
 http://devfreecasts.org/assets/images/angularjs.jpg
 http://devfreecasts.org/assets/images/backbone.jpg
