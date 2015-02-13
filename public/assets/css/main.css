@@ -177,6 +177,29 @@ body{
   padding:8px;
   text-transform:uppercase;
 }
+.social-footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 70px;
+  width: 100%;
+  background: transparent;
+}
+.social-footer .btn {
+  border-radius: 0;
+}
+.social-footer .btn-lg {
+  padding: 16px;
+  font-size: 26px;
+  height: 70px;
+}
+.anchor {
+  display: block;
+  height: 75px;
+  margin-top: -75px;
+  visibility: hidden;
+}
+
 /*
  * Carbon Ads CSS
  */
