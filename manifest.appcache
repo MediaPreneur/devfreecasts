@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-13T14:13:39.004Z
+# rev 1 - 2015-02-13T19:17:57.308Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -7,33 +7,6 @@ http://devfreecasts.org/CNAME
 http://devfreecasts.org/about/index.html
 http://devfreecasts.org/android/index.html
 http://devfreecasts.org/angularjs/index.html
-http://devfreecasts.org/api/android.json
-http://devfreecasts.org/api/angularjs.json
-http://devfreecasts.org/api/backbone.json
-http://devfreecasts.org/api/chrome-devtools.json
-http://devfreecasts.org/api/django.json
-http://devfreecasts.org/api/elixir.json
-http://devfreecasts.org/api/famous.json
-http://devfreecasts.org/api/git.json
-http://devfreecasts.org/api/go.json
-http://devfreecasts.org/api/grails.json
-http://devfreecasts.org/api/grunt.json
-http://devfreecasts.org/api/haskell.json
-http://devfreecasts.org/api/ios.json
-http://devfreecasts.org/api/java.json
-http://devfreecasts.org/api/javascript.json
-http://devfreecasts.org/api/menu.json
-http://devfreecasts.org/api/meteor.json
-http://devfreecasts.org/api/nodejs.json
-http://devfreecasts.org/api/php.json
-http://devfreecasts.org/api/playframework.json
-http://devfreecasts.org/api/polymer.json
-http://devfreecasts.org/api/python.json
-http://devfreecasts.org/api/rails.json
-http://devfreecasts.org/api/react.json
-http://devfreecasts.org/api/ruby.json
-http://devfreecasts.org/api/scala.json
-http://devfreecasts.org/api/vim.json
 http://devfreecasts.org/assets/css/main.css
 http://devfreecasts.org/assets/css/main.gz.css
 http://devfreecasts.org/assets/font/icon.eot
@@ -109,12 +82,10 @@ http://devfreecasts.org/assets/images/vimcasts.jpg
 http://devfreecasts.org/assets/images/watchmecode.jpg
 http://devfreecasts.org/assets/js/aightjs.gz.js
 http://devfreecasts.org/assets/js/aightjs.min.js
+http://devfreecasts.org/assets/js/application.gz.js
+http://devfreecasts.org/assets/js/application.js
 http://devfreecasts.org/assets/js/html5shiv.gz.js
 http://devfreecasts.org/assets/js/html5shiv.min.js
-http://devfreecasts.org/assets/js/main.gz.js
-http://devfreecasts.org/assets/js/main.js
-http://devfreecasts.org/assets/templates/menu.hbs
-http://devfreecasts.org/assets/templates/thumb_videos.hbs
 http://devfreecasts.org/backbone/index.html
 http://devfreecasts.org/chrome-devtools/index.html
 http://devfreecasts.org/django/index.html
@@ -130,7 +101,6 @@ http://devfreecasts.org/index.html
 http://devfreecasts.org/ios/index.html
 http://devfreecasts.org/java/index.html
 http://devfreecasts.org/javascript/index.html
-http://devfreecasts.org/manifest.webapp
 http://devfreecasts.org/meteor/index.html
 http://devfreecasts.org/nodejs/index.html
 http://devfreecasts.org/php/index.html
@@ -140,6 +110,7 @@ http://devfreecasts.org/python/index.html
 http://devfreecasts.org/rails/index.html
 http://devfreecasts.org/react/index.html
 http://devfreecasts.org/robots.txt
+http://devfreecasts.org/rss.xml
 http://devfreecasts.org/ruby/index.html
 http://devfreecasts.org/scala/index.html
 http://devfreecasts.org/vim/index.html
