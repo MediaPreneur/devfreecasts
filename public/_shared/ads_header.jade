@@ -1,3 +1,4 @@
-section.row.hidden-xs
-  div.col-xs-8.col-xs-offset-2.thumbnail.carbonads
-    script(async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=devfreecasts" id="_carbonads_js")
+if environment == "production"
+  section.row.hidden-xs
+    div.col-xs-8.col-xs-offset-2.thumbnail.carbonads
+      script(src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=devfreecasts" id="_carbonads_js")
