@@ -6,64 +6,56 @@
     "site": "http://backbonejs.org/",
     "image": "backbone.jpg",
     "category": "frameworks",
-    "partners": [
+    "videos": [
       {
-        "site" : "BackboneRails",
-        "site_url": "http://www.backbonerails.com",
-        "lang": "en",
-        "publish": true,
-        "videos": [
-          {
-            "title": "Building Dialogs with Custom Regions",
-            "description": "In this screencast we'll go through integrating a jQuery UI dialog into our Backbone application. You'll see how to create a custom region object with Marionette to serve as a specialized dialog.",
-            "duration": "36:54",
-            "level": "i",
-            "url": "http://www.backbonerails.com/screencasts/building-dialogs-with-custom-regions",
-            "published_at": "20150213"
-          },
-          {
-            "title": "Loading Views",
-            "description": "In this screencast, we'll build a fully functioning loading component using Backbone.js and Marionette.js. We'll answer how to handle old views when new views are requested.",
-            "duration": "56:50",
-            "level": "i",
-            "url": "http://www.backbonerails.com/screencasts/loading-views",
-            "published_at": "20150213"
-          }
-        ]
+        "site":"BackboneRails",
+        "site_url":"http://www.backbonerails.com",
+        "lang":"en",
+        "publish":true,
+        "title":"Loading Views",
+        "description":"In this screencast, we'll build a fully functioning loading component using Backbone.js and Marionette.js. We'll answer how to handle old views when new views are requested.",
+        "duration":"56:50",
+        "level":"i",
+        "url":"http://www.backbonerails.com/screencasts/loading-views",
+        "published_at":"20150213"
       },
       {
-        "site" : "DevCast",
-        "site_url": "http://www.youtube.com/user/DevCastVideos",
-        "image": "devcast.jpg",
-        "lang": "pt-br",
-        "publish": true,
-        "videos": [
-          {
-            "title": "Working with Backbone.js",
-            "description": "A hangouts about Backbone.js.",
-            "duration": "3:14:21",
-            "level": "i",
-            "url": "https://www.youtube.com/watch?v=ySf85uOHehw",
-            "published_at": "20150213"
-          }
-        ]
+        "site":"BackboneRails",
+        "site_url":"http://www.backbonerails.com",
+        "lang":"en",
+        "publish":true,
+        "title":"Loading Views",
+        "description":"In this screencast, we'll build a fully functioning loading component using Backbone.js and Marionette.js. We'll answer how to handle old views when new views are requested.",
+        "duration":"56:50",
+        "level":"i",
+        "url":"http://www.backbonerails.com/screencasts/loading-views",
+        "published_at":"20150213"
       },
       {
-        "site" : "Pragmatic Programmers",
-        "site_url": "https://www.youtube.com/channel/UCoSneYMkdoA4mV4SipGC94Q",
-        "image": "pragprogs.jpg",
-        "lang": "pt-br",
-        "publish": true,
-        "videos": [
-          {
-            "title": "Hands-on Backbone.js",
-            "description": "Get up to speed with Backbone to create rich, interactive applications in a browser.",
-            "duration": "2:52",
-            "level": "b",
-            "url": "https://www.youtube.com/watch?v=St3uWA7F5YM",
-            "published_at": "20150213"
-          }
-        ]
+        "site":"DevCast",
+        "site_url":"http://www.youtube.com/user/DevCastVideos",
+        "image":"devcast.jpg",
+        "lang":"pt-br",
+        "publish":true,
+        "title":"Working with Backbone.js",
+        "description":"A hangouts about Backbone.js.",
+        "duration":"3:14:21",
+        "level":"i",
+        "url":"https://www.youtube.com/watch?v=ySf85uOHehw",
+        "published_at":"20150213"
+      },
+      {
+        "site":"Pragmatic Programmers",
+        "site_url":"https://www.youtube.com/channel/UCoSneYMkdoA4mV4SipGC94Q",
+        "image":"pragprogs.jpg",
+        "lang":"pt-br",
+        "publish":true,
+        "title":"Hands-on Backbone.js",
+        "description":"Get up to speed with Backbone to create rich, interactive applications in a browser.",
+        "duration":"2:52",
+        "level":"b",
+        "url":"https://www.youtube.com/watch?v=St3uWA7F5YM",
+        "published_at":"20150213"
       }
     ]
   }

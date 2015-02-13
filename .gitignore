@@ -2,6 +2,5 @@
 www
 node_modules
 .grunt
-.azk
-public/api/*.json
-public/assets/js/main.js
+public/rss.xml
+public/assets/js/application.js

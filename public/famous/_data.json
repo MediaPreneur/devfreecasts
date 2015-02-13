@@ -6,23 +6,19 @@
     "site": "https://famo.us",
     "image": "famous.jpg",
     "category": "frameworks",
-    "partners": [
+    "videos": [
       {
         "site": "Code School",
         "site_url": "https://www.youtube.com/user/pierreericmarchandet",
         "image": "codeschool.jpg",
         "lang": "en",
         "publish": true,
-        "videos": [
-          {
-            "title": "Famo.us",
-            "description": "In this episode, Dave Fetterman explains what Famo.us is and how it can be used to build beautiful and performant applications with their framework.",
-            "duration": "17:58",
-            "level": "b",
-            "url": "https://www.codeschool.com/screencasts/famo-us",
-            "published_at": "20150213"
-          }
-        ]
+        "title": "Famo.us",
+        "description": "In this episode, Dave Fetterman explains what Famo.us is and how it can be used to build beautiful and performant applications with their framework.",
+        "duration": "17:58",
+        "level": "b",
+        "url": "https://www.codeschool.com/screencasts/famo-us",
+        "published_at": "20150213"
       },
       {
         "site": "Meteor Devshop",
@@ -30,16 +26,12 @@
         "image": "meteor.jpg",
         "lang": "en",
         "publish": true,
-        "videos": [
-          {
-            "title": "Meteor + Famo.us: Made for each other",
-            "description": "An introduction video which explores how to integrate Famo.us with Meteor frameworks",
-            "duration": "26:06",
-            "level": "i",
-            "url": "https://www.youtube.com/watch?v=bmd-cXSGQAA",
-            "published_at": "20150213"
-          }
-        ]
+        "title": "Meteor + Famo.us: Made for each other",
+        "description": "An introduction video which explores how to integrate Famo.us with Meteor frameworks",
+        "duration": "26:06",
+        "level": "i",
+        "url": "https://www.youtube.com/watch?v=bmd-cXSGQAA",
+        "published_at": "20150213"
       }
     ]
   }

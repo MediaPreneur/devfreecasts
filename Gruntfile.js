@@ -9,16 +9,6 @@ module.exports = function(grunt) {
       www: ["www"]
     },
 
-    // Execute  ======================================
-    execute: {
-      target: {
-        options: {
-          module: true
-        },
-        src: ["api.js"]
-      }
-    },
-
     // Concat ========================================
     concat: {
       options: {
@@ -26,28 +16,20 @@ module.exports = function(grunt) {
       },
       main: {
         src: [
-          "public/assets/js/_handlebars.runtime.js",
-          "public/assets/js/_templates.js",
+          "public/assets/js/_async-img.js",
           "public/assets/js/_main.js"
         ],
-        dest: "public/assets/js/main.js"
+        dest: "public/assets/js/application.js"
       }
     },
 
-    // Handlebars template ===========================
-    handlebars: {
-      compile: {
+    // Execute  ======================================
+    execute: {
+      target: {
         options: {
-          namespace: "DFC",
-          processName: function(filePath) {
-            var template = filePath.split("/");
-            template = template[template.length - 1]
-            return template.split(".")[0]; 
-          }
+          module: true
         },
-        files: {
-          "public/assets/js/_templates.js": "public/assets/templates/*.hbs"
-        }
+        src: ["feed.js"]
       }
     },
 
@@ -89,7 +71,7 @@ module.exports = function(grunt) {
     uglify: {
       main: {
         files: {
-          "www/assets/js/main.js": ["public/assets/js/main.js"]
+          "www/assets/js/application.js": ["public/assets/js/application.js"]
         }
       }
     },
@@ -130,7 +112,7 @@ module.exports = function(grunt) {
         message: "Deploying DevFreeCasts"
       },
       src: "**/*"
-    },
+    }
 
   };
 
@@ -138,16 +120,15 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks("grunt-gh-pages");
   grunt.loadNpmTasks("grunt-harp");
   grunt.loadNpmTasks("grunt-env");
-  grunt.loadNpmTasks("grunt-execute");
   grunt.loadNpmTasks("grunt-appcache");
+  grunt.loadNpmTasks("grunt-execute");
   grunt.loadNpmTasks("grunt-contrib-compress");
   grunt.loadNpmTasks("grunt-contrib-cssmin");
   grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-contrib-concat");
   grunt.loadNpmTasks("grunt-contrib-clean");
-  grunt.loadNpmTasks("grunt-contrib-handlebars");
   
-  grunt.registerTask("default",["clean", "env:dev", "handlebars", "execute", "concat", "harp:dev"]);
+  grunt.registerTask("default",["clean", "env:dev", "execute", "concat", "harp:dev"]);
   grunt.registerTask("serve", ["default"]);
-  grunt.registerTask("deploy", ["clean", "env:prod", "handlebars", "concat", "harp:prod", "execute", "cssmin", "uglify", "compress", "appcache", "gh-pages"]);
+  grunt.registerTask("deploy", ["clean", "env:prod", "execute", "concat", "harp:prod", "cssmin", "uglify", "compress", "appcache", "gh-pages"]);
 };
