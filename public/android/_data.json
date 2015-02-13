@@ -18,21 +18,24 @@
             "description": "This is videos has some tips for everybody starts develop into an Android environment.",
             "duration": "10:39",
             "level": "b",
-            "url": "https://www.youtube.com/watch?v=MVagVAOoxPo"
+            "url": "https://www.youtube.com/watch?v=MVagVAOoxPo",
+            "published_at": "20150213"
           },
           {
             "title": "Activities",
             "description": "Just a little introduction about Activities.",
             "duration": "5:06",
             "level": "b",
-            "url": "https://www.youtube.com/watch?v=sHqwe37PhQI"
+            "url": "https://www.youtube.com/watch?v=sHqwe37PhQI",
+            "published_at": "20150213"
           },
           {
             "title": "Layouts",
             "description": "Another Android's introduction video, but now it's about Layout.",
             "duration": "2:44",
             "level": "b",
-            "url": "https://www.youtube.com/watch?v=p6isKYhJjsI"
+            "url": "https://www.youtube.com/watch?v=p6isKYhJjsI",
+            "published_at": "20150213"
           }
         ]
       },
@@ -48,77 +51,88 @@
             "description": "In this Android tutorial, Marko will show you how to create your own implementation of the Application object, which you can use to make common features accessible to most parts of your Android app.",
             "duration": "1:35:15",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=jd_V7a6xhQc"
+            "url": "https://www.youtube.com/watch?v=jd_V7a6xhQc",
+            "published_at": "20150213"
           },
           {
             "title": "AsyncTask, Preferences and Options menu",
             "description": "In this tutorial Marko will begin with an explanation of threading in Android, and how you can use AsyncTask to enable proper use of the UI thread. Marko will also cover how the Android file system is organized as well as how you can use intents and the options menu to jump from one activity to another.",
             "duration": "1:42:38",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=uzJmi59b6oI"
+            "url": "https://www.youtube.com/watch?v=uzJmi59b6oI",
+            "published_at": "20150213"
           },
           {
             "title": "Main Building Blocks",
             "description": "In this 70-minute tutorial Marko Gargenta will demonstate the main building blocks for Android application development by showing you the processes behind a real world Android app.",
             "duration": "1:14:12",
             "level": "i",
-            "url": "https://www.youtube.com/watch?v=SW82-YOOMIs"
+            "url": "https://www.youtube.com/watch?v=SW82-YOOMIs",
+            "published_at": "20150213"
           },
           {
             "title": "Android UI",
             "description": "In this 2-hour tutorial Marko will build an Android app from scratch in-order to illustrate some of the key concepts for Android UI development. By the end of this tutorial you should have a solid foundation for beginning to work with the Android UI, as well as some best practices for UI development.",
             "duration": "2:04:32",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=lESZqCflB0o"
+            "url": "https://www.youtube.com/watch?v=lESZqCflB0o",
+            "published_at": "20150213"
           },
           {
             "title": "Spicing up the UI",
             "description": "In this 50-minute tutorial, Marko will pick up where he left off with in the last session, and show you how to spice up the Android UI by adding graphics, themes and colors.",
             "duration": "49:06",
             "level": "i",
-            "url": "https://www.youtube.com/watch?v=Kkoh3gFMKQA"
+            "url": "https://www.youtube.com/watch?v=Kkoh3gFMKQA",
+            "published_at": "20150213"
           },
           {
             "title": "Drawables",
             "description": "This 60-minute tutorial will focus on Android drawables and how you can use styles and the draw9patch tool to ensure they look great and scale properly across devices.",
             "duration": "58:19",
             "level": "i",
-            "url": "https://www.youtube.com/watch?v=7DQ4CRSBwLo"
+            "url": "https://www.youtube.com/watch?v=7DQ4CRSBwLo",
+            "published_at": "20150213"
           },
           {
             "title": "Traceview",
             "description": "In this 40-minute tutorial, Marko will show you how you can use the Android SDK tool Traceview to analyze data and debug issues in your Android application.",
             "duration": "38:02",
             "level": "i",
-            "url": "https://www.youtube.com/watch?v=rkN1ed35314"
+            "url": "https://www.youtube.com/watch?v=rkN1ed35314",
+            "published_at": "20150213"
           },
           {
             "title": "Effective Android Messaging",
             "description": "Messaging is a powerful addition to your Android app, but implementation can be tricky. Juan Gomez gives an overview on how to use the messaging protocols currently available on the Android platform.",
             "duration": "57:29",
             "level": "a",
-            "url": "https://thenewcircle.com/s/post/1610/effective_android_messaging_juan_gomez_video"
+            "url": "https://thenewcircle.com/s/post/1610/effective_android_messaging_juan_gomez_video",
+            "published_at": "20150213"
           },
           {
             "title": "Bluetooth & USB for Android",
             "description": "The Android framework provides options for connecting external accessory devices to applications via technologies like Bluetooth and USB. Learn how to expand the reach of your Android devices.",
             "duration": "1:43:11",
             "level": "a",
-            "url": "https://thenewcircle.com/s/post/1615/talk_to_your_toaste_bluetooth_usb_for_android_dave_smith"
+            "url": "https://thenewcircle.com/s/post/1615/talk_to_your_toaste_bluetooth_usb_for_android_dave_smith",
+            "published_at": "20150213"
           },
           {
             "title": "Exploring SDK add-ons for Android Devices",
             "description": "Larry Schiefer, instructor here at NewCircle, discusses the Android SDK, in this technical class from AnDevCon '13.",
             "duration": "51:46",
             "level": "a",
-            "url": "https://thenewcircle.com/s/post/1571/exploring_sdk_add_ons_for_android_devices_larry_schiefer_video"
+            "url": "https://thenewcircle.com/s/post/1571/exploring_sdk_add_ons_for_android_devices_larry_schiefer_video",
+            "published_at": "20150213"
           },
           {
             "title": "Mastering the Android Touch System",
             "description": "Dave Smith outlines the Android touch system, and then dives into the code, in this talk from AnDevCon '13.",
             "duration": "1:18:57",
             "level": "a",
-            "url": "https://thenewcircle.com/s/post/1567/mastering_the_android_touch_system"
+            "url": "https://thenewcircle.com/s/post/1567/mastering_the_android_touch_system",
+            "published_at": "20150213"
           }
         ]
       },
@@ -134,14 +148,16 @@
             "description": "This lesson will help get you started with Android development. We’ll begin, as expected, with the obligatory 'hello world' example.",
             "duration": "12:02",
             "level": "b",
-            "url": "http://courses.tutsplus.com/courses/android-for-the-busy-developer/lessons/getting-started"
+            "url": "http://courses.tutsplus.com/courses/android-for-the-busy-developer/lessons/getting-started",
+            "published_at": "20150213"
           },
           {
             "title": "UI Designer",
             "description": "Let’s begin by discussing the key aspects of designing user interface applications in Android.",
             "duration": "18:20",
             "level": "i",
-            "url": "http://courses.tutsplus.com/courses/android-for-the-busy-developer/lessons/ui-designer"
+            "url": "http://courses.tutsplus.com/courses/android-for-the-busy-developer/lessons/ui-designer",
+            "published_at": "20150213"
           }
         ]
       }

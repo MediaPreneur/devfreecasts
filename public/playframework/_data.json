@@ -19,42 +19,48 @@
             "description": "Play Framework makes it easy to build scalable, fast and real-time web applications with Java & Scala.",
             "duration": "20:15",
             "level": "b",
-            "url": "http://typesafe.com/resources/video/introduction-to-play-framework-for-scala-developers"
+            "url": "http://typesafe.com/resources/video/introduction-to-play-framework-for-scala-developers",
+            "published_at": "20150213"
           },
           {
             "title": "Introduction to Play Framework for Java developers",
             "description": "Play Framework makes it easy to build scalable, fast and real-time web applications with Java & Scala.",
             "duration": "20:56",
             "level": "b",
-            "url": "http://typesafe.com/resources/video/introduction-to-play-framework-for-java-developers"
+            "url": "http://typesafe.com/resources/video/introduction-to-play-framework-for-java-developers",
+            "published_at": "20150213"
           },
           {
             "title": "Play All Day: Enterprise Web Development with Play and Scala",
             "description": "In this session you will learn architecture strategies to help develop Play and Scala applications on large enterprise projects.The talk will cover strategies to help integrate Play with complex ecosystems and other enterprise development challenges.",
             "duration": "53:16",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=GnhPAdFreX4"
+            "url": "https://www.youtube.com/watch?v=GnhPAdFreX4",
+            "published_at": "20150213"
           },
           {
             "title": "Play All Day: Reactive Streams and Play 3.0",
             "description": "This presentation will dive deep into Play's architecture, and show just how reactive streams will be applied to and improve Play.",
             "duration": "35:24",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=0i0RRZvARkM"
+            "url": "https://www.youtube.com/watch?v=0i0RRZvARkM",
+            "published_at": "20150213"
           },
           {
             "title": "Play All Day: Playing with Akka",
             "description": "In this talk you will learn about how the Huffington Post leverages Akka inside of Play to build highly concurrent, low latency and fault tolerant applications to deal with process workflow and asynchronous integrations to various backend data sources.",
             "duration": "45:12",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=44A0T76JipQ"
+            "url": "https://www.youtube.com/watch?v=44A0T76JipQ",
+            "published_at": "20150213"
           },
           {
             "title": "Optimizing Play for Production",
             "description": "Play Framework is easy to deploy and scale but like any system some optimizations can help things run more smoothly. This webinar will teach you the basics of deployment, configuring thread pools, managing blocking, and common performance pitfalls.",
             "duration": "59:40",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=cnPPLpIk9mo"
+            "url": "https://www.youtube.com/watch?v=cnPPLpIk9mo",
+            "published_at": "20150213"
           }
         ]
       }

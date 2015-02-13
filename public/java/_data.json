@@ -19,14 +19,16 @@
             "description": "This talk will show you some new concepts about Lambdas, Streams, Collectors and Java.time from Java 8.",
             "duration": "53:50",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=UZaKFZHrnag"
+            "url": "https://www.youtube.com/watch?v=UZaKFZHrnag",
+            "published_at": "20150213"
           },
           {
             "title": "Java 8's JVM",
             "description": "In this talk you will learn what has changed in JVM from Java 8.",
             "duration": "38:45",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=IujuK83NXCI"
+            "url": "https://www.youtube.com/watch?v=IujuK83NXCI",
+            "published_at": "20150213"
           }
         ]
       },
@@ -42,63 +44,72 @@
             "description": "Let's learn the OOP (Object Oriented Programming) basic using Java.",
             "duration": "6:32",
             "level": "b",
-            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/introducao_a_orientacao_a_objetos.htm"
+            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/introducao_a_orientacao_a_objetos.htm",
+            "published_at": "20150213"
           },
           {
             "title": "Object Introduction",
             "description": "In this episode you will learn the basics about Java objects.",
             "duration": "6:12",
             "level": "b",
-            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/introducao_a_objetos.htm"
+            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/introducao_a_objetos.htm",
+            "published_at": "20150213"
           },
           {
             "title": "Class",
             "description": "In this video let's learn about how to build classes.",
             "duration": "8:56",
             "level": "b",
-            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/classes.htm"
+            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/classes.htm",
+            "published_at": "20150213"
           },
           {
             "title": "Class attributes",
             "description": "A short video about attribute classes for beginners.",
             "duration": "7:14",
             "level": "b",
-            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/atributos_de_classe.htm"
+            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/atributos_de_classe.htm",
+            "published_at": "20150213"
           },
           {
             "title": "Functions and Methods",
             "description": "A good video about how to handle with functions and methods.",
             "duration": "6:01",
             "level": "b",
-            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/funcoes_e_metodos.htm"
+            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/funcoes_e_metodos.htm",
+            "published_at": "20150213"
           },
           {
             "title": "Parameters and arguments",
             "description": "This is the second video about functions and methods, now explaining what are parameters and arguments.",
             "duration": "5:54",
             "level": "b",
-            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/parametros_e_argumentos.htm"
+            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/parametros_e_argumentos.htm",
+            "published_at": "20150213"
           },
           {
             "title": "Instances",
             "description": "In this video you will learn how to initialize a class creating an object's instance.",
             "duration": "6:08",
             "level": "b",
-            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/instancia.htm"
+            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/instancia.htm",
+            "published_at": "20150213"
           },
           {
             "title": "Overloading methods",
             "description": "A good video which explains how to overloading methods.",
             "duration": "8:17",
             "level": "b",
-            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/overloading.htm"
+            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/overloading.htm",
+            "published_at": "20150213"
           },
           {
             "title": "Instances",
             "description": "In this video you will learn how to initialize a class creating an object's instance.",
             "duration": "6:08",
             "level": "b",
-            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/instancia.htm"
+            "url": "http://www.excript.com/video_aulas/java/java_orientado_a_objetos/instancia.htm",
+            "published_at": "20150213"
           }
         ]
       }

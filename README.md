@@ -32,7 +32,7 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
           "duration": "3:14", // Screencast Duration
           "level": "B", // B - Basic video, I - Intermediate video, A - Advanced video, 
           "url": "screencast's url",
-          "featured": true // Is a featured video? 
+          "published_at": "20150202" // Current publish date in format YYYYMMDD
         }
       ]
     }
@@ -66,7 +66,7 @@ Look this example (`public/nodejs/_data.json`):
             "description": "You've heard a lot about node streams, in this episode you get introduced to streams and see how to code up your own read, write, and transform stream.",
             "duration": "8:28",
             "url": "http://tagtree.tv/intro-to-node-streams",
-            "featured": false
+            "published_at": "20150202"
           }
         ]
       }

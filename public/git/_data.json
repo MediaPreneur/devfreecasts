@@ -19,77 +19,88 @@
             "description": "How does version control work in general? What benefits can I expect?",
             "duration": "3:09",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/what-is-version-control?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/what-is-version-control?channel=cli",
+            "published_at": "20150213"
           },
           {
             "title": "Installing & Configuring Git",
             "description": "How do I install and configure Git on my machine?",
             "duration": "2:04",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/installing-configuring-git?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/installing-configuring-git?channel=cli",
+            "published_at": "20150213"
           },
           {
             "title": "The Basic Workflow of Version Control",
             "description": "Which steps are typically involved when using version control?",
             "duration": "3:05",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/basic-workflow?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/basic-workflow?channel=cli",
+            "published_at": "20150213"
           },
           {
             "title": "Creating a New Local Repository",
             "description": "How do I create a new repository on my machine?",
             "duration": "1:29",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/create-new-local-repository?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/create-new-local-repository?channel=cli",
+            "published_at": "20150213"
           },
           {
             "title": "Cloning an Existing Repository",
             "description": "How can I work with an existing repository from a remote server?",
             "duration": "1:59",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/clone-existing-repository?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/clone-existing-repository?channel=cli",
+            "published_at": "20150213"
           },
           {
             "title": "Inspecting Local Changes",
             "description": "Which files are currently modified - and how?",
             "duration": "4:35",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/inspect-local-changes?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/inspect-local-changes?channel=cli",
+            "published_at": "20150213"
           },
           {
             "title": "Staging & Committing Changes",
             "description": "How can I add changes to the next commit? How can I save changes as a new revision in the repository?",
             "duration": "4:38",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/stage-and-commit-changes?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/stage-and-commit-changes?channel=cli",
+            "published_at": "20150213"
           },
           {
             "title": "Commit History",
             "description": "How can I see what has happened in my repository? How can I review my repository's history?",
             "duration": "2:40",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/commit-history?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/commit-history?channel=cli",
+            "published_at": "20150213"
           },
           {
             "title": "Ignoring Files",
             "description": "How can I prevent certain files from being versioned / tracked by Git?",
             "duration": "3:42",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/ignore-files?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/ignore-files?channel=cli",
+            "published_at": "20150213"
           },
           {
             "title": "Introduction to Branches",
             "description": "What are branches? What is so special about the branching model (compared to SVN)? Why should you use them?",
             "duration": "5:43",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/introduction-to-branches?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/introduction-to-branches?channel=cli",
+            "published_at": "20150213"
           },
           {
             "title": "Creating & Checking Out Branches",
             "description": "How can I create a branch? How can I make a branch active?",
             "duration": "3:32",
             "level": "b",
-            "url": "http://www.git-tower.com/learn/videos/create-checkout-branches?channel=cli"
+            "url": "http://www.git-tower.com/learn/videos/create-checkout-branches?channel=cli",
+            "published_at": "20150213"
           }
         ]
       },
@@ -104,28 +115,32 @@
             "description": "This video explains the basics of a version control.",
             "duration": "5:59",
             "level": "b",
-            "url": "http://git-scm.com/video/what-is-version-control"
+            "url": "http://git-scm.com/video/what-is-version-control",
+            "published_at": "20150213"
           },
           {
             "title": "What is Git?",
             "description": "In this video you will learn an introduction about Git.",
             "duration": "8:15",
             "level": "b",
-            "url": "http://git-scm.com/video/what-is-git"
+            "url": "http://git-scm.com/video/what-is-git",
+            "published_at": "20150213"
           },
           {
             "title": "Get Going with Git",
             "description": "In this episode the main commands will be explained about how to survive using Git.",
             "duration": "4:26",
             "level": "b",
-            "url": "http://git-scm.com/video/get-going"
+            "url": "http://git-scm.com/video/get-going",
+            "published_at": "20150213"
           },
           {
             "title": "Quick wins with Git",
             "description": "This video explains some useful tips for Git.",
             "duration": "5:06",
             "level": "b",
-            "url": "http://git-scm.com/video/quick-wins"
+            "url": "http://git-scm.com/video/quick-wins",
+            "published_at": "20150213"
           }
         ]
       },
@@ -140,7 +155,8 @@
             "description": "This is a long screencast for beginners and intermediates learn about Git.",
             "duration": "3:17:00",
             "level": "i",
-            "url": "http://www.akitaonrails.com/2010/08/17/screencast-comecando-com-git"
+            "url": "http://www.akitaonrails.com/2010/08/17/screencast-comecando-com-git",
+            "published_at": "20150213"
           }
         ]
       }

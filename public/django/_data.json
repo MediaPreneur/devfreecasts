@@ -19,105 +19,120 @@
             "description": "Doing bulk data actions in the admin is easy, if you know how to do it. In this video you will learn how to create your own custom admin actions so you can update a lot of data objects all at the same time.",
             "duration": "5:02",
             "level": "i",
-            "url": "https://godjango.com/78-custom-django-admin-actions/"
+            "url": "https://godjango.com/78-custom-django-admin-actions/",
+            "published_at": "20150213"
           },
           {
             "title": "Project Templates with Cookiecutter",
             "description": "When we start new projects we want to solve a problem, not write boilerplate. Cookiecutter helps you to stop writing boilerplate. In this video you will learn what cookiecutter is, and how to create templates so you can save yourself time and effort starting new projects.",
             "duration": "7:55",
             "level": "i",
-            "url": "https://godjango.com/75-project-templates-with-cookiecutter/"
+            "url": "https://godjango.com/75-project-templates-with-cookiecutter/",
+            "published_at": "20150213"
           },
           {
             "title": "Using Arrow for Better Datetime",
             "description": "Learn how to be better at dealing with dates and times in python in a few short minutes. Working with dates and times in python is a lot easier than other languages, but can be convoluted and confusing. Arrow provides a convenient api for working with and manipulating dates and times. See what it takes to get started.",
             "duration": "7:17",
             "level": "i",
-            "url": "https://godjango.com/72-using-arrow-for-better-datetime/"
+            "url": "https://godjango.com/72-using-arrow-for-better-datetime/",
+            "published_at": "20150213"
           },
           {
             "title": "The Class Based 'View'",
             "description": "People often find working with class based views hard, but they are simple... Once you spend time figuring them out. In this video start with the base of building blocks and work your way through completly understanding the base View of (generic) class based views.",
             "duration": "17:58",
             "level": "i",
-            "url": "https://godjango.com/69-the-class-based-view/"
+            "url": "https://godjango.com/69-the-class-based-view/",
+            "published_at": "20150213"
           },
           {
             "title": "Understanding get_absolute_url",
             "description": "URL's can be a pain at times, but with get_absolute_url on your model it can make dealing with them on a per-object basis much simpler and cleaner across your entire site. Not to mention Django itself loves to use get_absolute_url, so it will make other tasks a lot easier.",
             "duration": "4:19",
             "level": "b",
-            "url": "https://godjango.com/67-understanding-get_absolute_url/"
+            "url": "https://godjango.com/67-understanding-get_absolute_url/",
+            "published_at": "20150213"
           },
           {
             "title": "Starting with django-allauth",
             "description": "There are a lot of ways to do authentication in django. You can do social authentication and/or django.contrib.auth authentication. Generally they are separate, but with django-allauth you can combine them both into one package. It even gives you a great jumping off place with plenty of other features.",
             "duration": "6:23",
             "level": "b",
-            "url": "https://godjango.com/65-starting-with-django-allauth/"
+            "url": "https://godjango.com/65-starting-with-django-allauth/",
+            "published_at": "20150213"
           },
           {
             "title": "Stripe, Webhooks and dj-stripe",
             "description": "Stripe is great for working with payments. Webhooks and dj-stripe make it even better, in this video learn how to use stripe webhooks with your application to get the most out of your stripe integration.",
             "duration": "8:54",
             "level": "i",
-            "url": "https://godjango.com/61-stripe-webhooks-and-dj-stripe/"
+            "url": "https://godjango.com/61-stripe-webhooks-and-dj-stripe/",
+            "published_at": "20150213"
           },
           {
             "title": "Stripe and Starting dj-stripe",
             "description": "Stripe is great, but using a library makes it even better. Dj-stripe is a great django library for working with stripe to get people to subscribe to your service. See how simple it is to start working with dj-stripe.",
             "duration": "6:44",
             "level": "b",
-            "url": "https://godjango.com/59-stripe-and-starting-dj-stripe/"
+            "url": "https://godjango.com/59-stripe-and-starting-dj-stripe/",
+            "published_at": "20150213"
           },
           {
             "title": "Starting with Stripe.js",
             "description": "We all want to make money, so learn what it takes to start accepting money on your site with stripe. Learn the basics of have a user subscribe to your site in this first part of a multi-part stripe series.",
             "duration": "11:04",
             "level": "b",
-            "url": "https://godjango.com/57-starting-with-stripejs/"
+            "url": "https://godjango.com/57-starting-with-stripejs/",
+            "published_at": "20150213"
           },
           {
             "title": "Django 1.7 Migrations - An Introduction",
             "description": "See what it takes to use the new migrations system that has been integrated into Django 1.7. This video walks you through how to create migrations, and run them. Along with a few other key points you might want to know.",
             "duration": "5:37",
             "level": "b",
-            "url": "https://godjango.com/53-django-17-migrations-an-introduction/"
+            "url": "https://godjango.com/53-django-17-migrations-an-introduction/",
+            "published_at": "20150213"
           },
           {
             "title": "Better Models Through Custom Managers and QuerySets",
             "description": "Learn what it takes to get common queries chain-able, and slimmer. This video goes over custom model managers and custom querysets so you can write better code, cleaner, code by harnessing the power of Django and OOP.",
             "duration": "6:42",
             "level": "a",
-            "url": "https://godjango.com/51-better-models-through-custom-managers-and-querysets/"
+            "url": "https://godjango.com/51-better-models-through-custom-managers-and-querysets/",
+            "published_at": "20150213"
           },
           {
             "title": "Compile and Compress Assets with django-pipeline",
             "description": "Using things like CoffeeScript, Stylus, Less, SASS/SCSS, etc... Is becoming a more and more core part of development, but the problem usually is compiling these assets for use on our site. With django-pipeline this process is now much easier in both development and production.",
             "duration": "8:05",
             "level": "b",
-            "url": "https://godjango.com/49-compile-and-compress-assets-with-django-pipeline/"
+            "url": "https://godjango.com/49-compile-and-compress-assets-with-django-pipeline/",
+            "published_at": "20150213"
           },
           {
             "title": "django-storages and AmazonS3",
             "description": "Saving files in the cloud, be it Amazon S3, Azure, or Rackspace, is very common now and almost a requirement. django-storages makes this seemless. This video shows you just how easy it is to get started.",
             "duration": "6:22",
             "level": "i",
-            "url": "https://godjango.com/47-django-storages-and-amazons3/"
+            "url": "https://godjango.com/47-django-storages-and-amazons3/",
+            "published_at": "20150213"
           },
           {
             "title": "Start Your API - django-rest-framework part 1",
             "description": "In this video we start creating our API by learning what it takes to put data in our database, and retrieve it back doing all of our CRUD operations. django-rest-framework makes it very simple to accomplish with a minimal amount of effort.",
             "duration": "11:47",
             "level": "i",
-            "url": "https://godjango.com/41-start-your-api-django-rest-framework-part-1/"
+            "url": "https://godjango.com/41-start-your-api-django-rest-framework-part-1/",
+            "published_at": "20150213"
           },
           {
             "title": "Permissions & Authentication - django-rest-framework part 2",
             "description": "Learn how to use basic authentication with your new API, and setup custom permissions to get fine grained precision of what can be done with data.",
             "duration": "8:14",
             "level": "i",
-            "url": "https://godjango.com/43-permissions-authentication-django-rest-framework-part-2/"
+            "url": "https://godjango.com/43-permissions-authentication-django-rest-framework-part-2/",
+            "published_at": "20150213"
           }
         ]
       },
@@ -133,21 +148,24 @@
             "description": "In this week's screencast we will discussing setting up testing using django and pytest-django. We introduce the django project we will be using for testing courtside. We cover use of django-fixtures and testing django views with py.test.",
             "duration": "14:00",
             "level": "b",
-            "url": "http://neckbeardrepublic.com/screencasts/testing-django-1"
+            "url": "http://neckbeardrepublic.com/screencasts/testing-django-1",
+            "published_at": "20150213"
           },
           {
             "title": "Django Testing 2",
             "description": "In this week's screencast we take the test we wrote last week and we integrate factory_boy. This tool allows you to create sample data for your web application quickly and easily, while reducing the complexity of maintaining django fixtures as well as speeds up your test speed.",
             "duration": "25:00",
             "level": "b",
-            "url": "http://neckbeardrepublic.com/screencasts/testing-django-2"
+            "url": "http://neckbeardrepublic.com/screencasts/testing-django-2",
+            "published_at": "20150213"
           },
           {
             "title": "Django Custom Template Tags",
             "description": "In this week's screencast we introduce custom template tag in our courtside application. We will learn how to implement, use, and include custom template tags in our projects.",
             "duration": "10:00",
             "level": "i",
-            "url": "http://neckbeardrepublic.com/screencasts/django-custom-template-tags"
+            "url": "http://neckbeardrepublic.com/screencasts/django-custom-template-tags",
+            "published_at": "20150213"
           }
         ]
       }

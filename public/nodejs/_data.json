@@ -18,14 +18,16 @@
             "description": "In this screencast you will learn what are Node.js packages, how to install and use them. You will also create own package and publish it to the npm repository as well as learn how to find quality third party packages and how to use npm tool to manage your dependencies.",
             "duration": "20:30",
             "level": "b",
-            "url": "http://www.tutsowl.com/learn/4-npm-and-nodejs-packages/" 
+            "url": "http://www.tutsowl.com/learn/4-npm-and-nodejs-packages/" ,
+            "published_at": "20150213"
           },
           {
             "title": "How to create and use Node.js",
             "description": "In this episode you will learn what Node.js modules are, how to load and use them. You will also create your own module and learn different ways of exporting functions and variables. ",
             "duration": "17:15",
             "level": "b",
-            "url": "http://www.tutsowl.com/learn/3-creating-and-using-nodejs-modules/" 
+            "url": "http://www.tutsowl.com/learn/3-creating-and-using-nodejs-modules/" ,
+            "published_at": "20150213"
           }
         ]
       },
@@ -41,35 +43,40 @@
             "description": "Koajs was built by the developers that created express.js, so they bring a wealth of knowledge and experience to koajs. In this episode I will show you how to install nodejs and create a basic Koajs app as well as create custom middleware.",
             "duration": "13:24",
             "level": "i",
-            "url": "http://knowthen.com/episode-3-koajs-quickstart-guide" 
+            "url": "http://knowthen.com/episode-3-koajs-quickstart-guide" ,
+            "published_at": "20150213"
           },
           {
             "title": "Writing Middleware in Koajs",
             "description": "In this episode we’ll learn to write middleware, the foundational building block for Koajs and Expressjs.",
             "duration": "17:59",
             "level": "a",
-            "url": "http://knowthen.com/episode-4-writing-middleware-in-koajs/" 
+            "url": "http://knowthen.com/episode-4-writing-middleware-in-koajs/" ,
+            "published_at": "20150213"
           },
           {
             "title": "Creating Models in Koajs",
             "description": "In this episode we will learn to create models in koajs, more specifically we’ll create a user model.",
             "duration": "15:27",
             "level": "i",
-            "url": "http://knowthen.com/episode-5-creating-models-in-koajs/" 
+            "url": "http://knowthen.com/episode-5-creating-models-in-koajs/" ,
+            "published_at": "20150213"
           },
           {
             "title": "Understanding JavaScript Generators",
             "description": "I will show you how to create and interact with Generators, and your life will be better! (I might be overselling it)",
             "duration": "8:39",
             "level": "i",
-            "url": "http://knowthen.com/episode-2-understanding-javascript-generators" 
+            "url": "http://knowthen.com/episode-2-understanding-javascript-generators" ,
+            "published_at": "20150213"
           },
           {
             "title": "Callbacks vs. Generators",
             "description": "Callback functions makes simple things complicated. Now there is a new options: Generators which will make your life much easier. Checkout this video that shows you a callback solution that gets converted to generators.",
             "duration": "7:29",
             "level": "i",
-            "url": "http://knowthen.com/node-js-callbacks-vs-generators" 
+            "url": "http://knowthen.com/node-js-callbacks-vs-generators" ,
+            "published_at": "20150213"
           }
         ]
       },
@@ -85,21 +92,24 @@
             "description": "This talk will share some concepts about how create nodebots.",
             "duration": "46:31",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=lKogyZZJt_0" 
+            "url": "https://www.youtube.com/watch?v=lKogyZZJt_0" ,
+            "published_at": "20150213"
           },
           {
             "title": "Production-ready Node Architecture",
             "description": "This is a speaker from Hunter Loftis which introduces a node architecture applications case for production environment.",
             "duration": "1:24:42",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=9Qg9q5ABsvE" 
+            "url": "https://www.youtube.com/watch?v=9Qg9q5ABsvE" ,
+            "published_at": "20150213"
           },
           {
             "title": "Develop, Deploy, Monitor and Scale REST APIs Built in Node.js",
             "description": "This talk is from Shubhra Kar and will share some tips and tools about how built REST APIs with Node.js",
             "duration": "1:45:47",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=2WI1nVrdxjY" 
+            "url": "https://www.youtube.com/watch?v=2WI1nVrdxjY" ,
+            "published_at": "20150213"
           }
         ]
       },
@@ -115,63 +125,72 @@
             "description": "Last time we saw the anatomy of a Cross-site Request Forgery attack, or CSRF for short. In this episode we'll see how to protect against this attack vector.",
             "duration": "8:14",
             "level": "i",
-            "url": "http://www.learnallthenodes.com/episodes/35-protecting-against-csrf-attacks-in-node" 
+            "url": "http://www.learnallthenodes.com/episodes/35-protecting-against-csrf-attacks-in-node" ,
+            "published_at": "20150213"
           },
           {
             "title": "Anatomy of a cross-site request forgery attack",
             "description": "In today's episode we're going to learn about an attack vector called cross-site request forgery and a means to deal with it.",
             "duration": "6:04",
             "level": "i",
-            "url": "http://www.learnallthenodes.com/episodes/34-anatomy-of-a-cross-site-request-forgery-attack" 
+            "url": "http://www.learnallthenodes.com/episodes/34-anatomy-of-a-cross-site-request-forgery-attack" ,
+            "published_at": "20150213"
           },
           {
             "title": "How to structure a Node app",
             "description": "This episode presents a solution, proposing an app structure that has successfully taken some apps from inception to production. We don't build a framework, per se; we just show a way of organizing our app so that everything has a place, and we know where to find what we're looking for.",
             "duration": "17:03",
             "level": "b",
-            "url": "http://www.learnallthenodes.com/episodes/8-how-to-structure-a-node-app" 
+            "url": "http://www.learnallthenodes.com/episodes/8-how-to-structure-a-node-app" ,
+            "published_at": "20150213"
           },
           {
             "title": "NVM: Node Package Manager",
             "description": "In this episode, I'm going to show you how I installed Node and a fantastic tool for managing different Node versions. Node is under active development, so new versions come out pretty regularly. With today's episode, you'll be able to experiment with the new ones with ease.",
             "duration": "5:23",
             "level": "b",
-            "url": "http://www.learnallthenodes.com/episodes/31-nvm-node-version-manager" 
+            "url": "http://www.learnallthenodes.com/episodes/31-nvm-node-version-manager" ,
+            "published_at": "20150213"
           },
           {
             "title": "Auto-restart your server with this weird trick",
             "description": "What if there were a way to have our server automatically pick up our changes without our manual effort? That's just the topic for this week's episode.",
             "duration": "4:07",
             "level": "i",
-            "url": "http://www.learnallthenodes.com/episodes/30-auto-restart-your-dev-server-with-this-one-weird-trick" 
+            "url": "http://www.learnallthenodes.com/episodes/30-auto-restart-your-dev-server-with-this-one-weird-trick" ,
+            "published_at": "20150213"
           },
           {
             "title": "Authorization with Passport - Part 1",
             "description": " Thus far with Passport we've created a sign-up form and submitted it to our server, and we responded appropriately based on whether or not our user sends us a valid email/password combination. And that's a good stepping stone, but it's not quite enough for an effective application. We need to prevent access to entire sections of our application based on whether or not the user is logged in.",
             "duration": "7:14",
             "level": "i",
-            "url": "http://www.learnallthenodes.com/episodes/23-authorization-with-passport-part-1-ensuring-theyre-logged-in" 
+            "url": "http://www.learnallthenodes.com/episodes/23-authorization-with-passport-part-1-ensuring-theyre-logged-in" ,
+            "published_at": "20150213"
           },
           {
             "title": "Authorization with Passport - Part 2",
             "description": "In our previous episodes with Passport we've set up a way to verify that a user is who the user claims to be. In this episode we're going to ensure that our users have the permissions they're claiming, and we do that with a package called 'authorized'.",
             "duration": "11:08",
             "level": "i",
-            "url": "http://www.learnallthenodes.com/episodes/25-authorization-part-2-ensuring-they-have-permission" 
+            "url": "http://www.learnallthenodes.com/episodes/25-authorization-part-2-ensuring-they-have-permission" ,
+            "published_at": "20150213"
           },
           {
             "title": "Testing in Node.js",
             "description": "Mocha is a testing framework that provides us with a way to organize tests and group them together logically. Paired up with the `assert` module that's built right into Node, Mocha quite nearly takes care of all the framework we need to write tests. We won't get into testing our route handlers here, but this episode will give us the core that we need to start testing our domain layer.",
             "duration": "12:34",
             "level": "i",
-            "url": "http://www.learnallthenodes.com/episodes/15-testing-in-nodejs" 
+            "url": "http://www.learnallthenodes.com/episodes/15-testing-in-nodejs" ,
+            "published_at": "20150213"
           },
           {
             "title": "More advanced Jade",
             "description": "We're going to round out or Jade knowledge with a look at its more advanced features. Have a list of things you need to iterate over? We've got you covered. Want to include Markdown in your template? There a filter for that. Do you want a style question to start a Twitter flame war over? It's all included in this very special double-digit episode.",
             "duration": "10:01",
             "level": "a",
-            "url": "http://www.learnallthenodes.com/episodes/10-more-advanced-jade" 
+            "url": "http://www.learnallthenodes.com/episodes/10-more-advanced-jade" ,
+            "published_at": "20150213"
           }
         ]
       },
@@ -186,7 +205,8 @@
             "description": "A quick video which shows 10 good reasons to choose Node.js as your new platform to build web applications",
             "duration": "1:42",
             "level": "b",
-            "url": "https://www.youtube.com/watch?v=eg8P7Sy9d3k" 
+            "url": "https://www.youtube.com/watch?v=eg8P7Sy9d3k" ,
+            "published_at": "20150213"
           }
         ]
       },
@@ -201,7 +221,8 @@
             "description": "Jim R. Wilson, author of Node.js the Right Way, explains how to build distributed systems using ØMQ at a Node.js in the Wild meetup.",
             "duration": "48:00",
             "level": "a",
-            "url": "https://www.youtube.com/watch?v=zgDjaJdAB9c" 
+            "url": "https://www.youtube.com/watch?v=zgDjaJdAB9c" ,
+            "published_at": "20150213"
           }
         ]
       },
@@ -217,35 +238,40 @@
             "description": "This lesson will explain some of the main breaking changes between Express 3 and Express 4.",
             "duration": "1:58",
             "level": "a",
-            "url": "https://egghead.io/lessons/nodejs-migrate-to-express-4"
+            "url": "https://egghead.io/lessons/nodejs-migrate-to-express-4",
+            "published_at": "20150213"
           },
           {
             "title": "npm init",
             "description": "The command npm init provides an interactive step-by-step interface for creating a package.json",
             "duration": "1:29",
             "level": "b",
-            "url": "https://egghead.io/lessons/nodejs-npm-init"
+            "url": "https://egghead.io/lessons/nodejs-npm-init",
+            "published_at": "20150213"
           },
           {
             "title": "CommonJS Basics Introduction",
             "description": "CoomonJS modules provide a clean syntax for importing dependencies. This lesson will take a look at the basics of using CommonJS modules.",
             "duration": "3:18",
             "level": "b",
-            "url": "https://egghead.io/lessons/nodejs-commonjs-basics-introduction"
+            "url": "https://egghead.io/lessons/nodejs-commonjs-basics-introduction",
+            "published_at": "20150213"
           },
           {
             "title": "What are CommonJS Modules?",
             "description": "CommonJS modules provide a clean way to import dependencies in JavaScript.",
             "duration": "3:02",
             "level": "b",
-            "url": "https://egghead.io/lessons/nodejs-what-are-commonjs-modules"
+            "url": "https://egghead.io/lessons/nodejs-what-are-commonjs-modules",
+            "published_at": "20150213"
           },
           {
             "title": "Introduction to Browserify",
             "description": "Browserify is a tool that brings node.js style development to the browser.",
             "duration": "4:37",
             "level": "b",
-            "url": "https://egghead.io/lessons/nodejs-introduction-to-browserify-part-1"
+            "url": "https://egghead.io/lessons/nodejs-introduction-to-browserify-part-1",
+            "published_at": "20150213"
           }
         ]
       },
@@ -261,7 +287,8 @@
             "description": "A hangouts about using Node.js with MongoDB.",
             "duration": "43:21",
             "level": "i",
-            "url": "http://www.youtube.com/watch?v=0lTWkG_hH5M"
+            "url": "http://www.youtube.com/watch?v=0lTWkG_hH5M",
+            "published_at": "20150213"
           }
         ]
       },
@@ -277,7 +304,8 @@
             "description": "You've heard a lot about node streams, in this episode you get introduced to streams and see how to code up your own read, write, and transform stream.",
             "duration": "8:28",
             "level": "a",
-            "url": "http://tagtree.tv/intro-to-node-streams"
+            "url": "http://tagtree.tv/intro-to-node-streams",
+            "published_at": "20150213"
           }
         ]
       },
@@ -293,7 +321,8 @@
             "description": "The next step is to create the directory for our project. Also, we’ll need to set things up for browser testing, since our template will only support Node testing by default.",
             "duration": "9:20",
             "level": "i",
-            "url": "http://courses.tutsplus.com/courses/building-npm-packages/lessons/setting-up-the-project"
+            "url": "http://courses.tutsplus.com/courses/building-npm-packages/lessons/setting-up-the-project",
+            "published_at": "20150213"
           }
         ]
       },
@@ -309,35 +338,40 @@
             "description": "What is Node.js and why might you want to use it?",
             "duration": "6:40",
             "level": "b",
-            "url": "http://nodecasts.net/episodes/1-introduction-to-nodejs"
+            "url": "http://nodecasts.net/episodes/1-introduction-to-nodejs",
+            "published_at": "20150213"
           },
           {
             "title": "Node.js First Steps",
             "description": "We'll learn out how to install Node.js, as well as how to maintain different Node versions using NVM. We'll also build a basic HTTP server.",
             "duration": "7:30",
             "level": "b",
-            "url": "http://nodecasts.net/episodes/2-nodejs-first-steps"
+            "url": "http://nodecasts.net/episodes/2-nodejs-first-steps",
+            "published_at": "20150213"
           },
           {
             "title": "Modules",
             "description": "Modules are the building blocks of Node.js applications. Find out how to use them and how to create your own.",
             "duration": "7:25",
             "level": "b",
-            "url": "http://nodecasts.net/episodes/3-modules"
+            "url": "http://nodecasts.net/episodes/3-modules",
+            "published_at": "20150213"
           },
           {
             "title": "Packages and NPM",
             "description": "Packages allow programmers to share their modules with the world. Find out how to use npm to install packages and manage package dependencies.",
             "duration": "8:53",
             "level": "b",
-            "url": "http://nodecasts.net/episodes/4-packages-and-npm"
+            "url": "http://nodecasts.net/episodes/4-packages-and-npm",
+            "published_at": "20150213"
           },
           {
             "title": "Thinking Asynchronously",
             "description": "This talk is about some common patterns and pitfalls for working in an asynchronous environment.",
             "duration": "12:31",
             "level": "i",
-            "url": "http://nodecasts.net/episodes/5-thinking-asynchronously"
+            "url": "http://nodecasts.net/episodes/5-thinking-asynchronously",
+            "published_at": "20150213"
           }
         ]
       }

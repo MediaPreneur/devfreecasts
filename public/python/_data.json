@@ -18,49 +18,56 @@
             "description": "This post is part 1 of my many-part series entitled Python for .NET Developers. This first video and blog post simply introduce the series and provide a very brief Python language introduction. Without further adieu, here’s the video.",
             "duration": "9:47",
             "level": "b",
-            "url": "http://blog.michaelckennedy.net/2014/01/03/part-1-welcome-and-lightning-fast-python-introduction-in-python-for-net-developers-series/"
+            "url": "http://blog.michaelckennedy.net/2014/01/03/part-1-welcome-and-lightning-fast-python-introduction-in-python-for-net-developers-series/",
+            "published_at": "20150213"
           },
           {
             "title": "Visual Studio and IDEs",
             "description": "This post is part 2 of my many-part series entitled Python for .NET Developers. This video explores choosing an IDE for Python development, especially one that will make .NET developers comfortable. What the video and visit the links below to get started.",
             "duration": "8:52",
             "level": "b",
-            "url": "http://blog.michaelckennedy.net/2014/01/03/part-2-visual-studio-and-ides-in-python-for-net-developers-series/"
+            "url": "http://blog.michaelckennedy.net/2014/01/03/part-2-visual-studio-and-ides-in-python-for-net-developers-series/",
+            "published_at": "20150213"
           },
           {
             "title": "A single, common base-type",
             "description": "This post is part 3 of my many-part series entitled Python for .NET Developers. This video explores Python’s equivalent of C#’s ‘everything derives from System.Object’ common type system.",
             "duration": "3:28",
             "level": "b",
-            "url": "http://blog.michaelckennedy.net/2014/01/06/part-3-a-single-common-base-type-in-python-for-net-developers-series/"
+            "url": "http://blog.michaelckennedy.net/2014/01/06/part-3-a-single-common-base-type-in-python-for-net-developers-series/",
+            "published_at": "20150213"
           },
           {
             "title": "Foreach and IEnumerable",
             "description": "This post is part 4 of my many-part series entitled Python for .NET Developers. This video explores Python’s equivalent of C#’s foreach loops and IEnumerable interface.",
             "duration": "6:26",
             "level": "b",
-            "url": "http://blog.michaelckennedy.net/2014/01/07/part-4-foreach-and-ienumerable-in-python-for-net-developers-series/"
+            "url": "http://blog.michaelckennedy.net/2014/01/07/part-4-foreach-and-ienumerable-in-python-for-net-developers-series/",
+            "published_at": "20150213"
           },
           {
             "title": "Properties",
             "description": "This post is part 5 of my many-part series entitled Python for .NET Developers. This video explores Python’s equivalent of C#’s properties including read-only and computed properties.",
             "duration": "6:20",
             "level": "b",
-            "url": "http://blog.michaelckennedy.net/2014/01/08/part-5-properties-in-python-for-net-developers-series/"
+            "url": "http://blog.michaelckennedy.net/2014/01/08/part-5-properties-in-python-for-net-developers-series/",
+            "published_at": "20150213"
           },
           {
             "title": "Anonymous Types",
             "description": "This post is part 6 of my many-part series entitled Python for .NET Developers. This video explores Python’s equivalent of C#’s anonymous types including a custom class to make things smoother on the Python side.",
             "duration": "7:35",
             "level": "b",
-            "url": "http://blog.michaelckennedy.net/2014/01/09/part-6-anonymous-types-in-python-for-net-developers-series/"
+            "url": "http://blog.michaelckennedy.net/2014/01/09/part-6-anonymous-types-in-python-for-net-developers-series/",
+            "published_at": "20150213"
           },
           {
             "title": "Lambda Expressions",
             "description": "This post is part 7 of my many-part series entitled Python for .NET Developers. This video explores Python’s equivalent of C#’s lambda expressions.",
             "duration": "5:34",
             "level": "b",
-            "url": "http://blog.michaelckennedy.net/2014/01/10/part-7-lambda-expressions-in-python-for-net-developers-series/"
+            "url": "http://blog.michaelckennedy.net/2014/01/10/part-7-lambda-expressions-in-python-for-net-developers-series/",
+            "published_at": "20150213"
           }
         ]
       },
@@ -76,84 +83,96 @@
             "description": "This screencast is focusing Python Idioms for people coming from other languages and generally improve your idiomatic practices with Python. We will cover things to do with string concatenation, dictionary look ups, dealing with python scripts and encoding.",
             "duration": "10:00",
             "level": "i",
-            "url": "http://neckbeardrepublic.com/screencasts/idiomatic-python"
+            "url": "http://neckbeardrepublic.com/screencasts/idiomatic-python",
+            "published_at": "20150213"
           },
           {
             "title": "Converting Python2 to Python3",
             "description": "In this screencast we discuss the process of converting a python2 application to python3. We go through the entire process of identifying incompatible differences as well as rectifying them.",
             "duration": "18:00",
             "level": "a",
-            "url": "http://neckbeardrepublic.com/screencasts/converting-python-2-to-python-3"
+            "url": "http://neckbeardrepublic.com/screencasts/converting-python-2-to-python-3",
+            "published_at": "20150213"
           },
           {
             "title": "CLI Applications and Packaging Part 1",
             "description": "In this screencast we discuss packaging python applications as well as writing your first command line application in python using`docopt` and `termcolor`. We also cover setting up your first `setup.py` and few tricks to speed up your development process along the way!",
             "duration": "22:00",
             "level": "i",
-            "url": "http://neckbeardrepublic.com/screencasts/cli-applications-and-packaging-part-1"
+            "url": "http://neckbeardrepublic.com/screencasts/cli-applications-and-packaging-part-1",
+            "published_at": "20150213"
           },
           {
             "title": "CLI Applications and Packaging Part 2",
             "description": "In this screencast we will share a few tips on how to avoid broken python releases as well a few convenience methods to make the whole process a bit easier, and we touch slightly on versioning concepts.",
             "duration": "13:00",
             "level": "i",
-            "url": "http://neckbeardrepublic.com/screencasts/cli-applications-and-packaging-part-2"
+            "url": "http://neckbeardrepublic.com/screencasts/cli-applications-and-packaging-part-2",
+            "published_at": "20150213"
           },
           {
             "title": "Python Decorators as Classes",
             "description": "This screencast we will discuss about decorators and the use of them in python. We go through and example of building a cache for functions, so if something is requested twice we are able to retrieve it from the dictionary the second time through. We implement this using a decorator implemented as a class.",
             "duration": "15:00",
             "level": "i",
-            "url": "http://neckbeardrepublic.com/screencasts/python-decorators-as-classes"
+            "url": "http://neckbeardrepublic.com/screencasts/python-decorators-as-classes",
+            "published_at": "20150213"
           },
           {
             "title": "Python Decorators as Functions",
             "description": "In this week's screencast will we talking about decorators as functions and how to deal with function masking when writing these decorators. We cover a simple example on how to italicize and bold text for html output using decorators.",
             "duration": "15:00",
             "level": "i",
-            "url": "http://neckbeardrepublic.com/screencasts/python-decorators-as-functions"
+            "url": "http://neckbeardrepublic.com/screencasts/python-decorators-as-functions",
+            "published_at": "20150213"
           },
           {
             "title": "Python Exceptions",
             "description": "In this week's screencast we are discussing the proper handling of Python Exceptions as well as protecting yourself from when things go wrong. We also touch on the clean up, after an exception occurs as well as defining your own exception when the need arises.",
             "duration": "15:00",
             "level": "b",
-            "url": "http://neckbeardrepublic.com/screencasts/python-exceptions"
+            "url": "http://neckbeardrepublic.com/screencasts/python-exceptions",
+            "published_at": "20150213"
           },
           {
             "title": "Introduction to Pandas and Vicent",
             "description": "In this week's screencast I cover an introduction to pandas two main data structures as well as teach you how to visualize your data using vincent once you are done munging it with pandas.",
             "duration": "17:00",
             "level": "i",
-            "url": "http://neckbeardrepublic.com/screencasts/pandas-vincent"
+            "url": "http://neckbeardrepublic.com/screencasts/pandas-vincent",
+            "published_at": "20150213"
           },
           {
             "title": "Lambdas functions",
             "description": "In this week's screencast we will be discussing lambda functions and how are written and when to use them. We will touch on a few examples as well as conditional expressions.",
             "duration": "10:00",
             "level": "a",
-            "url": "http://neckbeardrepublic.com/screencasts/lambdas-functions"
+            "url": "http://neckbeardrepublic.com/screencasts/lambdas-functions",
+            "published_at": "20150213"
           },
           {
             "title": "Iterables and Iterators",
             "description": "In this week's screencast we aim to clarify the difference between iterables and iterators and the differences between each. Tons of people confuse these all the time due to that similar sounding nature, this screencast aims to clear it up and show how each behave.",
             "duration": "9:00",
             "level": "b",
-            "url": "http://neckbeardrepublic.com/screencasts/iterables-and-iterators"
+            "url": "http://neckbeardrepublic.com/screencasts/iterables-and-iterators",
+            "published_at": "20150213"
           },
           {
             "title": "Datetimes and Timezones",
             "description": "In this week's screencast we discuss timezone and datetime in python, we discuss terminology and layout the concepts for dealing with and handling datetimes with timezones in python. We then go on to introduce a datetime module named Delorean.",
             "duration": "15:00",
             "level": "b",
-            "url": "http://neckbeardrepublic.com/screencasts/datetimes-and-timezones"
+            "url": "http://neckbeardrepublic.com/screencasts/datetimes-and-timezones",
+            "published_at": "20150213"
           },
           {
             "title": "Python Mocking",
             "description": "In this week's screencast we will be doing a little more testing, but now jumping into the realm of mocking out certain systems under test. We will cover the various things possible with the Mock and MagicMock objects.",
             "duration": "17:00",
             "level": "i",
-            "url": "http://neckbeardrepublic.com/screencasts/python-mocking"
+            "url": "http://neckbeardrepublic.com/screencasts/python-mocking",
+            "published_at": "20150213"
           }
         ]
       }

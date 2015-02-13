@@ -19,7 +19,8 @@
             "description": "In this episode, Dave Fetterman explains what Famo.us is and how it can be used to build beautiful and performant applications with their framework.",
             "duration": "17:58",
             "level": "b",
-            "url": "https://www.codeschool.com/screencasts/famo-us"
+            "url": "https://www.codeschool.com/screencasts/famo-us",
+            "published_at": "20150213"
           }
         ]
       },
@@ -35,7 +36,8 @@
             "description": "An introduction video which explores how to integrate Famo.us with Meteor frameworks",
             "duration": "26:06",
             "level": "i",
-            "url": "https://www.youtube.com/watch?v=bmd-cXSGQAA"
+            "url": "https://www.youtube.com/watch?v=bmd-cXSGQAA",
+            "published_at": "20150213"
           }
         ]
       }
