@@ -18,23 +18,19 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
   "site": "url of the official platform site", 
   "image": "platform-logo.jpg",
   "category": "frameworks", // frameworks, languages or devtools
-  "partners": [
+  "videos": [
     {
       "site" : "Screencast site name", // Youtube, Vimeo channels are welcome too
       "site_url": "url of the screencast site",
       "image": "screencast site logo.jpg",
       "lang": "screencast language. Ex.: EN, PT-BR, ES..",
       "publish": true, // Publish to devfreecast site
-      "videos": [
-        {
-          "title": "Screencast title",
-          "description": "Screencast description",
-          "duration": "3:14", // Screencast Duration
-          "level": "B", // B - Basic video, I - Intermediate video, A - Advanced video, 
-          "url": "screencast's url",
-          "published_at": "20150202" // Current publish date in format YYYYMMDD
-        }
-      ]
+      "title": "Screencast title",
+      "description": "Screencast description",
+      "duration": "3:14", // Screencast Duration
+      "level": "B", // B - Basic video, I - Intermediate video, A - Advanced video, 
+      "url": "screencast's url",
+      "published_at": "20150202" // Current publish date in format YYYYMMDD
     }
   ]
 },
@@ -53,22 +49,18 @@ Look this example (`public/nodejs/_data.json`):
     "site": "http://nodejs.org",
     "image": "nodejs.png",
     "category": "languages",
-    "partners": [
+    "videos": [
       {
         "site" : "TagTree",
         "site_url": "http://tagtree.tv",
         "image": "tagtree.jpg",
         "lang": "en",
         "publish": true,
-        "videos": [
-          {
-            "title": "Node Streams",
-            "description": "You've heard a lot about node streams, in this episode you get introduced to streams and see how to code up your own read, write, and transform stream.",
-            "duration": "8:28",
-            "url": "http://tagtree.tv/intro-to-node-streams",
-            "published_at": "20150202"
-          }
-        ]
+        "title": "Node Streams",
+        "description": "You've heard a lot about node streams, in this episode you get introduced to streams and see how to code up your own read, write, and transform stream.",
+        "duration": "8:28",
+        "url": "http://tagtree.tv/intro-to-node-streams",
+        "published_at": "20150202"
       }
     ]
   }
