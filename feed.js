@@ -28,13 +28,17 @@ module.exports = function() {
       var videoId = video.title.replace(/[^\w\s]/g, "").replace(/\s/g, "-").toLowerCase();
       var videoLink = rootUrl + platformName + "/#" + videoId;
       var videoPublishedAt = moment(video.published_at || moment().format("YYYYMMDD"), "YYYYMMDD");
+      var videoImage = imageRootUrl + (video.image || platform.image);
 
       videos.push({
         title: "Video: " + video.title,
         description: video.description,
         url: videoLink,
         author: harp.author,
-        date: videoPublishedAt.format("ll")
+        date: videoPublishedAt.format("ll"),
+        enclosure: {
+          url: videoImage
+        }
       });
     });
   });
