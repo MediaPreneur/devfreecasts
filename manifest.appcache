@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-17T13:48:20.186Z
+# rev 1 - 2015-02-17T16:49:05.892Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -25,6 +25,8 @@ http://devfreecasts.org/assets/images/chrome-devtools.jpg
 http://devfreecasts.org/assets/images/coderstv.jpg
 http://devfreecasts.org/assets/images/codeschool.jpg
 http://devfreecasts.org/assets/images/conexao-java.jpg
+http://devfreecasts.org/assets/images/creativity-tuts.jpg
+http://devfreecasts.org/assets/images/csharp.jpg
 http://devfreecasts.org/assets/images/devcast.jpg
 http://devfreecasts.org/assets/images/devfreecasts-128.png
 http://devfreecasts.org/assets/images/devfreecasts-facebook.jpg
@@ -89,6 +91,7 @@ http://devfreecasts.org/assets/js/html5shiv.gz.js
 http://devfreecasts.org/assets/js/html5shiv.min.js
 http://devfreecasts.org/backbone/index.html
 http://devfreecasts.org/chrome-devtools/index.html
+http://devfreecasts.org/csharp/index.html
 http://devfreecasts.org/django/index.html
 http://devfreecasts.org/elixir/index.html
 http://devfreecasts.org/famous/index.html
