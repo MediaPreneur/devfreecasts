@@ -1,0 +1,116 @@
+{
+  "index": {
+    "name": "csharp",
+    "subtitle": "C#",
+    "about": "C# is an elegant and type-safe object-oriented language that enables developers to build a variety of secure and robust applications that run on the .NET Framework. You can use C# to create Windows client applications, XML Web services, distributed components, client-server applications, database applications, and much, much more.",
+    "site": "https://msdn.microsoft.com/en-us//library/z1zx9t92.aspx",
+    "image": "csharp.jpg",
+    "category": "languages",
+    "videos": [
+      {
+        "title": "C# Tutorial 1 - Introduction/IDE",
+        "description": "This video is an introduction about C# language and Visual Studio IDE.",
+        "duration": "2:51",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=8SCRTacjHB4",
+        "published_at": "20150217",
+        "site" : "Creativity Tuts",
+        "site_url": "http://creativitytuts.org",
+        "image": "creativity-tuts.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "C# Tutorial 2 - First program",
+        "description": "This video explains how to build your first program using C#.",
+        "duration": "5:29",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=nbxPtg_TZU0",
+        "published_at": "20150217",
+        "site" : "Creativity Tuts",
+        "site_url": "http://creativitytuts.org",
+        "image": "creativity-tuts.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "C# Tutorial 3 - Variables and Data types",
+        "description": "This video explains C# variables and data types.",
+        "duration": "5:39",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=9FJUwvm7TkM",
+        "published_at": "20150217",
+        "site" : "Creativity Tuts",
+        "site_url": "http://creativitytuts.org",
+        "image": "creativity-tuts.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "C# Tutorial 4 - Operators (Mathematical and Logical)",
+        "description": "This video will teach you about how to use mathematical operators and logical operators of C# language.",
+        "duration": "5:01",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=MdURODCWEJ4",
+        "published_at": "20150217",
+        "site" : "Creativity Tuts",
+        "site_url": "http://creativitytuts.org",
+        "image": "creativity-tuts.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "C# Tutorial 5 - if/else statement",
+        "description": "This video is about how to use if/else statement in C#.",
+        "duration": "3:48",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=om5x1sijEfY",
+        "published_at": "20150217",
+        "site" : "Creativity Tuts",
+        "site_url": "http://creativitytuts.org",
+        "image": "creativity-tuts.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "C# Tutorial 6 - Nested if/else statement",
+        "description": "This video is about how to use nested if/else statement in C#.",
+        "duration": "4:06",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=K4x7e3Fee5k",
+        "published_at": "20150217",
+        "site" : "Creativity Tuts",
+        "site_url": "http://creativitytuts.org",
+        "image": "creativity-tuts.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "C# Tutorial 7 - Switch statement",
+        "description": "This video is about how to use switch statement in C#.",
+        "duration": "4:39",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=7Q2YjoCv9KQ",
+        "published_at": "20150217",
+        "site" : "Creativity Tuts",
+        "site_url": "http://creativitytuts.org",
+        "image": "creativity-tuts.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "C# Tutorial 8 - Arrays",
+        "description": "This video is about how to create and use arrays in C#.",
+        "duration": "3:41",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=Q2NJ-owX54U",
+        "published_at": "20150217",
+        "site" : "Creativity Tuts",
+        "site_url": "http://creativitytuts.org",
+        "image": "creativity-tuts.jpg",
+        "lang": "en",
+        "publish": true
+      }
+    ]
+  }
+}
