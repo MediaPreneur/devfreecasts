@@ -5,6 +5,7 @@
     "about": "Famo.us is the only JavaScript framework that includes an open source 3D layout engine fully integrated with a 3D physics animation engine that can render to DOM, Canvas, or WebGL.",
     "site": "https://famo.us",
     "image": "famous.jpg",
+    "description": "Watch screencasts over a list with the best free videos about Famo.us framework.",
     "category": "frameworks",
     "videos": [
       {

@@ -5,6 +5,7 @@
     "about": "C# is an elegant and type-safe object-oriented language that enables developers to build a variety of secure and robust applications that run on the .NET Framework. You can use C# to create Windows client applications, XML Web services, distributed components, client-server applications, database applications, and much, much more.",
     "site": "https://msdn.microsoft.com/en-us//library/z1zx9t92.aspx",
     "image": "csharp.jpg",
+    "description": "Watch screencasts over a list with the best free videos about C# language and Visual Studio IDE.",
     "category": "languages",
     "videos": [
       {

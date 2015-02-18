@@ -5,6 +5,7 @@
     "about": "Polymer Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself.",
     "site": "https://www.polymer-project.org",
     "image": "polymer.jpg",
+    "description": "Watch screencasts over a list with the best free videos about Polymer web components.",
     "category": "frameworks",
     "videos": [
       {

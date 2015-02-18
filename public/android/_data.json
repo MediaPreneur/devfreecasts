@@ -3,6 +3,7 @@
     "name": "android",
     "subtitle": "Android",
     "about": "Android runs on hundreds of millions of handheld devices around the world, and it now supports these exciting, new form-factors.",
+    "description": "Watch screencasts over a list with the best free videos about Android mobile platform.",
     "site": "http://developer.android.com",
     "image": "android.jpg",
     "category": "languages",
