@@ -1,6 +1,6 @@
 # DevFreeCasts
 
-A huge collection of free screencasts for devs.
+This is the repository of the site http://devfreecasts.org to submit screencasts links.
 
 ## How to add screencasts?
 
