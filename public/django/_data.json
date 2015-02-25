@@ -9,6 +9,58 @@
     "category": "frameworks",
     "videos": [
       {
+        "title": "Getting Started With Django, Lesson 01: Introduction and Launch",
+        "description": "In this video you will learn the main concepts around Django frameworks and how to launch it.",
+        "duration": "48:02",
+        "level": "i",
+        "url": "https://vimeo.com/57915524",
+        "published_at": "20150225",
+        "site" : "Getting Started with Django",
+        "site_url": "https://vimeo.com/gettingstartedwithdjango/videos",
+        "lang": "en",
+        "image": "getting-started-with-django.jpg",
+        "publish": true
+      },
+      {
+        "title": "Getting Started With Django, Lesson 02: Microblog Kitchen Sink",
+        "description": "In this video you will learn how to build a microblog.",
+        "duration": "46:14",
+        "level": "i",
+        "url": "https://vimeo.com/60036014",
+        "published_at": "20150225",
+        "site" : "Getting Started with Django",
+        "site_url": "https://vimeo.com/gettingstartedwithdjango/videos",
+        "lang": "en",
+        "image": "getting-started-with-django.jpg",
+        "publish": true
+      },
+      {
+        "title": "Getting Started With Django, Lesson 03: Testing",
+        "description": "In this video you will learn how to create and run tests.",
+        "duration": "24:47",
+        "level": "i",
+        "url": "https://vimeo.com/62733444",
+        "published_at": "20150225",
+        "site" : "Getting Started with Django",
+        "site_url": "https://vimeo.com/gettingstartedwithdjango/videos",
+        "lang": "en",
+        "image": "getting-started-with-django.jpg",
+        "publish": true
+      },
+      {
+        "title": "Getting Started With Django, Lesson 04: Start Lending",
+        "description": "In this video you will learn how to build a lending's project.",
+        "duration": "33:14",
+        "level": "i",
+        "url": "https://vimeo.com/66077961",
+        "published_at": "20150225",
+        "site" : "Getting Started with Django",
+        "site_url": "https://vimeo.com/gettingstartedwithdjango/videos",
+        "lang": "en",
+        "image": "getting-started-with-django.jpg",
+        "publish": true
+      },
+      {
         "title": "Custom Django Admin Actions",
         "description": "Doing bulk data actions in the admin is easy, if you know how to do it. In this video you will learn how to create your own custom admin actions so you can update a lot of data objects all at the same time.",
         "duration": "5:02",
