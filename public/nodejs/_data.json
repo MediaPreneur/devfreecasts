@@ -9,6 +9,58 @@
     "category": "languages",
     "videos": [
       {
+        "title": "Serving Content in Koajs with Jade",
+        "description": "In this episode we will learn how to serve static and dynamic content in Koajs with a deep dive into Jade’s features and functions.",
+        "duration": "27:13",
+        "level": "i",
+        "url": "http://knowthen.com/episode-6-serving-content-in-koajs-with-jade/" ,
+        "published_at": "20150226",
+        "site" : "KnowThen",
+        "site_url": "http://knowthen.com",
+        "image": "knowthen.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "Serving Content in Koajs with Swig",
+        "description": "In this episode we’ll look at serving content from Koajs with Swig: a fast, extensible and popular templating language available in node.js and in the browser.",
+        "duration": "26:51",
+        "level": "i",
+        "url": "http://knowthen.com/episode-7-serving-content-in-koajs-with-swig" ,
+        "published_at": "20150226",
+        "site" : "KnowThen",
+        "site_url": "http://knowthen.com",
+        "image": "knowthen.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "Serving Content in Koajs with Marko",
+        "description": "In this episode we’ll look at Marko a relatively new and fast templating engine available in Node.js and in the browser.",
+        "duration": "19:54",
+        "level": "i",
+        "url": "http://knowthen.com/episode-8-serving-content-in-koajs-with-marko" ,
+        "published_at": "20150226",
+        "site" : "KnowThen",
+        "site_url": "http://knowthen.com",
+        "image": "knowthen.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "Ditching Cookies for JSON Web Tokens",
+        "description": "In this tutorial screencast we’ll look at how to implement JSON Web Tokens (JWT’s) by building a simple single page application that leverages this simple form of Token based authentication.",
+        "duration": "13:15",
+        "level": "a",
+        "url": "http://knowthen.com/episode-9-ditching-cookies-for-json-web-tokens" ,
+        "published_at": "20150226",
+        "site" : "KnowThen",
+        "site_url": "http://knowthen.com",
+        "image": "knowthen.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
         "title": "NPM and Node.js packages",
         "description": "In this screencast you will learn what are Node.js packages, how to install and use them. You will also create own package and publish it to the npm repository as well as learn how to find quality third party packages and how to use npm tool to manage your dependencies.",
         "duration": "20:30",
