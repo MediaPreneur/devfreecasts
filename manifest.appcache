@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-25T13:56:05.299Z
+# rev 1 - 2015-02-26T12:49:37.750Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -17,6 +17,7 @@ http://devfreecasts.org/assets/font/opensans.eot
 http://devfreecasts.org/assets/font/opensans.svg
 http://devfreecasts.org/assets/font/opensans.ttf
 http://devfreecasts.org/assets/font/opensans.woff
+http://devfreecasts.org/assets/images/amooma.jpg
 http://devfreecasts.org/assets/images/android.jpg
 http://devfreecasts.org/assets/images/angularjs.jpg
 http://devfreecasts.org/assets/images/backbone.jpg
@@ -75,6 +76,7 @@ http://devfreecasts.org/assets/images/rails.jpg
 http://devfreecasts.org/assets/images/react.jpg
 http://devfreecasts.org/assets/images/ruby.jpg
 http://devfreecasts.org/assets/images/rubytapas.jpg
+http://devfreecasts.org/assets/images/rubytreesoftware.jpg
 http://devfreecasts.org/assets/images/russcox.jpg
 http://devfreecasts.org/assets/images/scala.jpg
 http://devfreecasts.org/assets/images/swift.jpg
