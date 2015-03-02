@@ -9,6 +9,58 @@
     "category": "frameworks",
     "videos": [
       {
+        "title": "What's new and different in React v0.12.0",
+        "description": "React has changed a bit in version 0.12.0. Let's take a look at what is different. You may need to update some code!",
+        "duration": "3:42",
+        "level": "i",
+        "url": "https://egghead.io/lessons/react-what-s-new-and-different-in-react-v0-12-0",
+        "published_at": "20150302",
+        "site" : "egghead",
+        "site_url": "https://egghead.io",
+        "image": "egghead.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "Using TweenMax with React",
+        "description": "React's use of the VirtualDOM can make it confusing on how to get actual elements to use in animation libraries like TweenMax. This video shows how to use this.getDOMNode() and this.refs and hook them in to TweenMax to satisfy all of your advanced animation needs.",
+        "duration": "3:16",
+        "level": "i",
+        "url": "https://egghead.io/lessons/react-using-tweenmax-with-react",
+        "published_at": "20150302",
+        "site" : "egghead",
+        "site_url": "https://egghead.io",
+        "image": "egghead.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "Reflux - Creating your first Action in React",
+        "description": "Reflux uses Actions to tell the Stores when to update. We will wire Actions and Stores together to create a simple updatable age field React component.",
+        "duration": "2:45",
+        "level": "i",
+        "url": "https://egghead.io/lessons/react-reflux-creating-your-first-action-in-react",
+        "published_at": "20150302",
+        "site" : "egghead",
+        "site_url": "https://egghead.io",
+        "image": "egghead.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "Setting up a React Playground Dev Environment",
+        "description": "When exploring a new framework or technology, it is nice to have a seed project or sandbox so you can just get in and start playing. Let's build our React playground using npm, browserify, 6to5, and more within WebStorm!",
+        "duration": "",
+        "level": "i",
+        "url": "https://egghead.io/lessons/react-setting-up-a-react-sandbox-playground",
+        "published_at": "20150302",
+        "site" : "egghead",
+        "site_url": "https://egghead.io",
+        "image": "egghead.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
         "title": "Thinking in React",
         "description": "We build a sample app in the Facebook view library, following along with their 'Thinking in React' guide.",
         "duration": "15:15",
