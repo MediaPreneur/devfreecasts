@@ -9,6 +9,32 @@
     "category": "languages",
     "videos": [
       {
+        "title": "Go at CoreOS",
+        "description": "At CoreOS, we chose to write everything in Go at a time when Python was the language of choice for Linux distributions. It had been almost 10 years since a new Linux distro was created. With the entrance of the cloud era, moving deeply into distributed computing based on Linux containers and multi-core machines, we needed a language that would allow our developers to iterate rapidly and create self-contained.",
+        "duration": "30:02",
+        "level": "a",
+        "url": "https://www.youtube.com/watch?v=UNulSprd2Ng",
+        "published_at": "20150305",
+        "site": "The Go Programming Language",
+        "site_url": "https://www.youtube.com/user/gocoding",
+        "image": "golang.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
+        "title": "HTTP/2 for Go",
+        "description": "Brad Fitzpatrick gives an overview of HTTP/2 (its design and advantages) and then discusses the design of Go's http2 package.",
+        "duration": "46:03",
+        "level": "a",
+        "url": "https://www.youtube.com/watch?v=gAfoLwog_MA",
+        "published_at": "20150305",
+        "site": "The Go Programming Language",
+        "site_url": "https://www.youtube.com/user/gocoding",
+        "image": "golang.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
         "title": "Golang - Instalation",
         "description": "This video demonstrates how to install the Go Programming Language (golang) onto a mac using homebrew in the terminal.",
         "duration": "2:21",
