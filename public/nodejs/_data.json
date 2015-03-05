@@ -9,6 +9,19 @@
     "category": "languages",
     "videos": [
       {
+        "title": "Building Realtime Applications Just Got Easy",
+        "description": "In this tutorial screencast we’ll look at creating realtime web applications, using RethinkDB, Node.js, Koajs, Socket.IO and AngularJS.",
+        "duration": "26:54",
+        "level": "i",
+        "url": "http://knowthen.com/episode-10-building-realtime-applications-just-got-easy" ,
+        "published_at": "20150305",
+        "site" : "KnowThen",
+        "site_url": "http://knowthen.com",
+        "image": "knowthen.jpg",
+        "lang": "en",
+        "publish": true
+      },
+      {
         "title": "Serving Content in Koajs with Jade",
         "description": "In this episode we will learn how to serve static and dynamic content in Koajs with a deep dive into Jade’s features and functions.",
         "duration": "27:13",
