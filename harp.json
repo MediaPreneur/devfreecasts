@@ -19,14 +19,14 @@
       "url": "http://devfreebooks.org?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
     },
     "utm": "utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts",
-    "platforms": ["nodejs", "meteor", "angularjs", 
+    "platforms": ["nodejs", "meteor", "angularjs",
                   "react", "backbone", "javascript",
-                  "rails","ruby", "go", 
-                  "grunt", "elixir", "scala", 
-                  "python","grails", "php", 
+                  "rails","ruby", "go",
+                  "grunt", "elixir", "scala",
+                  "python","grails", "php",
                   "ios","android", "java",
                   "vim", "chrome-devtools", "git",
                   "famous", "playframework", "haskell",
-                  "polymer","django", "csharp"]
+                  "polymer","django", "csharp", "hapi"]
   }
 }
