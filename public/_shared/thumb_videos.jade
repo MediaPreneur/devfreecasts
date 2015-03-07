@@ -15,6 +15,7 @@ section.row
       - var video_image = image_path + (video.image ? video.image : image);
       - var video_level_title = level[video.level];
       - var video_thumb_url = root_url[environment] + name + '#' + video_id;
+      - var video_thumb_title = subtitle +": "+ video.title;
       section.col-xs-12.col-sm-6.col-md-4
         div(class="anchor" id="#{video_id}")
         div(class="thumbnail")
@@ -26,11 +27,11 @@ section.row
             p.video-metadata Author: <a href="#{video.site_url}" target="_blank" rel="colleague">#{video.site}</a>
             p.video-metadata Level: <span class="label label-primary" title="#{video_level_title}">#{video.level.toUpperCase()}</span> Lang.: <span class="label label-primary">#{video.lang.toUpperCase()}</span> Time: <span class="label label-primary">#{video.duration}</span>
             p.video-metadata Share:&nbsp;
-              a(href="https://www.facebook.com/sharer.php?u=#{encodeURIComponent(video_thumb_url)}&t=#{encodeURIComponent(video.title)}" target="_blank" rel="nofollow" class="btn btn-xs btn-primary") <i class="icon-facebook"></i>
+              a(href="https://www.facebook.com/sharer.php?u=#{encodeURIComponent(video_thumb_url)}&t=#{encodeURIComponent(video_thumb_title)}" target="_blank" rel="nofollow" class="btn btn-xs btn-primary") <i class="icon-facebook"></i>
               &nbsp;
-              a(href="https://twitter.com/intent/tweet?text=Watching%20#{encodeURIComponent(video.title)}%20#{encodeURIComponent(video_thumb_url)}&via=devfreecasts" target="_blank" rel="nofollow" class="btn btn-xs btn-info") <i class="icon-twitter"></i>
+              a(href="https://twitter.com/intent/tweet?text=Watching%20#{encodeURIComponent(video_thumb_title)}%20#{encodeURIComponent(video_thumb_url)}&via=#{title}" target="_blank" rel="nofollow" class="btn btn-xs btn-info") <i class="icon-twitter"></i>
               &nbsp;
-              a(href="http://www.linkedin.com/shareArticle?mini=true&url=#{encodeURIComponent(video_thumb_url)}&title=#{encodeURIComponent(video.title)}&summary=#{encodeURIComponent(video.description)}&source=#{title}" target="_blank" rel="nofollow" class="btn btn-xs btn-default") <i class="icon-linkedin"></i>
+              a(href="http://www.linkedin.com/shareArticle?mini=true&url=#{encodeURIComponent(video_thumb_url)}&title=#{encodeURIComponent(video_thumb_title)}&summary=#{encodeURIComponent(video.description)}&source=#{title}" target="_blank" rel="nofollow" class="btn btn-xs btn-default") <i class="icon-linkedin"></i>
               &nbsp;
-              a(href="https://plus.google.com/share?url=#{encodeURIComponent(video_thumb_url)}" target="_blank" rel="nofollow" class="btn btn-xs btn-danger") <i class="icon-gplus"></i>
+              a(href="https://plus.google.com/share?url=#{encodeURIComponent(video_thumb_url)}&title=#{encodeURIComponent(video_thumb_title)}" target="_blank" rel="nofollow" class="btn btn-xs btn-danger") <i class="icon-gplus"></i>
             p <a class="btn btn-primary btn-block" href="#{video_url}" target="_blank" role="button" onclick="ga('send', 'event', '#{subtitle}', '#{video_level_title}', '#{video.title}');"><i class="icon-play"></i>&nbsp;Watch</a>
