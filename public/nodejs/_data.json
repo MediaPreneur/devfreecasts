@@ -9,6 +9,19 @@
     "category": "languages",
     "videos": [
       {
+        "title": "Hapi 8.0",
+        "description": "Introducing Hapi 8.0 at Oakland 2014.",
+        "duration": "26:12",
+        "level": "a",
+        "site" : "HapiDay",
+        "site_url": "http://hapijs.com/hapidays",
+        "lang": "EN",
+        "publish": true,
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=5DzVe8lrqoo",
+        "published_at": "20150307"
+      },
+      {
         "title": "Building Realtime Applications Just Got Easy",
         "description": "In this tutorial screencast we’ll look at creating realtime web applications, using RethinkDB, Node.js, Koajs, Socket.IO and AngularJS.",
         "duration": "26:54",
@@ -512,30 +525,17 @@
         "publish": true
       },
       {
-        "title": "&yet presents Eran Hammer on Hapi 2.0",
+        "title": "Hapi 2.0",
         "description": "Eran Hammer will be walking through every feature of the 2.0 release of Node.js framework Hapi.",
         "duration": "1:31:00",
         "level": "a",
-        "site" : "Vimeo",
-        "site_url": "https://vimeo.com",
+        "site" : "AndYet",
+        "site_url": "https://vimeo.com/andyet",
         "lang": "EN",
         "publish": true,
-        "level": "B",
+        "level": "b",
         "url": "https://vimeo.com/85799484",
         "published_at": "20130204"
-      },
-      {
-        "title": "hapiDay Oakland 2014 | Eran Hammer: hapi 8.0",
-        "description": "Introducing Hapi 8.0.",
-        "duration": "26:12",
-        "level": "a",
-        "site" : "hapi days",
-        "site_url": "http://hapijs.com/hapidays",
-        "lang": "EN",
-        "publish": true,
-        "level": "B",
-        "url": "https://www.youtube.com/watch?v=5DzVe8lrqoo",
-        "published_at": "20141211"
       }
     ]
   }
