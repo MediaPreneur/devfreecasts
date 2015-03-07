@@ -15,7 +15,7 @@ section.row
       - var video_image = image_path + (video.image ? video.image : image);
       - var video_level_title = level[video.level];
       - var video_thumb_url = root_url[environment] + name + '#' + video_id;
-      section.col-xs-12.col-sm-4.col-md-4
+      section.col-xs-12.col-sm-6.col-md-4
         div(class="anchor" id="#{video_id}")
         div(class="thumbnail")
           a(href="#{video_url}" target="_blank" title="#{video.title}" onclick="ga('send', 'event', '#{subtitle}', '#{video_level_title}', '#{video.title}');")
