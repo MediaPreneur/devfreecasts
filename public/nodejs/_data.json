@@ -510,6 +510,32 @@
         "image": "nodecasts.jpg",
         "lang": "en",
         "publish": true
+      },
+      {
+        "title": "&yet presents Eran Hammer on Hapi 2.0",
+        "description": "Eran Hammer will be walking through every feature of the 2.0 release of Node.js framework Hapi.",
+        "duration": "1:31:00",
+        "level": "a",
+        "site" : "Vimeo",
+        "site_url": "https://vimeo.com",
+        "lang": "EN",
+        "publish": true,
+        "level": "B",
+        "url": "https://vimeo.com/85799484",
+        "published_at": "20130204"
+      },
+      {
+        "title": "hapiDay Oakland 2014 | Eran Hammer: hapi 8.0",
+        "description": "Introducing Hapi 8.0.",
+        "duration": "26:12",
+        "level": "a",
+        "site" : "hapi days",
+        "site_url": "http://hapijs.com/hapidays",
+        "lang": "EN",
+        "publish": true,
+        "level": "B",
+        "url": "https://www.youtube.com/watch?v=5DzVe8lrqoo",
+        "published_at": "20141211"
       }
     ]
   }
