@@ -11,7 +11,7 @@
 
     if (window.location.hash) {
       var anchor = document.querySelector(window.location.hash);
-      anchor.nextElementSibling.classList.add("thumbnail-featured");
+      anchor.nextElementSibling.classList.add("featured");
     }
 
     asyncImg();
