@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-03-12T17:51:43.994Z
+# rev 1 - 2015-03-14T17:53:23.507Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -33,10 +33,13 @@ http://devfreecasts.org/assets/images/devfreecasts-128.png
 http://devfreecasts.org/assets/images/devfreecasts-facebook.jpg
 http://devfreecasts.org/assets/images/devfreecasts-thumb.png
 http://devfreecasts.org/assets/images/devfreecasts.png
+http://devfreecasts.org/assets/images/django-con.jpg
 http://devfreecasts.org/assets/images/django.jpg
 http://devfreecasts.org/assets/images/egghead.jpg
 http://devfreecasts.org/assets/images/elixir.jpg
 http://devfreecasts.org/assets/images/elixirsips.jpg
+http://devfreecasts.org/assets/images/ember-conf.jpg
+http://devfreecasts.org/assets/images/emberjs.jpg
 http://devfreecasts.org/assets/images/eventedmind.jpg
 http://devfreecasts.org/assets/images/excript.jpg
 http://devfreecasts.org/assets/images/famous.jpg
@@ -99,6 +102,7 @@ http://devfreecasts.org/chrome-devtools/index.html
 http://devfreecasts.org/csharp/index.html
 http://devfreecasts.org/django/index.html
 http://devfreecasts.org/elixir/index.html
+http://devfreecasts.org/emberjs/index.html
 http://devfreecasts.org/famous/index.html
 http://devfreecasts.org/favicon.ico
 http://devfreecasts.org/git/index.html
