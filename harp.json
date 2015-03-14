@@ -27,6 +27,7 @@
                   "ios","android", "java",
                   "vim", "chrome-devtools", "git",
                   "famous", "playframework", "haskell",
-                  "polymer","django", "csharp"]
+                  "polymer","django", "csharp",
+                  "emberjs"]
   }
 }
