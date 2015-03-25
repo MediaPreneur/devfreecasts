@@ -9,7 +9,7 @@
     "category": "frameworks",
     "videos": [
       {
-        "url": "http://meteortuts.com/episodes/CdtyWpjyBwNfDKHie",
+        "url": "http://www.meteortuts.com/video/importcsvinapp",
         "level": "i",
         "title": "Upload a CSV and import",
         "description": "Import CSV to a collection with uploading.",
@@ -22,7 +22,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/8E6sWJtJss9AT26zT",
+        "url": "http://www.meteortuts.com/video/atomio",
         "level": "b",
         "title": "The Meteor IDE",
         "description": "My Favorite Editor for Meteor",
@@ -35,7 +35,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/tffn4f8mfqcSKYthT",
+        "url": "http://www.meteortuts.com/video/globalhelpers",
         "level": "b",
         "title": "Global Helpers",
         "description": "Some of my favorite string helpers.",
@@ -48,7 +48,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/nDDCAfKDS6ddq4LCv",
+        "url": "http://www.meteortuts.com/video/rolesandauthorization",
         "level": "i",
         "title": "Roles and Authorization",
         "description": "Configure roles in your meteor Application",
@@ -61,7 +61,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/MM6DfJxfkhgvvxvBY",
+        "url": "http://www.meteortuts.com/video/implementarouter",
         "level": "i",
         "title": "Implement Iron Router",
         "description": "Add single page routing to your Meteor Application",
@@ -74,7 +74,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/A3waLEhz5WKTML3aK",
+        "url": "http://www.meteortuts.com/video/addanuploader",
         "level": "i",
         "title": "Add an Uploader",
         "description": "Add an uploader to an existing Meteor Application",
@@ -87,7 +87,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/bKz2LHcP6kZ5y8o2n",
+        "url": "http://www.meteortuts.com/video/deploytoamazon",
         "level": "a",
         "title": "Deploy your app to Amazon EC2",
         "description": "Deploy your application to Amazon EC2 Instance using Meteor Up.",
@@ -100,7 +100,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/9RC58ihoyx23NoA5m",
+        "url": "http://www.meteortuts.com/video/createanapp",
         "level": "b",
         "title": "Create an App",
         "description": "Create a Basic Meteor Application",
@@ -113,7 +113,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/LKKbdsm2CXcPtApoP",
+        "url": "http://www.meteortuts.com/video/calendarappl",
         "level": "i",
         "title": "Build a Calendar Application",
         "description": "Build a meteor app that has a built in calendar and manages events.",
@@ -126,7 +126,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/SZafhRCbbJouehwyk",
+        "url": "http://www.meteortuts.com/video/addservermethods",
         "level": "b",
         "title": "Adding Server Methods",
         "description": "Adding server methods for secure functionality in your meteor application.",
@@ -139,7 +139,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/NLLPWJwTQf68xh6fh",
+        "url": "http://www.meteortuts.com/video/startwithaboilerplate",
         "level": "b",
         "title": "Start with a Boilerplate",
         "description": "Start a Meteor application with the Differential Boilerplate",
@@ -152,7 +152,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/RyJw3EfbZPbpk2MEb",
+        "url": "http://www.meteortuts.com/video/whatismeteor",
         "level": "b",
         "title": "What is Meteor?",
         "description": "An amazing web development platform",
