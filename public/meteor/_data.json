@@ -35,7 +35,7 @@
         "publish": true
       },
       {
-        "url": "http://meteortuts.com/episodes/tffn4f8mfqcSKYthT",
+        "url": "http://www.meteortuts.com/video/globalhelpers",
         "level": "b",
         "title": "Global Helpers",
         "description": "Some of my favorite string helpers.",
@@ -48,7 +48,7 @@
         "publish": true
       },
       {
-        "url": "http://www.meteortuts.com/video/globalhelpers",
+        "url": "http://www.meteortuts.com/video/rolesandauthorization",
         "level": "i",
         "title": "Roles and Authorization",
         "description": "Configure roles in your meteor Application",
