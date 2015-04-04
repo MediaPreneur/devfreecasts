@@ -9,6 +9,78 @@
     "category": "frameworks",
     "videos": [
       {
+        "site": "JavaScript Planet",
+        "site_url": "https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/featured",
+        "lang": "en",
+        "publish": true,
+        "title": "Meet Ember.js",
+        "description": "There's a new framework in town. Probably you've heard about it. It's time to know what's all the buzz about. A brief introduction to EmberJS as a framework and the philosophy behind it.",
+        "duration": "49:30",
+        "level": "i",
+        "url": "https://www.youtube.com/watch?v=rlAjdj71Bm4",
+        "published_at": "20150404"
+      },
+      {
+        "site": "JavaScript Planet",
+        "site_url": "https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/featured",
+        "lang": "en",
+        "publish": true,
+        "title": "Updating a project to Ember.js",
+        "description": "Short screencast showing how Ember.Controller and Ember.ObjectController differ in Emberjs.",
+        "duration": "11:09",
+        "level": "i",
+        "url": "https://www.youtube.com/watch?v=e8P8RCWhsBQ",
+        "published_at": "20150404"
+      },
+      {
+        "site": "JavaScript Planet",
+        "site_url": "https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/featured",
+        "lang": "en",
+        "publish": true,
+        "title": "Ember.js in Action",
+        "description": "Ember.js in Action is a script tutorial that introduces the Ember.js framework and shows you how to build production-quality web applications.",
+        "duration": "48:29",
+        "level": "i",
+        "url": "https://www.youtube.com/watch?v=0Rf4mLUxW-g",
+        "published_at": "20150404"
+      },
+      {
+        "site": "JavaScript Planet",
+        "site_url": "https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/featured",
+        "lang": "en",
+        "publish": true,
+        "title": "WebSockets and Ember Data",
+        "description": "In this talk Matteo Depalo explains how to handle with WebSockets connections with Ember.js.",
+        "duration": "22:08",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=_IwZFx_Ftto",
+        "published_at": "20150404"
+      },
+      {
+        "site": "JavaScript Planet",
+        "site_url": "https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/featured",
+        "lang": "en",
+        "publish": true,
+        "title": "Ember Addons",
+        "description": "A quick look about Ember Addons and how to use them.",
+        "duration": "17:15",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=fNtyMJU6kdI",
+        "published_at": "20150404"
+      },
+      {
+        "site": "JavaScript Planet",
+        "site_url": "https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/featured",
+        "lang": "en",
+        "publish": true,
+        "title": "Introduction to EmberKit",
+        "description": "This talk Alex Speller introduces the EmberKit to work with Ember.js framework.",
+        "duration": "19:03",
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=fvJjR083zfE",
+        "published_at": "20150404"
+      },
+      {
         "site": "EmberConf",
         "site_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU",
         "image": "ember-conf.jpg",
