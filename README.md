@@ -17,7 +17,6 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
   "about": "Platform description",
   "site": "url of the official platform site", 
   "image": "platform-logo.jpg",
-  "category": "frameworks", // frameworks, languages or devtools
   "videos": [
     {
       "site" : "Screencast site name", // Youtube, Vimeo channels are welcome too

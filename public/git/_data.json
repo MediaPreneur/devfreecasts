@@ -6,7 +6,6 @@
     "site": "http://git-scm.com",
     "image": "git.jpg",
     "description": "Watch screencasts over a list with the best free videos about Git.",
-    "category": "devtools",
     "videos": [
       {
         "title": "What is Version Control?",

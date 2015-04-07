@@ -6,7 +6,6 @@
     "site": "http://facebook.github.io/react",
     "image": "react.jpg",
     "description": "Watch screencasts over a list with the best free videos about React UI framework.",
-    "category": "frameworks",
     "videos": [
       {
         "title": "What's new and different in React v0.12.0",

@@ -6,7 +6,6 @@
     "site": "http://nodejs.org",
     "image": "nodejs.jpg",
     "description": "Watch screencasts over a list with the best free videos about server-side developing with Node.js.",
-    "category": "languages",
     "videos": [
       {
         "title": "Compare IO.js vs Node.js",

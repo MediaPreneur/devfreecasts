@@ -6,7 +6,6 @@
     "site": "https://php.net/",
     "image": "php.jpg",
     "description": "Watch screencasts over a list with the best free videos about PHP language.",
-    "category": "languages",
     "videos": [
       {
         "title": "PHP CodeIgniter Tutorial 1 - Basics/Download",

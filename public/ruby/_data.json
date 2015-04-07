@@ -6,7 +6,6 @@
     "site": "https://www.ruby-lang.org",
     "image": "ruby.jpg",
     "description": "Watch screencasts over a list with the best free videos about Ruby language.",
-    "category": "languages",
     "videos": [
       {
         "title": "Ruby Version Managers",

@@ -6,7 +6,6 @@
     "site": "http://gruntjs.com",
     "image": "grunt.jpg",
     "description": "Watch screencasts over a list with the best free videos about Grunt.",
-    "category": "frameworks",
     "videos": [
       {
         "title": "Task Automation with GruntJS hangouts",

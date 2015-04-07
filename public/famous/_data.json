@@ -6,7 +6,6 @@
     "site": "https://famo.us",
     "image": "famous.jpg",
     "description": "Watch screencasts over a list with the best free videos about Famo.us framework.",
-    "category": "frameworks",
     "videos": [
       {
         "site": "Code School",

@@ -6,7 +6,6 @@
     "site": "http://backbonejs.org/",
     "image": "backbone.jpg",
     "description": "Watch screencasts over a list with the best free videos about Backbone framework.",
-    "category": "frameworks",
     "videos": [
       {
         "title": "Backbone Tutorial 1 - Introduction/Setup",

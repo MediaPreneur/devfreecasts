@@ -6,7 +6,6 @@
     "site": "https://www.djangoproject.com/",
     "image": "django.jpg",
     "description": "Watch screencasts over a list with the best free videos about Django web framework.",
-    "category": "frameworks",
     "videos": [
       {
         "title": "Integrating Django with Wordpress can be simple",

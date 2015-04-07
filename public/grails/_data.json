@@ -6,7 +6,6 @@
     "site": "https://grails.org",
     "image": "grails.jpg",
     "description": "Watch screencasts over a list with the best free videos about Grails web framework.",
-    "category": "frameworks",
     "videos": [
       {
         "title": "Grails: Why?",

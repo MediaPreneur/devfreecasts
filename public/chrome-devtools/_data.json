@@ -6,7 +6,6 @@
     "site": "https://developer.chrome.com/devtools/index",
     "image": "chrome-devtools.jpg",
     "description": "Watch screencasts over a list with the best free videos about Google Chrome DevTools.",
-    "category": "devtools",
     "videos": [
       {
         "title": "Introduction of Chrome DevTools",

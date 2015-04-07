@@ -6,7 +6,6 @@
     "site": "https://msdn.microsoft.com/en-us//library/z1zx9t92.aspx",
     "image": "csharp.jpg",
     "description": "Watch screencasts over a list with the best free videos about C# language and Visual Studio IDE.",
-    "category": "languages",
     "videos": [
       {
         "title": "C# Tutorial 1 - Introduction/IDE",

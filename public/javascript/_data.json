@@ -6,7 +6,6 @@
     "site": "https://developer.mozilla.org/en/docs/Web/JavaScript",
     "image": "javascript.jpg",
     "description": "Watch screencasts over a list with the best free videos about JavaScript language.",
-    "category": "languages",
     "videos": [
       {
         "title": "HTML Canvas and Images",

@@ -6,7 +6,6 @@
     "site": "https://www.haskell.org",
     "image": "haskell.jpg",
     "description": "Watch screencasts over a list with the best free videos about Haskell language.",
-    "category": "languages",
     "videos": [
       {
         "title": "Redoing Make",

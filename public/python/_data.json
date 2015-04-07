@@ -6,7 +6,6 @@
     "site": "https://www.python.org/",
     "image": "python.jpg",
     "description": "Watch screencasts over a list with the best free videos about Python language.",
-    "category": "languages",
     "videos": [
       {
         "title": "Welcome and lightning-fast Python introduction",

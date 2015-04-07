@@ -6,7 +6,6 @@
     "site": "http://www.vim.org",
     "image": "vim.jpg",
     "description": "Watch screencasts over a list with the best free videos about VIM IDE.",
-    "category": "devtools",
     "videos": [
       {
         "title": "Beginning with Vim",

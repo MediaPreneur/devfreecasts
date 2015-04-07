@@ -6,7 +6,6 @@
     "site": "https://www.oracle.com/java/index.html",
     "image": "java.jpg",
     "description": "Watch screencasts over a list with the best free videos about Java language and some of his framework.",
-    "category": "languages",
     "videos": [
       {
         "title": "Java Server Faces Tutorial 1 - Introduction/Setup",

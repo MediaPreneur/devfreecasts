@@ -6,7 +6,6 @@
     "site": "https://www.meteor.com",
     "image": "meteor.jpg",
     "description": "Watch screencasts over a list with the best free videos about Meteor web framework.",
-    "category": "frameworks",
     "videos": [
       {
         "url": "http://www.meteortuts.com/video/importcsvinapp",

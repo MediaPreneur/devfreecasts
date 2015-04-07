@@ -6,7 +6,6 @@
     "site": "http://www.scala-lang.org/",
     "image": "scala.jpg",
     "description": "Watch screencasts over a list with the best free videos about Scala language.",
-    "category": "languages",
     "videos": [
       {
         "title": "Scala Collections: Why Not?",

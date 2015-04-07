@@ -6,7 +6,6 @@
     "site": "http://emberjs.com",
     "image": "emberjs.jpg",
     "description": "Watch a lot of screencasts for free about Ember.js framework.",
-    "category": "frameworks",
     "videos": [
       {
         "site": "JavaScript Planet",

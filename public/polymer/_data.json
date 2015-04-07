@@ -6,7 +6,6 @@
     "site": "https://www.polymer-project.org",
     "image": "polymer.jpg",
     "description": "Watch screencasts over a list with the best free videos about Polymer web components.",
-    "category": "frameworks",
     "videos": [
       {
         "title": "Core Icons -- Polycasts #01",

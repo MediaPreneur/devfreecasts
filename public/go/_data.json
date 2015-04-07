@@ -6,7 +6,6 @@
     "site": "http://golang.org",
     "image": "go.jpg",
     "description": "Watch screencasts over a list with the best free videos about Go language.",
-    "category": "languages",
     "videos": [
       {
         "title": "Go at CoreOS",

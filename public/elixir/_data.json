@@ -6,7 +6,6 @@
     "site": "http://elixir-lang.org",
     "image": "elixir.jpg",
     "description": "Watch screencasts over a list with the best free videos about Elixir language.",
-    "category": "languages",
     "videos": [
       {
         "title": "How to install Elixir and Erlang",
