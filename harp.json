@@ -33,6 +33,6 @@
                   "vim", "chrome-devtools", "git",
                   "famous", "playframework", "haskell",
                   "polymer","django", "csharp",
-                  "emberjs"]
+                  "emberjs", "gulp"]
   }
 }
