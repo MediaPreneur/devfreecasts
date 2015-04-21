@@ -16,7 +16,6 @@ module.exports = function(grunt) {
       },
       main: {
         src: [
-          "public/assets/js/_async-img.js",
           "public/assets/js/_main.js"
         ],
         dest: "public/assets/js/application.js"
