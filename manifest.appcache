@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-04-21T23:44:02.558Z
+# rev 1 - 2015-04-23T13:07:24.935Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -22,6 +22,7 @@ http://devfreecasts.org/assets/images/android.jpg
 http://devfreecasts.org/assets/images/angularjs.jpg
 http://devfreecasts.org/assets/images/backbone.jpg
 http://devfreecasts.org/assets/images/backbonerails.jpg
+http://devfreecasts.org/assets/images/c_cpp.jpg
 http://devfreecasts.org/assets/images/chrome-devtools.jpg
 http://devfreecasts.org/assets/images/coderstv.jpg
 http://devfreecasts.org/assets/images/codeschool.jpg
@@ -80,6 +81,7 @@ http://devfreecasts.org/assets/images/php.jpg
 http://devfreecasts.org/assets/images/playframework.jpg
 http://devfreecasts.org/assets/images/polymer.jpg
 http://devfreecasts.org/assets/images/pragprogs.jpg
+http://devfreecasts.org/assets/images/programacao_descomplicada.jpg
 http://devfreecasts.org/assets/images/python.jpg
 http://devfreecasts.org/assets/images/rails.jpg
 http://devfreecasts.org/assets/images/react.jpg
@@ -103,6 +105,7 @@ http://devfreecasts.org/assets/js/application.js
 http://devfreecasts.org/assets/js/html5shiv.gz.js
 http://devfreecasts.org/assets/js/html5shiv.min.js
 http://devfreecasts.org/backbone/index.html
+http://devfreecasts.org/c_cpp/index.html
 http://devfreecasts.org/chrome-devtools/index.html
 http://devfreecasts.org/csharp/index.html
 http://devfreecasts.org/css/index.html
