@@ -9,7 +9,7 @@
         "videos": [
             {
                 "title": "Aula ED 01 - TAD (Tipo Abstrato de Dado)",
-                "description": "Estrutura de Dados Descomplicada em C aula 1",
+                "description": "Uncomplicated Data Structure in C class 1",
                 "duration": "4:41",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=bryesHll0vY",
@@ -22,7 +22,7 @@
             },
             {
                 "title": "Aula ED 02 - Modularização e TAD",
-                "description": "Estrutura de Dados Descomplicada em C aula 2",
+                "description": "Uncomplicated Data Structure in C class 2",
                 "duration": "10:06",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=lKwEQgV6nZk",
@@ -35,7 +35,7 @@
             },
             {
                 "title": "ula 03 - Listas pt.1 - Definição",
-                "description": "Estrutura de Dados Descomplicada em C aula 3",
+                "description": "Uncomplicated Data Structure in C class 3",
                 "duration": "6:11",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=S6rOYN-UiAA",
@@ -48,7 +48,7 @@
             },
             {
                 "title": "Aula 04 - Listas pt.2 - Lista Estatica Sequencial - Programacao Descomplicada",
-                "description": "Estrutura de Dados Descomplicada em C aula 4",
+                "description": "Uncomplicated Data Structure in C class 4",
                 "duration": "5:07",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=rxVrRdF0MTE",
@@ -61,7 +61,7 @@
             },
             {
                 "title": "Aula 05 - Listas pt.3 - Implementando Lista Estática",
-                "description": "Estrutura de Dados Descomplicada em C aula 5",
+                "description": "Uncomplicated Data Structure in C class 5",
                 "duration": "6:35",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=UCDCEjRDYrE",
@@ -74,7 +74,7 @@
             },
             {
                 "title": "Aula 06 - Listas pt.4 - Informações da Lista Estática",
-                "description": "Estrutura de Dados Descomplicada em C aula 6",
+                "description": "Uncomplicated Data Structure in C class 6",
                 "duration": "4:57",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=zO8JAxb1GmA",
@@ -87,7 +87,7 @@
             },
             {
                 "title": "Aula 07 - Inserção na Lista Estática",
-                "description": "Estrutura de Dados Descomplicada em C aula 7",
+                "description": "Uncomplicated Data Structure in C class 7",
                 "duration": "9:39",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=IpL31ZkVZSI",
@@ -100,7 +100,7 @@
             },
             {
                 "title": "Aula 08 - Remoção na Lista Estática",
-                "description": "Estrutura de Dados Descomplicada em C aula 8",
+                "description": "Uncomplicated Data Structure in C class 8",
                 "duration": "10:00",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=3KwG_OAB98g",
@@ -113,7 +113,7 @@
             },
             {
                 "title": "Aula 09 - Listas pt.7 -  Consulta na Lista Estática",
-                "description": "Estrutura de Dados Descomplicada em C aula 9",
+                "description": "Uncomplicated Data Structure in C class 9",
                 "duration": "5:22",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=xFN6Nefpx0k",
@@ -126,7 +126,7 @@
             },
             {
                 "title": "Aula 10 - Lista Dinamica Encadeada pt.1 - Definicao",
-                "description": "Estrutura de Dados Descomplicada em C aula 10",
+                "description": "Uncomplicated Data Structure in C class 10",
                 "duration": "6:19",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=0BDMqra4D94",
@@ -139,7 +139,7 @@
             },
             {
                 "title": "ula 11 - Lista Dinâmica Encadeada pt.2 - Implementação",
-                "description": "Estrutura de Dados Descomplicada em C aula 11",
+                "description": "Uncomplicated Data Structure in C class 11",
                 "duration": "6:51",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=wfC61zUVaos",
@@ -152,7 +152,7 @@
             },
             {
                 "title": "Aula 12 - Lista Dinâmica Encadeada pt.3 - Informações",
-                "description": "Estrutura de Dados Descomplicada em C aula 12",
+                "description": "Uncomplicated Data Structure in C class 12",
                 "duration": "4:20",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=WvmBhiQjPZ0",
@@ -165,7 +165,7 @@
             },
             {
                 "title": "Aula 13 - ED1 - Inserção na Lista Dinâmica",
-                "description": "Estrutura de Dados Descomplicada em C aula 13",
+                "description": "Uncomplicated Data Structure in C class 13",
                 "duration": "11:30",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=fNP1GHLLKuY",
@@ -178,7 +178,7 @@
             },
             {
                 "title": "Aula 14 - ED1 - Remoção na Lista Dinâmica",
-                "description": "Estrutura de Dados Descomplicada em C aula 14",
+                "description": "Uncomplicated Data Structure in C class 14",
                 "duration": "11:04",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=67KZx_Rcfgw",
@@ -191,7 +191,7 @@
             },
             {
                 "title": "Aula 15 - Lista Dinâmica Encadeada pt.6 - Consulta",
-                "description": "Estrutura de Dados Descomplicada em C aula 15",
+                "description": "Uncomplicated Data Structure in C class 15",
                 "duration": "5:47",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=rzPsfHZIlek",
@@ -204,7 +204,7 @@
             },
             {
                 "title": "Aula 16 - Lista Dinâmica Duplamente Encadeada pt.1 - Definição",
-                "description": "Estrutura de Dados Descomplicada em C aula 16",
+                "description": "Uncomplicated Data Structure in C class 16",
                 "duration": "4:05",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=pWh_nJ66Rrk",
@@ -217,7 +217,7 @@
             },
             {
                 "title": "Aula 17 - Implementando Lista Dinâmica Dupla Encadeada",
-                "description": "Estrutura de Dados Descomplicada em C aula 17",
+                "description": "Uncomplicated Data Structure in C class 17",
                 "duration": "6:09",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=QU0TponoeZ0",
@@ -230,7 +230,7 @@
             },
             {
                 "title": "Aula 18 - Lista Dinâmica Duplamente Encadeada pt.3 - Informações",
-                "description": "Estrutura de Dados Descomplicada em C aula 18",
+                "description": "Uncomplicated Data Structure in C class 18",
                 "duration": "4:51",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=CokNvkDNB1k",
@@ -243,7 +243,7 @@
             },
             {
                 "title": "Aula 19 - Inserção na Lista Duplamente Encadeadas",
-                "description": "Estrutura de Dados Descomplicada em C aula 19",
+                "description": "Uncomplicated Data Structure in C class 19",
                 "duration": "12:17",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=cC-UWJssr30",
@@ -256,7 +256,7 @@
             },
             {
                 "title": "Aula 20 - Remoção na Lista Duplamente Encadeadas",
-                "description": "Estrutura de Dados Descomplicada em C aula 20",
+                "description": "Uncomplicated Data Structure in C class 20",
                 "duration": "10:43",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=30097hte7ys",
@@ -269,7 +269,7 @@
             },
             {
                 "title": "Aula 21 - Consulta na Lista Duplamente Encadeada",
-                "description": "Estrutura de Dados Descomplicada em C aula 21",
+                "description": "Uncomplicated Data Structure in C class 21",
                 "duration": "4:52",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=3iCG86067pQ",
@@ -282,7 +282,7 @@
             },
             {
                 "title": "Aula 22 - ED1 - Listas Circulares",
-                "description": "Estrutura de Dados Descomplicada em C aula 22",
+                "description": "Uncomplicated Data Structure in C class 22",
                 "duration": "3:51",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=p8OxiV4FYK4",
@@ -295,7 +295,7 @@
             },
             {
                 "title": "Aula 23 - Implementando Lista Circular",
-                "description": "Estrutura de Dados Descomplicada em C aula 23",
+                "description": "Uncomplicated Data Structure in C class 23",
                 "duration": "6:56",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=IhCIGie5CEo",
@@ -308,7 +308,7 @@
             },
             {
                 "title": "Aula 24 - Lista Circular - Informações",
-                "description": "Estrutura de Dados Descomplicada em C aula 24",
+                "description": "Uncomplicated Data Structure in C class 24",
                 "duration": "5:05",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=iC9oH8ysoAU",
@@ -321,7 +321,7 @@
             },
             {
                 "title": "Aula 25 - Inserção em Lista Circular",
-                "description": "Estrutura de Dados Descomplicada em C aula 25",
+                "description": "Uncomplicated Data Structure in C class 25",
                 "duration": "12:56",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=Kf1uPFvr_fc",
@@ -334,7 +334,7 @@
             },
             {
                 "title": "Aula 26 - Remoção na Lista Circular",
-                "description": "Estrutura de Dados Descomplicada em C aula 26",
+                "description": "Uncomplicated Data Structure in C class 26",
                 "duration": "12:33",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=A4Vz4Dcf9ww",
@@ -347,7 +347,7 @@
             },
             {
                 "title": "Aula 27 - Consulta na Lista Circular",
-                "description": "Estrutura de Dados Descomplicada em C aula 27",
+                "description": "Uncomplicated Data Structure in C class 27",
                 "duration": "4:37",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=bT2QSkNMecg",
@@ -360,7 +360,7 @@
             },
             {
                 "title": "Aula 28 - Lista com Nó Descritor",
-                "description": "Estrutura de Dados Descomplicada em C aula 28",
+                "description": "Uncomplicated Data Structure in C class 28",
                 "duration": "7:30",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=2RHRjBcTy0A",
@@ -373,7 +373,7 @@
             },
             {
                 "title": "Aula 29 - Manipulando uma Lista com Nó Descritor",
-                "description": "Estrutura de Dados Descomplicada em C aula 29",
+                "description": "Uncomplicated Data Structure in C class 29",
                 "duration": "6:06",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=N901eJajCIM",
@@ -386,7 +386,7 @@
             },
             {
                 "title": "Aula 30 - Remoção da Lista com Nó Descritor",
-                "description": "Estrutura de Dados Descomplicada em C aula 30",
+                "description": "Uncomplicated Data Structure in C class 30",
                 "duration": "6:37",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=anwUiyXDB6o",
@@ -399,7 +399,7 @@
             },
             {
                 "title": "Aula 31 - Fila: Definição",
-                "description": "Estrutura de Dados Descomplicada em C aula 31",
+                "description": "Uncomplicated Data Structure in C class 31",
                 "duration": "4:03",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=aEfOzz_KXl8",
@@ -412,7 +412,7 @@
             },
             {
                 "title": "Aula 32 - Criando e Destruindo uma Fila Estática",
-                "description": "Estrutura de Dados Descomplicada em C aula 32",
+                "description": "Uncomplicated Data Structure in C class 32",
                 "duration": "6:10",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=y93DzmBskGQ",
@@ -425,7 +425,7 @@
             },
             {
                 "title": "Aula 33 - Fila Estática: Informações",
-                "description": "Estrutura de Dados Descomplicada em C aula 33",
+                "description": "Uncomplicated Data Structure in C class 33",
                 "duration": "5:01",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=RLu9QLd_xpY",
@@ -438,7 +438,7 @@
             },
             {
                 "title": "Aula 34 - Fila Estática - Inserção e Remoção",
-                "description": "Estrutura de Dados Descomplicada em C aula 34",
+                "description": "Uncomplicated Data Structure in C class 34",
                 "duration": "9:08",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=0KXFoxSCEJE",
@@ -451,7 +451,7 @@
             },
             {
                 "title": "Aula 35 - Criando e Destruindo uma Fila Dinâmica",
-                "description": "Estrutura de Dados Descomplicada em C aula 35",
+                "description": "Uncomplicated Data Structure in C class 35",
                 "duration": "7:36",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=4YXnrKJCWrE",
@@ -464,7 +464,7 @@
             },
             {
                 "title": "Aula 36 - Informações da Fila Dinâmica",
-                "description": "Estrutura de Dados Descomplicada em C aula 36",
+                "description": "Uncomplicated Data Structure in C class 36",
                 "duration": "4:51",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=aIFK1n9Sp30",
@@ -477,7 +477,7 @@
             },
             {
                 "title": "[ED1] Aula 37 - Fila Dinâmica - Inserção e Remoção",
-                "description": "Estrutura de Dados Descomplicada em C aula 37",
+                "description": "Uncomplicated Data Structure in C class 37",
                 "duration": "8:45",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=yOjgEXbKtME",
@@ -490,7 +490,7 @@
             },
             {
                 "title": "Aula 38 - Pilha: Definição",
-                "description": "Estrutura de Dados Descomplicada em C aula 38",
+                "description": "Uncomplicated Data Structure in C class 38",
                 "duration": "3:44",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=2RCrd7gOUMM",
@@ -503,7 +503,7 @@
             },
             {
                 "title": "Aula 39 - Pilha Estática",
-                "description": "Estrutura de Dados Descomplicada em C aula 39",
+                "description": "Uncomplicated Data Structure in C class 39",
                 "duration": "5:29",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=OIQJL-K2SUI",
@@ -516,7 +516,7 @@
             },
             {
                 "title": "Aula 40 - Pilha Estática - Informações",
-                "description": "Estrutura de Dados Descomplicada em C aula 40",
+                "description": "Uncomplicated Data Structure in C class 40",
                 "duration": "4:30",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=X_-paXn4At8",
@@ -529,7 +529,7 @@
             },
             {
                 "title": "Aula 41 - Pilha Estática - Inserção e Remoção",
-                "description": "Estrutura de Dados Descomplicada em C aula 41",
+                "description": "Uncomplicated Data Structure in C class 41",
                 "duration": "6:50",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=n7fKiYoCvUo",
@@ -542,7 +542,7 @@
             },
             {
                 "title": "Aula 42 - Pilha Dinâmica - Introdução",
-                "description": "Estrutura de Dados Descomplicada em C aula 42",
+                "description": "Uncomplicated Data Structure in C class 42",
                 "duration": "6:54",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=9GGJH2sjOac",
@@ -555,7 +555,7 @@
             },
             {
                 "title": "Aula 43 - Pilha Dinâmica - Informações",
-                "description": "Estrutura de Dados Descomplicada em C aula 43",
+                "description": "Uncomplicated Data Structure in C class 43",
                 "duration": "4:42",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=RPf6DgjS3OM",
@@ -568,7 +568,7 @@
             },
             {
                 "title": "Aula 44 - Pilha Dinâmica - Inserção e Remoção",
-                "description": "Estrutura de Dados Descomplicada em C aula 44",
+                "description": "Uncomplicated Data Structure in C class 44",
                 "duration": "7:17",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=06sqFaB3gU0",
@@ -581,7 +581,7 @@
             },
             {
                 "title": "ula 45 - Busca em Vetores",
-                "description": "Estrutura de Dados Descomplicada em C aula 45",
+                "description": "Uncomplicated Data Structure in C class 45",
                 "duration": "9:55",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=ptvnLzqcJuA",
@@ -594,7 +594,7 @@
             },
             {
                 "title": "Aula 46 - Busca em Vetor de Struct",
-                "description": "Estrutura de Dados Descomplicada em C aula 46",
+                "description": "Uncomplicated Data Structure in C class 46",
                 "duration": "4:50",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=zxwCSxbntKA",
@@ -607,7 +607,7 @@
             },
             {
                 "title": "Aula 47 - Ordenação",
-                "description": "Estrutura de Dados Descomplicada em C aula 47",
+                "description": "Uncomplicated Data Structure in C class 47",
                 "duration": "4:47",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=vPHHV6iAU2E",
@@ -620,7 +620,7 @@
             },
             {
                 "title": "Aula 48 - Ordenação - BubbleSort",
-                "description": "Estrutura de Dados Descomplicada em C aula 48",
+                "description": "Uncomplicated Data Structure in C class 48",
                 "duration": "8:21",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=qU8N_bmebQ4",
@@ -633,7 +633,7 @@
             },
             {
                 "title": "Aula 49 - Ordenação - InsertionSort",
-                "description": "Estrutura de Dados Descomplicada em C aula 49",
+                "description": "Uncomplicated Data Structure in C class 49",
                 "duration": "5:35",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=79buQYoWszA",
@@ -646,7 +646,7 @@
             },
             {
                 "title": "Aula 50 - Ordenação - SelectionSort",
-                "description": "Estrutura de Dados Descomplicada em C aula 50",
+                "description": "Uncomplicated Data Structure in C class 50",
                 "duration": "4:26",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=zjcGGqskf5s",
@@ -659,7 +659,7 @@
             },
             {
                 "title": "Aula 51 - Ordenação - MergeSort",
-                "description": "Estrutura de Dados Descomplicada em C aula 51",
+                "description": "Uncomplicated Data Structure in C class 51",
                 "duration": "8:46",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=RZbg5oT5Fgw",
@@ -672,7 +672,7 @@
             },
             {
                 "title": "Aula 52 - Ordenação - QuickSort",
-                "description": "Estrutura de Dados Descomplicada em C aula 52",
+                "description": "Uncomplicated Data Structure in C class 52",
                 "duration": "8:34",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=spywQ2ix_Co",
@@ -685,7 +685,7 @@
             },
             {
                 "title": "Aula 53 - Ordenação - HeapSort",
-                "description": "Estrutura de Dados Descomplicada em C aula 53",
+                "description": "Uncomplicated Data Structure in C class 53",
                 "duration": "9:57",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=zSYOMJ1E52A",
@@ -698,7 +698,7 @@
             },
             {
                 "title": "Aula 54 - Ordenação em Vetor de Struct",
-                "description": "Estrutura de Dados Descomplicada em C aula 54",
+                "description": "Uncomplicated Data Structure in C class 54",
                 "duration": "4:23",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=LFs-sIQesVw",
@@ -711,7 +711,7 @@
             },
             {
                 "title": "Aula 55 - Ordenação - Usando a função qsort()",
-                "description": "Estrutura de Dados Descomplicada em C aula 55",
+                "description": "Uncomplicated Data Structure in C class 55",
                 "duration": "7:31",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=HtvfgqO0IM4",
@@ -724,7 +724,7 @@
             },
             {
                 "title": "Aula 56 - Grafos - Definição",
-                "description": "Estrutura de Dados Descomplicada em C aula 56",
+                "description": "Uncomplicated Data Structure in C class 56",
                 "duration": "5:28",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=gJvSmrxekDo",
@@ -737,7 +737,7 @@
             },
             {
                 "title": "Aula 57 - Grafos - Propriedades",
-                "description": "Estrutura de Dados Descomplicada em C aula 57",
+                "description": "Uncomplicated Data Structure in C class 57",
                 "duration": "7:57",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=qvSbkbUkZjo",
@@ -750,7 +750,7 @@
             },
             {
                 "title": "Aula 58 - Grafos - Tipos de Grafos - Parte 1",
-                "description": "Estrutura de Dados Descomplicada em C aula 58",
+                "description": "Uncomplicated Data Structure in C class 58",
                 "duration": "6:29",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=5saF2Dg6sIc",
@@ -763,7 +763,7 @@
             },
             {
                 "title": "Aula 59 - Grafos - Tipos de Grafos - Parte 2",
-                "description": "Estrutura de Dados Descomplicada em C aula 59",
+                "description": "Uncomplicated Data Structure in C class 59",
                 "duration": "5:45",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=LsLK04bWgy4",
@@ -775,8 +775,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 60 - Representação de Grafos (Parte 1)",
-                "description": "Estrutura de Dados Descomplicada em C aula 60",
+                "title": "Lesson 60 - Representation of Graphs (Part 1)",
+                "description": "Uncomplicated Data Structure in C class 60",
                 "duration": "5:22",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=k9DJn-COtKg",
@@ -788,8 +788,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 61 - Representação de Grafos (Parte 2)",
-                "description": "Estrutura de Dados Descomplicada em C aula 61",
+                "title": "Lesson 61 - Graph Representation (Part 2)",
+                "description": "Uncomplicated Data Structure in C class 61",
                 "duration": "12:58",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=-dAxrWDufa8",
@@ -801,8 +801,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 62 - Busca em Grafos",
-                "description": "Estrutura de Dados Descomplicada em C aula 62",
+                "title": "Lesson 62 - Search in Graphs",
+                "description": "Uncomplicated Data Structure in C class 62",
                 "duration": "4:41",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=iN6PWvga5IQ",
@@ -814,8 +814,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 63 - Grafos - Busca em Profundidade",
-                "description": "Estrutura de Dados Descomplicada em C aula 63",
+                "title": "Lesson 63 - Graphs - Search in Depth",
+                "description": "Uncomplicated Data Structure in C class 63",
                 "duration": "7:29",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=pJ3ilnhXWCQ",
@@ -827,8 +827,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 64 - Grafos - Busca em Largura",
-                "description": "Estrutura de Dados Descomplicada em C aula 64",
+                "title": "Lesson 64 - Graphs - Search in Width",
+                "description": "Uncomplicated Data Structure in C class 64",
                 "duration": "6:24",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=jWoP1fTTDzE",
@@ -840,8 +840,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 65 - Grafos - Busca pelo Menor Caminho",
-                "description": "Estrutura de Dados Descomplicada em C aula 65",
+                "title": "Lesson 65 - Graphs - Search Least Path",
+                "description": "Uncomplicated Data Structure in C class 65",
                 "duration": "12:54",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=5y8dch2uHR4",
@@ -853,8 +853,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 66 - Ordenação externa",
-                "description": "Estrutura de Dados Descomplicada em C aula 66",
+                "title": "Lesson 66 - External Ranking",
+                "description": "Uncomplicated Data Structure in C class 66",
                 "duration": "14:32",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=sVGbj1zgvWQ",
@@ -866,8 +866,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 67 - Árvores",
-                "description": "Estrutura de Dados Descomplicada em C aula 67",
+                "title": "Lesson 67 - Trees",
+                "description": "Uncomplicated Data Structure in C class 67",
                 "duration": "5:26",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=iLvpaqAoVD8",
@@ -879,8 +879,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 68 - Árvores - Propriedades",
-                "description": "Estrutura de Dados Descomplicada em C aula 68",
+                "title": "Lesson 68 - Trees - Properties",
+                "description": "Uncomplicated Data Structure in C class 68",
                 "duration": "4:30",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=U7IiLJlMfnU",
@@ -892,8 +892,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 69 - Árvore Binária: Definição",
-                "description": "Estrutura de Dados Descomplicada em C aula 69",
+                "title": "Lesson 69 - Binary Tree: Definition",
+                "description": "Uncomplicated Data Structure in C class 69",
                 "duration": "3:21",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=9WxCeWX9qDs",
@@ -905,8 +905,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 70 - Árvore Binária: Implementação",
-                "description": "Estrutura de Dados Descomplicada em C aula 70",
+                "title": "Lesson 70 - Binary Tree: Implementation",
+                "description": "Uncomplicated Data Structure in C class 70",
                 "duration": "5:30",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=TR8ZLUKmcPc",
@@ -918,8 +918,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 71 - Criando e destruindo uma árvore binária",
-                "description": "Estrutura de Dados Descomplicada em C aula 71",
+                "title": "Lesson 71 - Creating and Destroying a binary tree",
+                "description": "Uncomplicated Data Structure in C class 71",
                 "duration": "5:24",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=QAJkoJW8bEc",
@@ -931,8 +931,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 72 - Árvore Binária: informações básicas",
-                "description": "Estrutura de Dados Descomplicada em C aula 72",
+                "title": "Lesson 72 - Binary Tree: basic information",
+                "description": "Uncomplicated Data Structure in C class 72",
                 "duration": "7:27",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=qVnNdmx4fOA",
@@ -944,8 +944,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 73 - Percorrendo uma Árvore Binária",
-                "description": "Estrutura de Dados Descomplicada em C aula 73",
+                "title": "Lesson 73 - Winding through an Binary Tree",
+                "description": "Uncomplicated Data Structure in C class 73",
                 "duration": "8:53",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=z7XwVVYQRAA",
@@ -957,8 +957,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 74 - Árvore Binária de Busca",
-                "description": "Estrutura de Dados Descomplicada em C aula 74",
+                "title": "Lesson 74 - Binary Tree Search",
+                "description": "Uncomplicated Data Structure in C class 74",
                 "duration": "4:47",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=M7cb4HjePJk",
@@ -970,8 +970,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 75 - Inserção em Árvore Binária de Busca",
-                "description": "Estrutura de Dados Descomplicada em C aula 75",
+                "title": "Lesson 75 - Insertion in Binary Tree Search",
+                "description": "Uncomplicated Data Structure in C class 75",
                 "duration": "8:27",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=8cdbmsPaR-k",
@@ -983,8 +983,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 76 - Remoção em Árvore Binária de Busca",
-                "description": "Estrutura de Dados Descomplicada em C aula 76",
+                "title": "Lesson 76 - Removal in Binary Tree Search",
+                "description": "Uncomplicated Data Structure in C class 76",
                 "duration": "10:21",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=_0Yu9BSYXGY",
@@ -996,8 +996,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 77 - Consulta em Árvore Binária de Busca",
-                "description": "Estrutura de Dados Descomplicada em C aula 77",
+                "title": "Lesson 77 - Consultation on Binary Tree Search",
+                "description": "Uncomplicated Data Structure in C class 77",
                 "duration": "3:50",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=mw_wqqB48yY",
@@ -1009,8 +1009,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 78 - Árvores Balanceadas",
-                "description": "Estrutura de Dados Descomplicada em C aula 78",
+                "title": "Lesson 78 - Balanced Trees",
+                "description": "Uncomplicated Data Structure in C class 78",
                 "duration": "3:29",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=Au-6c55J90c",
@@ -1022,8 +1022,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 79 - Árvore AVL: Definição",
-                "description": "Estrutura de Dados Descomplicada em C aula 79",
+                "title": "Lesson 79 - AVL tree: Definitiono",
+                "description": "Uncomplicated Data Structure in C class 79",
                 "duration": "4:46",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=4eO3UbTiRyo",
@@ -1035,8 +1035,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 80 - Árvore AVL: Implementação",
-                "description": "Estrutura de Dados Descomplicada em C aula 80",
+                "title": "Lesson 81 - AVL tree: Rotation Types",
+                "description": "Uncomplicated Data Structure in C class 80",
                 "duration": "5:03",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=I5cl39jdnow",
@@ -1049,7 +1049,7 @@
             },
             {
                 "title": "Aula 81 - Árvore AVL: Tipos de Rotação",
-                "description": "Estrutura de Dados Descomplicada em C aula 81",
+                "description": "Uncomplicated Data Structure in C class 81",
                 "duration": "8:04",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=1HkWqH7L2rU",
@@ -1061,8 +1061,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 82 - Árvore AVL: Implementando as Rotações",
-                "description": "Estrutura de Dados Descomplicada em C aula 82",
+                "title": "Lesson 82 - AVL tree: Implementing Rotations",
+                "description": "Uncomplicated Data Structure in C class 82",
                 "duration": "9:21",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=6OJ8stXwdq0",
@@ -1074,8 +1074,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 83 - Árvore AVL: Inserção",
-                "description": "Estrutura de Dados Descomplicada em C aula 83",
+                "title": "Lesson 83 - AVL tree: Insertion",
+                "description": "Uncomplicated Data Structure in C class 83",
                 "duration": "10:38",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=lQsVUxa3Auk",
@@ -1087,8 +1087,8 @@
                 "publish": true
             },
             {
-                "title": "Aula 84 - Árvore AVL: Remoção",
-                "description": "Estrutura de Dados Descomplicada em C aula 84",
+                "title": "Lesson 84 - AVL tree: Removal",
+                "description": "Uncomplicated Data Structure in C class 84",
                 "duration": "9:12",
                 "level": "b",
                 "url": "https://www.youtube.com/watch?v=F7_Daymw-WM",
