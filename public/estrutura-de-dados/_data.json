@@ -8,7 +8,7 @@
         "description": "Watch screencasts over a list with the best free videos about Data structures.",
         "videos": [
             {
-                "title": "Aula ED 01 - TAD (Tipo Abstrato de Dado)",
+                "title": "Lesson ED 01 - TAD (Tipo Abstrato de Dado)",
                 "description": "Uncomplicated Data Structure in C class 1",
                 "duration": "4:41",
                 "level": "b",
@@ -21,7 +21,7 @@
                 "publish": true
             },
             {
-                "title": "Aula ED 02 - Modularização e TAD",
+                "title": "Lesson ED 02 - Modularização e TAD",
                 "description": "Uncomplicated Data Structure in C class 2",
                 "duration": "10:06",
                 "level": "b",
@@ -47,7 +47,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 04 - Listas pt.2 - Lista Estatica Sequencial - Programacao Descomplicada",
+                "title": "Lesson 04 - Listas pt.2 - Lista Estatica Sequencial - Programacao Descomplicada",
                 "description": "Uncomplicated Data Structure in C class 4",
                 "duration": "5:07",
                 "level": "b",
@@ -60,7 +60,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 05 - Listas pt.3 - Implementando Lista Estática",
+                "title": "Lesson 05 - Listas pt.3 - Implementando Lista Estática",
                 "description": "Uncomplicated Data Structure in C class 5",
                 "duration": "6:35",
                 "level": "b",
@@ -73,7 +73,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 06 - Listas pt.4 - Informações da Lista Estática",
+                "title": "Lesson 06 - Listas pt.4 - Informações da Lista Estática",
                 "description": "Uncomplicated Data Structure in C class 6",
                 "duration": "4:57",
                 "level": "b",
@@ -86,7 +86,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 07 - Inserção na Lista Estática",
+                "title": "Lesson 07 - Inserção na Lista Estática",
                 "description": "Uncomplicated Data Structure in C class 7",
                 "duration": "9:39",
                 "level": "b",
@@ -99,7 +99,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 08 - Remoção na Lista Estática",
+                "title": "Lesson 08 - Remoção na Lista Estática",
                 "description": "Uncomplicated Data Structure in C class 8",
                 "duration": "10:00",
                 "level": "b",
@@ -112,7 +112,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 09 - Listas pt.7 -  Consulta na Lista Estática",
+                "title": "Lesson 09 - Listas pt.7 -  Consulta na Lista Estática",
                 "description": "Uncomplicated Data Structure in C class 9",
                 "duration": "5:22",
                 "level": "b",
@@ -125,7 +125,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 10 - Lista Dinamica Encadeada pt.1 - Definicao",
+                "title": "Lesson 10 - Lista Dinamica Encadeada pt.1 - Definicao",
                 "description": "Uncomplicated Data Structure in C class 10",
                 "duration": "6:19",
                 "level": "b",
@@ -138,7 +138,7 @@
                 "publish": true
             },
             {
-                "title": "ula 11 - Lista Dinâmica Encadeada pt.2 - Implementação",
+                "title": "ula 11 - Lista Dynamics Encadeada pt.2 - Implementação",
                 "description": "Uncomplicated Data Structure in C class 11",
                 "duration": "6:51",
                 "level": "b",
@@ -151,7 +151,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 12 - Lista Dinâmica Encadeada pt.3 - Informações",
+                "title": "Lesson 12 - Lista Dynamics Encadeada pt.3 - Informações",
                 "description": "Uncomplicated Data Structure in C class 12",
                 "duration": "4:20",
                 "level": "b",
@@ -164,7 +164,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 13 - ED1 - Inserção na Lista Dinâmica",
+                "title": "Lesson 13 - ED1 - Inserção na Lista Dynamics",
                 "description": "Uncomplicated Data Structure in C class 13",
                 "duration": "11:30",
                 "level": "b",
@@ -177,7 +177,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 14 - ED1 - Remoção na Lista Dinâmica",
+                "title": "Lesson 14 - ED1 - Remoção na Lista Dynamics",
                 "description": "Uncomplicated Data Structure in C class 14",
                 "duration": "11:04",
                 "level": "b",
@@ -190,7 +190,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 15 - Lista Dinâmica Encadeada pt.6 - Consulta",
+                "title": "Lesson 15 - Lista Dynamics Encadeada pt.6 - Consulta",
                 "description": "Uncomplicated Data Structure in C class 15",
                 "duration": "5:47",
                 "level": "b",
@@ -203,7 +203,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 16 - Lista Dinâmica Duplamente Encadeada pt.1 - Definição",
+                "title": "Lesson 16 - Lista Dynamics Duplamente Encadeada pt.1 - Definição",
                 "description": "Uncomplicated Data Structure in C class 16",
                 "duration": "4:05",
                 "level": "b",
@@ -216,7 +216,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 17 - Implementando Lista Dinâmica Dupla Encadeada",
+                "title": "Lesson 17 - Implementando Lista Dynamics Dupla Encadeada",
                 "description": "Uncomplicated Data Structure in C class 17",
                 "duration": "6:09",
                 "level": "b",
@@ -229,7 +229,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 18 - Lista Dinâmica Duplamente Encadeada pt.3 - Informações",
+                "title": "Lesson 18 - Lista Dynamics Duplamente Encadeada pt.3 - Informações",
                 "description": "Uncomplicated Data Structure in C class 18",
                 "duration": "4:51",
                 "level": "b",
@@ -242,7 +242,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 19 - Inserção na Lista Duplamente Encadeadas",
+                "title": "Lesson 19 - Inserção na Lista Duplamente Encadeadas",
                 "description": "Uncomplicated Data Structure in C class 19",
                 "duration": "12:17",
                 "level": "b",
@@ -255,7 +255,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 20 - Remoção na Lista Duplamente Encadeadas",
+                "title": "Lesson 20 - Remoção na Lista Duplamente Encadeadas",
                 "description": "Uncomplicated Data Structure in C class 20",
                 "duration": "10:43",
                 "level": "b",
@@ -268,7 +268,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 21 - Consulta na Lista Duplamente Encadeada",
+                "title": "Lesson 21 - Consulta na Lista Duplamente Encadeada",
                 "description": "Uncomplicated Data Structure in C class 21",
                 "duration": "4:52",
                 "level": "b",
@@ -281,7 +281,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 22 - ED1 - Listas Circulares",
+                "title": "Lesson 22 - ED1 - Listas Circulares",
                 "description": "Uncomplicated Data Structure in C class 22",
                 "duration": "3:51",
                 "level": "b",
@@ -294,7 +294,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 23 - Implementando Lista Circular",
+                "title": "Lesson 23 - Implementando Lista Circular",
                 "description": "Uncomplicated Data Structure in C class 23",
                 "duration": "6:56",
                 "level": "b",
@@ -307,7 +307,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 24 - Lista Circular - Informações",
+                "title": "Lesson 24 - Lista Circular - Informações",
                 "description": "Uncomplicated Data Structure in C class 24",
                 "duration": "5:05",
                 "level": "b",
@@ -320,7 +320,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 25 - Inserção em Lista Circular",
+                "title": "Lesson 25 - Inserção em Lista Circular",
                 "description": "Uncomplicated Data Structure in C class 25",
                 "duration": "12:56",
                 "level": "b",
@@ -333,7 +333,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 26 - Remoção na Lista Circular",
+                "title": "Lesson 26 - Remoção na Lista Circular",
                 "description": "Uncomplicated Data Structure in C class 26",
                 "duration": "12:33",
                 "level": "b",
@@ -346,7 +346,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 27 - Consulta na Lista Circular",
+                "title": "Lesson 27 - Consulta na Lista Circular",
                 "description": "Uncomplicated Data Structure in C class 27",
                 "duration": "4:37",
                 "level": "b",
@@ -359,7 +359,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 28 - Lista com Nó Descritor",
+                "title": "Lesson 28 - Lista com Nó Descritor",
                 "description": "Uncomplicated Data Structure in C class 28",
                 "duration": "7:30",
                 "level": "b",
@@ -372,7 +372,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 29 - Manipulando uma Lista com Nó Descritor",
+                "title": "Lesson 29 - Manipulando uma Lista com Nó Descritor",
                 "description": "Uncomplicated Data Structure in C class 29",
                 "duration": "6:06",
                 "level": "b",
@@ -385,7 +385,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 30 - Remoção da Lista com Nó Descritor",
+                "title": "Lesson 30 - Removing the list with Node Descriptor",
                 "description": "Uncomplicated Data Structure in C class 30",
                 "duration": "6:37",
                 "level": "b",
@@ -398,7 +398,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 31 - Fila: Definição",
+                "title": "Lesson 31 -Queue: Definition",
                 "description": "Uncomplicated Data Structure in C class 31",
                 "duration": "4:03",
                 "level": "b",
@@ -411,7 +411,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 32 - Criando e Destruindo uma Fila Estática",
+                "title": "Lesson 32 - Creating and Destroying a Queue Static",
                 "description": "Uncomplicated Data Structure in C class 32",
                 "duration": "6:10",
                 "level": "b",
@@ -424,7 +424,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 33 - Fila Estática: Informações",
+                "title": "Lesson 33 - Queue Static: Information",
                 "description": "Uncomplicated Data Structure in C class 33",
                 "duration": "5:01",
                 "level": "b",
@@ -437,7 +437,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 34 - Fila Estática - Inserção e Remoção",
+                "title": "Lesson 34 - Queue Static - Insertion and Removal",
                 "description": "Uncomplicated Data Structure in C class 34",
                 "duration": "9:08",
                 "level": "b",
@@ -450,7 +450,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 35 - Criando e Destruindo uma Fila Dinâmica",
+                "title": "Lesson 35 - Creating and Destroying a Queue Dynamics",
                 "description": "Uncomplicated Data Structure in C class 35",
                 "duration": "7:36",
                 "level": "b",
@@ -463,7 +463,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 36 - Informações da Fila Dinâmica",
+                "title": "Lesson 36 - Dynamics Queue Information",
                 "description": "Uncomplicated Data Structure in C class 36",
                 "duration": "4:51",
                 "level": "b",
@@ -476,7 +476,7 @@
                 "publish": true
             },
             {
-                "title": "[ED1] Aula 37 - Fila Dinâmica - Inserção e Remoção",
+                "title": "[ED1] Lesson 37 - Queue Dynamics - Insertion and Removalo",
                 "description": "Uncomplicated Data Structure in C class 37",
                 "duration": "8:45",
                 "level": "b",
@@ -489,7 +489,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 38 - Pilha: Definição",
+                "title": "Lesson 38 - Stack: definition",
                 "description": "Uncomplicated Data Structure in C class 38",
                 "duration": "3:44",
                 "level": "b",
@@ -502,7 +502,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 39 - Pilha Estática",
+                "title": "Lesson 39 - Stack Static",
                 "description": "Uncomplicated Data Structure in C class 39",
                 "duration": "5:29",
                 "level": "b",
@@ -515,7 +515,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 40 - Pilha Estática - Informações",
+                "title": "Lesson 40 - Stack Static - information",
                 "description": "Uncomplicated Data Structure in C class 40",
                 "duration": "4:30",
                 "level": "b",
@@ -528,7 +528,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 41 - Pilha Estática - Inserção e Remoção",
+                "title": "Lesson 41 - Stack Static - Insertion and Removal",
                 "description": "Uncomplicated Data Structure in C class 41",
                 "duration": "6:50",
                 "level": "b",
@@ -541,7 +541,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 42 - Pilha Dinâmica - Introdução",
+                "title": "Lesson 42 - Stack Dynamics - introduction",
                 "description": "Uncomplicated Data Structure in C class 42",
                 "duration": "6:54",
                 "level": "b",
@@ -554,7 +554,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 43 - Pilha Dinâmica - Informações",
+                "title": "Lesson 43 - Stack Dynamics - information",
                 "description": "Uncomplicated Data Structure in C class 43",
                 "duration": "4:42",
                 "level": "b",
@@ -567,7 +567,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 44 - Pilha Dinâmica - Inserção e Remoção",
+                "title": "Lesson 44 - Stack Dynamics - Insertion and Removal",
                 "description": "Uncomplicated Data Structure in C class 44",
                 "duration": "7:17",
                 "level": "b",
@@ -580,7 +580,7 @@
                 "publish": true
             },
             {
-                "title": "ula 45 - Busca em Vetores",
+                "title": "ula 45 - Search in Vector",
                 "description": "Uncomplicated Data Structure in C class 45",
                 "duration": "9:55",
                 "level": "b",
@@ -593,7 +593,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 46 - Busca em Vetor de Struct",
+                "title": "Lesson 46 - Search in Struct Vector",
                 "description": "Uncomplicated Data Structure in C class 46",
                 "duration": "4:50",
                 "level": "b",
@@ -606,7 +606,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 47 - Ordenação",
+                "title": "Lesson 47 - Ordering",
                 "description": "Uncomplicated Data Structure in C class 47",
                 "duration": "4:47",
                 "level": "b",
@@ -619,7 +619,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 48 - Ordenação - BubbleSort",
+                "title": "Lesson 48 - Ordering - BubbleSort",
                 "description": "Uncomplicated Data Structure in C class 48",
                 "duration": "8:21",
                 "level": "b",
@@ -632,7 +632,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 49 - Ordenação - InsertionSort",
+                "title": "Lesson 49 - Ordering - InsertionSort",
                 "description": "Uncomplicated Data Structure in C class 49",
                 "duration": "5:35",
                 "level": "b",
@@ -645,7 +645,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 50 - Ordenação - SelectionSort",
+                "title": "Lesson 50 - Ordering - Selection Sort",
                 "description": "Uncomplicated Data Structure in C class 50",
                 "duration": "4:26",
                 "level": "b",
@@ -658,7 +658,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 51 - Ordenação - MergeSort",
+                "title": "Lesson 51 - Ordering - mergesort",
                 "description": "Uncomplicated Data Structure in C class 51",
                 "duration": "8:46",
                 "level": "b",
@@ -671,7 +671,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 52 - Ordenação - QuickSort",
+                "title": "Lesson 52 - Ordering - QuickSort",
                 "description": "Uncomplicated Data Structure in C class 52",
                 "duration": "8:34",
                 "level": "b",
@@ -684,7 +684,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 53 - Ordenação - HeapSort",
+                "title": "Lesson 53 - Ordering - heapsort",
                 "description": "Uncomplicated Data Structure in C class 53",
                 "duration": "9:57",
                 "level": "b",
@@ -697,7 +697,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 54 - Ordenação em Vetor de Struct",
+                "title": "Lesson 54 - Ordering in Struct Vector",
                 "description": "Uncomplicated Data Structure in C class 54",
                 "duration": "4:23",
                 "level": "b",
@@ -710,7 +710,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 55 - Ordenação - Usando a função qsort()",
+                "title": "Lesson 55 - Ordering - Using qsort () function",
                 "description": "Uncomplicated Data Structure in C class 55",
                 "duration": "7:31",
                 "level": "b",
@@ -723,7 +723,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 56 - Grafos - Definição",
+                "title": "Lesson 56 - Graphs - Definition",
                 "description": "Uncomplicated Data Structure in C class 56",
                 "duration": "5:28",
                 "level": "b",
@@ -736,7 +736,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 57 - Grafos - Propriedades",
+                "title": "Lesson 57 - Graphs - Properties",
                 "description": "Uncomplicated Data Structure in C class 57",
                 "duration": "7:57",
                 "level": "b",
@@ -749,7 +749,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 58 - Grafos - Tipos de Grafos - Parte 1",
+                "title": "Lesson 58 - Graphs - types of graphs - Part 1",
                 "description": "Uncomplicated Data Structure in C class 58",
                 "duration": "6:29",
                 "level": "b",
@@ -762,7 +762,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 59 - Grafos - Tipos de Grafos - Parte 2",
+                "title": "Lesson 59 - Graphs - types of graphs - Part 2",
                 "description": "Uncomplicated Data Structure in C class 59",
                 "duration": "5:45",
                 "level": "b",
@@ -1048,7 +1048,7 @@
                 "publish": true
             },
             {
-                "title": "Aula 81 - Árvore AVL: Tipos de Rotação",
+                "title": "Lesson 81 - Árvore AVL: Tipos de Rotação",
                 "description": "Uncomplicated Data Structure in C class 81",
                 "duration": "8:04",
                 "level": "b",
