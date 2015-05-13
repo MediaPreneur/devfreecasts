@@ -8,6 +8,19 @@
     "description": "Watch screencasts over a list with the best free videos about Meteor web framework.",
     "videos": [
       {
+        "title": "Customizing Login with Meteor OAuth",
+        "url": "https://www.eventedmind.com/feed/customizing-login-with-meteor-oauth-c0ef2966",
+        "description": "Meteor has packages for multiple OAuth providers including Facebook, Github and several others. Meteor also provides their own OAuth service called Meteor Developer Accounts. In this video you'll integrate with Meteor Developer Accounts and customize the UI.",
+        "duration": "14:06",
+        "level": "a",
+        "lang": "en",
+        "site": "EventedMind",
+        "site_url": "https://www.eventedmind.com",
+        "image": "eventedmind.jpg",
+        "publish": true,
+        "published_at": "20150513"
+      },
+      {
         "url": "https://www.youtube.com/watch?v=9EsDHeI327s",
         "level": "b",
         "title": "Installing Meteor and creating a project",
