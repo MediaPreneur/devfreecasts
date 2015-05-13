@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-04-23T13:07:24.935Z
+# rev 1 - 2015-05-13T00:29:40.276Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -58,6 +58,7 @@ http://devfreecasts.org/assets/images/grunt.jpg
 http://devfreecasts.org/assets/images/gulp.jpg
 http://devfreecasts.org/assets/images/hakka-labs.jpg
 http://devfreecasts.org/assets/images/haskell.jpg
+http://devfreecasts.org/assets/images/html.jpg
 http://devfreecasts.org/assets/images/ios.jpg
 http://devfreecasts.org/assets/images/java.jpg
 http://devfreecasts.org/assets/images/javascript.jpg
@@ -120,6 +121,7 @@ http://devfreecasts.org/grails/index.html
 http://devfreecasts.org/grunt/index.html
 http://devfreecasts.org/gulp/index.html
 http://devfreecasts.org/haskell/index.html
+http://devfreecasts.org/html/index.html
 http://devfreecasts.org/index.html
 http://devfreecasts.org/ios/index.html
 http://devfreecasts.org/java/index.html
