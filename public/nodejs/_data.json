@@ -814,6 +814,32 @@
         "level": "b",
         "url": "https://vimeo.com/85799484",
         "published_at": "20130204"
+      },
+      {
+        "title": "Node.js / io.js Stream Primer",
+        "description": "Get primed on Node.js / io.js Readable, Writable, and Transform Streams",
+        "duration": "11:05",
+        "site" : "LetsWriteCode",
+        "site_url": "https://www.youtube.com/user/kylerobinsonyoung",
+        "lang": "EN",
+        "publish": true,
+        "level": "b",
+        "url": "https://www.youtube.com/watch?v=yOSNQZm3Trw",
+        "image": "letswritecode-node-streams.png",
+        "published_at": "20150522"
+      },
+      {
+        "title": "Creating Desktop Apps with Electron",
+        "description": "Learn how to start creating cross platform desktop applications using Electron: http://electron.atom.io/",
+        "duration": "9:06",
+        "site" : "LetsWriteCode",
+        "site_url": "https://www.youtube.com/user/kylerobinsonyoung",
+        "lang": "EN",
+        "publish": true,
+        "level": "b",
+        "url": "https://youtu.be/ojX5yz35v4M",
+        "image": "letswritecode-create-electron.png",
+        "published_at": "20150429"
       }
     ]
   }
