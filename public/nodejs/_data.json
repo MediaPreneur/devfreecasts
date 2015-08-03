@@ -8,6 +8,19 @@
     "description": "Watch screencasts over a list with the best free videos about server-side developing with Node.js.",
     "videos": [
       {
+        "title": "Classes about node.js, basic to hero",
+        "description": "Learn how to work with node.js, it main patterns, buinding servers like http-server, tcp-serve and much more.",
+        "duration": "~",
+        "site" : "CaioCutrimVideos",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+        "lang": "PT-BR",
+        "publish": true,
+        "level": "b ~ a",
+        "url": "https://www.youtube.com/playlist?list=PLaZc7cC45NlNYMwfJhuLLIhLN20nMhxXx",
+        "image": "nodecaiocutrimclass.png",
+        "published_at": "20150803"
+      },
+      {
         "title": "Tools, Tips and Tricks - Episode 1",
         "url": "http://nodetuts.com/series/tools-tips-tricks/tools-tips-tricks-01.html",
         "description": "Installing and using different versions of Node.js and IO.js in your development environment using NVM.",
