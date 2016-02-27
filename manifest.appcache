@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-11-05T23:02:27.728Z
+# rev 1 - 2016-02-27T15:28:22.531Z
 
 CACHE:
 http://devfreecasts.org/404.html
@@ -22,6 +22,7 @@ http://devfreecasts.org/assets/images/android.jpg
 http://devfreecasts.org/assets/images/angularjs.jpg
 http://devfreecasts.org/assets/images/backbone.jpg
 http://devfreecasts.org/assets/images/backbonerails.jpg
+http://devfreecasts.org/assets/images/building-apis-with-nodejs.jpg
 http://devfreecasts.org/assets/images/c_cpp.jpg
 http://devfreecasts.org/assets/images/chrome-devtools.jpg
 http://devfreecasts.org/assets/images/coderstv.jpg
