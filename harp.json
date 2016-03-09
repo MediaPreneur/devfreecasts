@@ -16,12 +16,7 @@
     "devfreebooks": {
       "title": "DevFreeBooks",
       "about": "A huge collection of free books for developers",
-      "url": "http://devfreebooks.org?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
-    },
-    "devgroups": {
-      "title": "DevGroups",
-      "about": "A huge list of developer groups around the world",
-      "url": "http://devgroups.org?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
+      "url": "https://devfreebooks.org?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
     },
     "utm": "utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts",
     "platforms": ["nodejs", "meteor", "angularjs",
