@@ -11,7 +11,7 @@
     },
     "root_url": {
       "development": "http://localhost:3000/",
-      "production": "http://devfreecasts.org/"
+      "production": "https://devfreecasts.org/"
     },
     "devfreebooks": {
       "title": "DevFreeBooks",
@@ -33,7 +33,7 @@
                   "vim", "chrome-devtools", "git",
                   "famous", "playframework", "haskell",
                   "polymer","django", "csharp",
-                  "emberjs", "gulp", "css" , 
+                  "emberjs", "gulp", "css" ,
                   "c_cpp", "html"]
   }
 }
